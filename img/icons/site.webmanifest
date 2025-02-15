@@ -1,19 +1,21 @@
 {
-    "name": "SotM 2024 \u2013 Nairobi, Kenya",
-    "short_name": "SotM 2024 \u2013 Nairobi, Kenya",
-    "icons": [
-        {
-            "src": "/img/icons/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/img/icons/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#3cb9f7",
-    "background_color": "#3cb9f7",
-    "display": "standalone"
+  "name": "State of the Map 2025 – Manila, Philippines",
+  "short_name": "SotM 2025",
+  "icons": [
+    {
+      "src": "/img/icons/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/img/icons/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffc700",
+  "background_color": "#e5e5e5",
+  "display": "standalone"
 }

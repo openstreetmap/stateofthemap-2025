@@ -1,17 +1,20 @@
 <div id="map" style="height:420px; width:100%"></div>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var map = L.map('map').setView([-1.27903, 36.81649], {{ include.zoom }});
+    var map = L.map('map').setView([14.656760, 121.067045], {{ include.zoom }});
     L.control.scale().addTo(map);
     L.tileLayer('{{ site.map_tiles.url}}', {
       attribution: '{{ site.map_tiles.attribution }}',
       maxZoom: {{ site.map_tiles.maxZoom}}
     }).addTo(map);
     map.scrollWheelZoom.disable();
-    L.marker([-1.27903550863266, 36.81655079126358], {icon: L.icon({
-      iconUrl: "{{ "/img/logo/sotm_2024-pin.svg" | prepend: site.baseurl }}",
-      iconSize: [60, 60],
-      iconAnchor: [30, 60]
-    })}).bindPopup("<h3>University of Nairobi Towers</h3><p>Conference Venue.<br><a href='https://osm.org/go/l9wM~Burm?m' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
+    L.circleMarker([14.656760, 121.067045], {
+      radius: 33,
+      weight: 3.5,
+      color: "#ffc700",
+      fillColor: "#f92329",
+      fillOpacity: 0.0,
+      className: 'map-marker'
+    }).bindPopup("<h3>Conference Venue</h3><p>UP Film Institute (UPFI) Cine Adarna.<br><a href='https://www.openstreetmap.org/way/149993740' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
   }, false);
 </script>

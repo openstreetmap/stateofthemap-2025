@@ -27,6 +27,25 @@ h6 {
     letter-spacing: 1px;
 }
 
+h1 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #ffc700;
+  text-shadow: 2px 2px #f92329;
+  font-variant: small-caps;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 900;
+  color: #ffc700;
+  text-shadow: 2px 2px #f92329;
+}
+
+path.map-marker {
+  filter: drop-shadow(2px 2px 0px #f92329);
+}
+
 .prose h2 {
   padding-top: 80px;
   margin-top: -40px;
@@ -179,7 +198,7 @@ footer a:focus,
     }
 
     .navbar-custom.top-nav-collapse {
-        background-color: {{ site.color.primary-dark }};
+        background-color: {{ site.color.primary-light }};
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
@@ -213,7 +232,7 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(./img/nairobi.jpg);
+    background-image: url(https://as1.ftcdn.net/jpg/02/85/15/08/1000_F_285150861_aut7LaFPqw3jFLEpQTqFIOWfYFQx565V.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -223,11 +242,12 @@ footer a:focus,
     background-position-y: center;
     background-position-x: right;
 }
-@supports (background-image: url(./img/nairobi.webp)) {
+/*
+@supports (background-image: url(./img/manila.webp)) {
   .intro {
-    background-image: url(./img/nairobi.webp);
+    background-image: url(./img/manila.webp);
   }
-}
+}*/
 
 .intro .intro-body {
     display: table-cell;
@@ -240,14 +260,20 @@ footer a:focus,
     display: inline-block;
     width: auto;
     margin-top: 50px;
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(255, 255, 255, 0.7);
     padding: 40px;
     border-radius: 0;
 }
 
 .intro .intro-body .logo > img {
-    width: 200px;
+    width: 300px;
     display: block;
+}
+
+.intro .intro-body .logo > h1 {
+    max-width: 300px;
+    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .intro .intro-body .attending {
