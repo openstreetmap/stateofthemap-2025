@@ -232,7 +232,7 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(https://as1.ftcdn.net/jpg/02/85/15/08/1000_F_285150861_aut7LaFPqw3jFLEpQTqFIOWfYFQx565V.jpg);
+    background-image: url(./img/manila.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -242,12 +242,12 @@ footer a:focus,
     background-position-y: center;
     background-position-x: right;
 }
-/*
+
 @supports (background-image: url(./img/manila.webp)) {
   .intro {
     background-image: url(./img/manila.webp);
   }
-}*/
+}
 
 .intro .intro-body {
     display: table-cell;
