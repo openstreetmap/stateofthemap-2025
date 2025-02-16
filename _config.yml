@@ -13,7 +13,7 @@ markdown: kramdown
 color:
   primary-dark: '#e5e5e5' # main: blue
   primary-light: '#2464aa' # secondary: yellow
-  background-light: '#446'
+  background-light: '#e5e5e5'
   links: '#fff'
   links-light: '#fff'
   links-white: '#2464aa'

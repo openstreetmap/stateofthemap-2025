@@ -190,11 +190,11 @@ footer a:focus,
 
     .top-nav-collapse, .stay-collapsed {
         padding: 0;
-        background-color: {{ site.color.primary-dark }};
+        background-color: {{ site.color.primary-light }};
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
-        border-bottom: 0.5px solid {{ site.color.primary-light }};
+        border-bottom: 0.5px solid {{ site.color.links }};
     }
 
     .navbar-custom.top-nav-collapse {
