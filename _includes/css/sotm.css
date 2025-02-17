@@ -336,6 +336,9 @@ header.intro .credits {
         background-position-x: right 20%;
         height: 420px
     }
+    header.intro h1 {
+      display: none;
+    }
     header.intro .credits {
         position: absolute;
     }
@@ -347,6 +350,11 @@ header.intro .credits {
     }
     header.intro .logo a.btn {
         visibility: hidden;
+    }
+
+    .youtube-teaser {
+      width: 100%;
+      height: auto;
     }
 }
 
@@ -366,6 +374,11 @@ header.intro .credits {
     }
     .intro .intro-body .attending img {
         float: right;
+    }
+
+    .youtube-teaser {
+      width: 560px;
+      height: 315px;
     }
 }
 
