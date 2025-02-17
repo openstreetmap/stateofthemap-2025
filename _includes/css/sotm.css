@@ -103,12 +103,6 @@ div.affix {
 }
 
 
-@media(max-width:767px) {
-    .navbar, .navbar a, .navbar a:hover {
-        color: {{ site.color.links }};
-    }
-}
-
 nav a, .nav a {
     text-decoration: none;
     font-weight: 500;
@@ -146,6 +140,12 @@ footer a:focus,
     border-bottom: 0.5px solid {{ site.color.primary-light }};
     background-color: {{ site.color.primary-dark }};
     font-weight: 500;
+}
+
+@media(max-width:766px) {
+  .navbar-custom {
+      background-color: {{ site.color.primary-light }};
+  }
 }
 
 .navbar-custom .navbar-brand {
