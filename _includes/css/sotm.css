@@ -966,6 +966,10 @@ p img.bio-pic {
   border-color: #C7C7F9;
 }
 
+.trackicon#track-education:before {
+  border-color: #FF9EB1;
+}
+
 .trackicon#track-academic:before {
   border-color: #dddddd;
 }
