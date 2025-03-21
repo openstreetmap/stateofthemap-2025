@@ -206,7 +206,7 @@ footer a:focus,
     }
 
     .navbar a, .navbar a:hover {
-        /*filter: drop-shadow(0 0 0.8px black);*/
+        filter: drop-shadow(0 0 0.8px black);
     }
 
     a.navbar-brand {
