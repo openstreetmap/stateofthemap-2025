@@ -42,6 +42,10 @@ h2 {
   text-shadow: 2px 2px #f92329;
 }
 
+h3 {
+  font-size: 18px;
+}
+
 path.map-marker {
   filter: drop-shadow(2px 2px 0px #f92329);
 }
@@ -896,11 +900,11 @@ nav .navbar-brand {
 
 
 p img.bio-pic {
-  width: 120px;
-  float: left;
+  width: 160px;
+  float: right;
   clear: right;
-  margin-right: 1em;
-  margin-bottom: 0.2em;
+  margin-left: 1.5em;
+  margin-bottom: 0.6em;
   margin-top: 0.3em;
 }
 
