@@ -26,8 +26,7 @@ There will be five (5) different sizes of travel grants available:
 | Category | Grant Size | Likely Used For | Expected number of winners |
 | -------- | ---------- | --------------- | --------------- |
 |        A | £ 20       | Applicants from the Manila metro area | 5 |
-|        B | £ 215      | Applicants from Philippines and [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia ) (Cambodia, Laos, Vietnam, Myanmar, Thailand, Malaysia, Brunei, East Timor, Indonesia or Singapore)
- | 10 |
+|        B | £ 215      | Applicants from Philippines and [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia ) (Cambodia, Laos, Vietnam, Myanmar, Thailand, Malaysia, Brunei, East Timor, Indonesia or Singapore) | 10 |
 |        C | £ 675      | Applicants from other Asian countries | 8 |
 |        D | £ 750      | Applicants from other countries classified as High-income economies based on [World Bank country rating by income](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html) | 5 |
 |        E | £ 1000     | Applicants from other countries classified as Upper-middle-income economies or lower based on [World Bank country rating by income](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html) | 8 |
