@@ -44,6 +44,10 @@ h2 {
 
 h3 {
   font-size: 18px;
+  text-decoration: underline;
+  text-decoration-color: #ffc700;
+  text-decoration-thickness: 3px;
+  text-decoration-skip-ink: none;
 }
 
 path.map-marker {
@@ -810,7 +814,8 @@ nav .navbar-brand {
   display: block;
   width: 30px;
   height: 3px;
-  background-color: {{ site.color.primary-light }};
+  /*background-color: {{ site.color.primary-light }};*/
+  background-color: #ffc700;
   position: absolute;
   bottom: 0px;
 }
