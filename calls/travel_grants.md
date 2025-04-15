@@ -106,7 +106,7 @@ The travel grant winners will be asked to volunteer for a time proportional to 1
 
 <h2 id="payment">Payment</h2>
 
-You must be able to fund the direct costs of your travel to SotM and be in possession of a valid passport and entry visa and other documents (for example, vaccinations). Successful applicants will receive a conference pass and become eligible for reimbursement of expenses up to the limit of the travel grant when they check in at the conference registration desk. Reimbursement of expenses will be by electronic means (details to be advised).
+You must be able to fund the direct costs of your travel to SotM and be in possession of a valid passport and entry visa and other documents (for example, vaccinations). Successful applicants will receive a conference pass and become eligible for reimbursement of expenses up to the limit of the travel grant when they check in at the conference registration desk. Reimbursement of expenses will be by electronic means (details to be advised).  Reimbursement may take up to two months after the conference date, provided that the travel grantee has submitted all the necessary information before the conference commences.
 
 Only in the case of demonstrated needs and exceptional cases will the travel grant amount be provided in advance or used to cover specific travel costs directly.
 
