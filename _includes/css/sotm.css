@@ -616,6 +616,10 @@ body {
   text-align: center;
 }
 
+#about h3 {
+  text-decoration: none;
+}
+
 .dotted {
   opacity: 0.4;
   height: 100%;
