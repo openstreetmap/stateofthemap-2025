@@ -386,6 +386,7 @@ header.intro .credits {
 
     .youtube-teaser {
       width: 560px;
+      max-width: 100%;
       height: 315px;
     }
 }
