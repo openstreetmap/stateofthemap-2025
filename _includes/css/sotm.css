@@ -903,6 +903,10 @@ nav .navbar-brand {
   margin-top: 6px;
 }
 
+#sponsors h3 {
+  text-decoration: none;
+}
+
 
 p img.bio-pic {
   width: 160px;
