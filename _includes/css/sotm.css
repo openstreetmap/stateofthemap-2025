@@ -556,30 +556,6 @@ footer p {
     margin: 0;
 }
 
-footer ::selection,
-.page ::selection {
-    text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(255,255,255,.2);
-}
-
-footer ::-moz-selection,
-.page ::-moz-selection {
-    text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(255,255,255,.2);
-}
-
-footer img::selection,
-.page img::selection {
-    background: 0 0;
-}
-
-footer img::-moz-selection,
-.page img::-moz-selection {
-    background: 0 0;
-}
-
 footer img.logo {
   width: auto;
   height: 200px;
@@ -747,10 +723,6 @@ svg.icon {
 #newsletter .button:hover, #newsletter .button.active {
     opacity: 0.9;
     color: {{ site.color.links }};
-}
-
-input#mce-EMAIL::selection {
-    background-color: #ddd;
 }
 
 .input-pull .dot-button:hover {
