@@ -13,7 +13,7 @@ The goal of OSM Science 2025 is to showcase the research and innovation of scien
 
 <h2 id="guidelines">Submission Guidelines</h2>
 
-Authors are invited to submit extended abstracts using the OSM Science 2025 [Pretalx submission system](https://pretalx.com/sotm2025-osm-science/cfp). Deadline for submission is **18 May 2025**.
+Authors are invited to submit extended abstracts using the OSM Science 2025 [Pretalx submission system](https://pretalx.com/sotm2025-osm-science/cfp). Deadline for submission is **1 June 2025**.
 
 Abstracts should be between 800 and 1200 words.
 
@@ -30,8 +30,9 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
-* 18 May 2025: Deadline [non-academic talk submissions]({{site.baseurl}}/calls/general)
-* 18 May 2025: Deadline academic talk submissions
+* <s>18 May 2025: Deadline academic talk submissions</s>
+* 1 June 2025: Deadline academic talk submissions
+* 18 May 2025: Deadline [non-acaemic talk submissions]({{site.baseurl}}/calls/general)
 * 1 July 2025: Notification of acceptance / rejection
 * 15 July 2025: Program announcement
 * 3-5 October 2025: OSM Science at State of the Map 2025
