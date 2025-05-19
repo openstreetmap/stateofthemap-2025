@@ -190,8 +190,9 @@ We hope this detailed "Call for Presentations" helps to increase the transparenc
 
 ## Timeline and Deadlines {#timeline_deadlines}
 
-* [18 May 2025 23:59:59 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End%20of%20State%20of%20the%20Map%202025%20Call%20for%20Participation&iso=20250518T2359): Deadline talk, workshop and panel submissions
-* 1 June 2025: Deadline academic talk submissions
+* ~~[18 May 2025 23:59:59 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End%20of%20State%20of%20the%20Map%202025%20Call%20for%20Participation&iso=20250518T2359): Deadline talk, workshop and panel submissions~~
+* [21 May 2025 23:59:59 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=End%20of%20State%20of%20the%20Map%202025%20Call%20for%20Participation&iso=20250521T2359): Deadline talk, workshop and panel submissions
+* 1 June 2025: Deadline [academic talk submissions]({{site.baseurl}}/calls/osm-science)
 * End of June 2025: End of review phase, speakers will be informed, schedule published
 * July 2025: Talk video production (test video and final video)
 * 3-5 October 2025: State of the Map

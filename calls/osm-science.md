@@ -32,7 +32,7 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 
 * <s>18 May 2025: Deadline academic talk submissions</s>
 * 1 June 2025: Deadline academic talk submissions
-* 18 May 2025: Deadline [non-acaemic talk submissions]({{site.baseurl}}/calls/general)
+* 21 May 2025: Deadline [non-academic talk submissions]({{site.baseurl}}/calls/general)
 * 1 July 2025: Notification of acceptance / rejection
 * 15 July 2025: Program announcement
 * 3-5 October 2025: OSM Science at State of the Map 2025
