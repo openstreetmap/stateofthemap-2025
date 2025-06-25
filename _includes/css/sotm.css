@@ -893,6 +893,10 @@ p img.bio-pic {
   margin-bottom: 0.6em;
   margin-top: 0.3em;
 }
+img.bio-pic.landscape {
+  height: 160px;
+  width: auto;
+}
 
 
 
