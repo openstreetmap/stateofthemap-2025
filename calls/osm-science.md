@@ -77,7 +77,7 @@ Peter is an Associate Professor at the Dept. of Computer Science in [Maynooth Un
 
 Ma. Simeona "Ony" Martinez is Assistant Professor of the Department of Geography in the University of the Philippines Diliman. She teaches foundational courses in Digital Cartography, Geographic Information Systems (GIS), and Aerial Photo and Satellite Image Interpretation. She concurrently serves as Co-Convenor of the UP Center for Integrative and Development Studies Program on Alternative Development (UPCIDS AltDev). Her teaching and research engagements focus on counter-mapping and the use of Geographic Information Systems (GIS) and remote sensing technologies with particular emphasis on their application in collaborative, community-based research. She helps organize collaborative extension projects  among diverse stakeholders such as educators, researchers, development workers, and community-based organizations that underscore the utility of platforms and spatial tools such as OpenStreetMap and QGIS for rights advocacy and community-oriented development planning. She is interested in the critical potential of participatory and counter-mapping practices to challenge dominant spatial narratives and in exploring the elements of spatial politics within the context of disaster risk and neoliberal development. Ony is a member of the Philippine Geographical Society, and a cartographer and researcher at Countermapping PH Network.
 
-<h3></h3>
+<h3>Briane Paul Samson</h3>
 <img class="bio-pic" src="../../img/bios/Briane.jpg">
 <em>De La Salle University, Philippines</em>
 
