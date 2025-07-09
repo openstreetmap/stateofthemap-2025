@@ -22,9 +22,9 @@ The official languages in the Philippines are Filipino/Tagalog and English. In M
 The Philippines is a tropical country. It has relatively high temperature, high humidity and abundant rainfall. Manila generally experiences a dry season from December to May and a wet/rainy season from June to November. It is recommended to prepare for dry and rainy days and to check the weather before travelling.
 
 
-{% include map.html zoom="16" %}
-
 <h1 id="venue">Conference Venue</h1>
+
+<p>{% include map.html zoom="16" %}</p>
 
 We are hosting SotM 2025 on October 3-5 at the University of the Philippines Diliman (UPD), one of the country’s premier institutions for higher learning. UP Diliman is located in Quezon City (QC), the largest city in Metro Manila both in terms of population and land area.
 
@@ -74,7 +74,7 @@ Name | Cost per Night | Remarks
 Name | Cost per Night | Travel Time to Venue
 -----|----------------|---------------------
 [Microtel by Wyndham UP Technohub](https://www.wyndhamhotels.com/microtel/quezon-city-philippines/microtel-by-wyndham-up-technohub/rooms-rates) | 60-120 USD | 10 mins by drive, can be walkable ~10-20mins
-Park Inn by Radisson North EDSA| 85-112 USD | 15 mins, can travel via Jeepney at SM North | [link](https://www.radissonhotels.com/en-us/hotels/park-inn-edsa-quezon)
+[Park Inn by Radisson North EDSA](https://www.radissonhotels.com/en-us/hotels/park-inn-edsa-quezon) | 85-112 USD | 15 mins, can travel via Jeepney at SM North
 [Novotel Manila Araneta City](https://www.novotelmanilaaranetacity.com/) | 112-122 USD | 25 mins, recommended to use ride-hailing app
 [Seda Vertis North](https://www.sedahotels.com/hotel/view/9/seda-vertis-north--quezon-city) | 112-215 USD | 15 mins, can travel via Jeepney at SM North
 
