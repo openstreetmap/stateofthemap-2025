@@ -1,20 +1,28 @@
 <div id="map" style="height:420px; width:100%"></div>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var map = L.map('map').setView([14.656760, 121.067045], {{ include.zoom }});
+    var map = L.map('map').setView([14.657, 121.072], {{ include.zoom }});
     L.control.scale().addTo(map);
     L.tileLayer('{{ site.map_tiles.url}}', {
       attribution: '{{ site.map_tiles.attribution }}',
       maxZoom: {{ site.map_tiles.maxZoom}}
     }).addTo(map);
     map.scrollWheelZoom.disable();
-    L.circleMarker([14.656760, 121.067045], {
+    L.circleMarker([14.656797, 121.073909], {
       radius: 33,
       weight: 3.5,
       color: "#ffc700",
       fillColor: "#f92329",
       fillOpacity: 0.0,
       className: 'map-marker'
-    }).bindPopup("<h3>Conference Venue</h3><p>UP Film Institute (UPFI) Cine Adarna.<br><a href='https://www.openstreetmap.org/way/149993740' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
+    }).bindPopup("<h3>Conference Venue</h3><p>GT Toyota.</p><p><a href='https://osm.org/go/4zhTwLYiS?m=&way=97654159' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
+    L.circleMarker([14.657395, 121.071195], {
+      radius: 33,
+      weight: 3.5,
+      color: "#ffc700",
+      fillColor: "#f92329",
+      fillOpacity: 0.0,
+      className: 'map-marker'
+    }).bindPopup("<h3>Conference Venue</h3><p>IE/ME Building.</p><p><a href='https://osm.org/go/4zhTwGNom?m=&node=12330416096' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
   }, false);
 </script>
