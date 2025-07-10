@@ -997,9 +997,13 @@ table.scheduleTable td,
 table.scheduleTable th {
     border: 0;
 }
+table.scheduleTable th,
+table.scheduleTable td.fill-darken0 {
+  background-color: #d8d8d8;
+}
 table.scheduleTable td[rowspan],
 table.scheduleTable td.fill-darken0 {
-  border-bottom: 3px solid #b4d3f2;
+  border-bottom: 3px solid #d8d8d8;
 }
 
 table.scheduleTable span.speaker,

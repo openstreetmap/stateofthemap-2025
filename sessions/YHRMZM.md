@@ -1,0 +1,24 @@
+---
+layout: session
+title: "Women Who Map: My Mission to Build Inclusive Mapping Communities in Nepal"
+code: "YHRMZM"
+speaker_names: ['Prativa Thapa']
+affiliations: None
+room: "Talks II"
+length: "20"
+time: "Saturday, 15:40"
+time_iso: "2025-10-04T07:40:00Z"
+resources: []
+recording: False
+---
+
+Building a strong and inclusive mapping community requires leadership, collaboration and a vision that aligns with global geospatial initiatives. As an Om Guru Advanced Mapper, Kathmandu University YouthMappers President and Executive Member &amp; Sole Mapping Lead of Geomatics Engineering Society (GES) for tenure 2025, I have worked extensively to expand Nepal’s OpenStreetMap (OSM) ecosystem, integrating engineering students, women and interdisciplinary contributors into mapping projects. My leadership has helped grow female mappers and transform the local community into university-level, being in the geospatial field, focused on women to lead mapping and running monthly campaigns across the country, ensuring greater inclusivity and technical engagement.                                                                                                                                                                                                                                                                                                                                                               In April 2025, I single-handedly organized Mapping Week 2025, an open mapping initiative held across Kathmandu University. This program featured 9 distinct open-source mapping applications, more than 12 national and international trainers and a range of community engagement activities including mapathons, quizzes and interactive workshops. The result? A historic rise in female participation and the expansion of mapping interest across university that previously had little exposure to OSM.
+My talk focuses on how OpenStreetMap can be a tool for technical training, empowerment, inclusion and leadership development. I will reflect on the process of forming KU YouthMappers, expanding beyond a departmental club into a university-wide, multidisciplinary chapter. I will also explore challenges we faced when breaking academic silos, how we sustained motivation among new mappers and strategies that ensured our efforts aligned with OSMF’s larger mission.
+This session will demonstrate building inclusive and gender-aware communities using open tools like ID editors and JOSM. It also aims to show the potential of young leaders, especially women, in shaping the future of mapping movements in underrepresented regions like Nepal. My ultimate goal is to highlight how ‘Women Who Map’ can be pioneers of change both locally and globally.
+
+<hr>
+
+This talk presents my journey of transforming a small, department-specific mapping club into an inclusive, interdisciplinary mapping movement at Kathmandu University, Nepal. From beginner mapper to Advanced Mapper, OM Guru (2024) and sole Mapping Lead 2025 of the Geomatics Engineering Society (GES), I observed the limited participation of women and non-engineering students in OSM activities. Motivated to address this gap, I initiated the creation of a new YouthMappers chapter Kathmandu University YouthMappers which opened participation to students across faculties like environmental science, architecture and computer science. The goal was to foster a community where anyone, regardless of academic background or gender, could contribute to open mapping and OSM.
+In April 2025, I single-handedly organized Mapping Week 2025, a high-impact event that featured nine open-source mapping applications, over 12 trainers from national and international backgrounds, and activities like mapathons, quizzes and workshops. This program marked a major shift in visibility and inclusion most notably by increasing female participation in mapping for the first time at this scale within the university. Using open tools such as iD Editor, JOSM and uMap, the event showcased how open-source platforms can empower underrepresented voices, build technical capacity and stimulate long-term engagement through peer mentoring and active learning.
+This session will share insights on how our grassroots chapter aligned with the values of the OpenStreetMap, especially regarding inclusivity, openness, and community collaboration. It will explore strategies to encourage OSM communities, connect local leaders with working groups and build ethical, sustainable communities. By reflecting on challenges and successes, I aim to present a replicable model for inclusive leadership in mapping. My story underscores that women who map can also lead, organize and inspire others ensuring that open mapping remains a space where diverse perspectives shape the future of geospatial knowledge.
+
