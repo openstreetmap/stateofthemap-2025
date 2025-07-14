@@ -42,7 +42,11 @@ In addition, UP Diliman also has jeepney called "UP IKOT" that travels around th
 
 ## Accessibility
 
-There are PWD ramps and bike lanes in selected areas in QC. UPD has accessibility ramps and bike lanes inside the campus rooms in each floor.
+There are PWD ramps and bike lanes in selected areas in QC. UPD has accessibility ramps and bike lanes inside the campus rooms in each  floor.
+
+GT Toyota Auditorium is located on the ground floor and can be accessed through ramps and stairs.
+
+We will use 2 floors in IE/ME building. The building has ramps upon entry; however, the second floor can only be accessed by stairs.
 
 
 <h1 id="travel">Travel to the Philippines</h1>
