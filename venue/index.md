@@ -36,7 +36,7 @@ The conference will take place on on two venues:
 
 Depending on where you are coming from, you can use [sakay.ph](https://www.sakay.ph/) for public commute directions.
 
-We also recommend requesting a car or motorcycle using a ride-hailing service (such as Grab, InDrive, Green GSM, MoveIt, Angkas) and enter your destination as GT Toyota Center Auditorium or  IE/ME Building so you can be dropped off the building.
+We also recommend requesting a car or motorcycle using a ride-hailing service (such as Grab, InDrive, Green GSM, MoveIt, Angkas) and enter your destination as GT Toyota Center Auditorium or  IE/ME Building so you can be dropped off at the building.
 
 In addition, UP Diliman also has jeepney called "UP IKOT" that travels around the campus. (ikot means to go around)
 
