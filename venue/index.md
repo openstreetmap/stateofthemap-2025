@@ -108,7 +108,7 @@ Suggested private car route (UPD): From NAIA, you can travel through  EDSA follo
 
 <h1 id="invitation">Request for Invitation Letter</h1>
 
-If  you require an invitation letter (for any purpose e.g. to support your visa application), you may request for an invitation  letter. Below are the innformation needed for invitation letters:
+If you require an invitation letter (for any purpose e.g. to support your visa application), you may send us a request for an invitation letter. Below is the information you should provide in this request:
 
 * SotM 2025 ticket order code - this is automatically emailed to people, once they purchase their SotM 2025 ticket.
 * Name exactly as in passport, including any multiple first or middle names (last names in capital letters).
