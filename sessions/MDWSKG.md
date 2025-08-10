@@ -8,7 +8,7 @@ room: "Talks I"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2025-10-05T01:30:00Z"
-resources: []
+resources: [{ description: "PDF (one long slide I will scroll through)", url: "https://pretalx.com/media/sotm2025/submissions/MDWSKG/resources/Address_and_stree_qePwjHM.PDF" },{ description: "HTML version", url: "https://www.jidanni.org/geo/house_numbering/grids/ph/ncr/bands/high.html" }]
 recording: False
 ---
 

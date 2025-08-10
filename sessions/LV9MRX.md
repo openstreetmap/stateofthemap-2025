@@ -12,23 +12,14 @@ resources: []
 recording: False
 ---
 
-Although gender is a spectrum, it is sometimes reduced to a strict binary by our language and cultural standards. Investigating how binary gender stereotypes appear in our presumptions, language, and comprehension of various cultures and eras, this panel explores the widespread impact of these preconceptions
+OpenStreetMap (OSM) thrives on teamwork and the desire to accurately depict the globe. Nonetheless, within its contributor base, gender disparities still exist. In addition to reflecting larger cultural trends, this underrepresentation affects the type of data gathered and the viewpoints given priority. 
 
-Speakers from different backgrounds will share personal and cultural insights about how gender norms have shaped their lives and work, and how they have navigated or resisted these expectations. The session will also delve into how language influences gender perceptions especially in binary-gendered languages and how mapping, storytelling, and open communities like OpenStreetMap (OSM) can either reinforce or disrupt these binaries.
+Mappers, community organizers, and advocates get together on this topic to explore various aspects of gender in the OSM ecosystem. The workshop will highlight initiatives to promote diversity, talk about how cultural norms affect participation, and share personal experiences navigating gendered expectations. We will look into issues like: What are the ways in which mapping communities exhibit binary gender assumptions? What aspects of gender are influenced by linguistic and cultural contexts? In what ways can we establish environments that embrace a range of gender identities?
 
-The conversation aims to create space for thoughtful reflection and inclusive dialogue, empowering participants to rethink their assumptions and practices related to gender, both in daily life and in collaborative environments like open mapping.
+By examining these questions, the workshop aims to:
+• Draw attention to the difficulties that underrepresented genders in OSM confront. 
+• Discuss ways to encourage equal participation and combat gender biases. 
+• Promote the use of inclusive terminology and methods in mapping projects. 
 
-Guiding questions:
-1.	Identifying Gender Norms
-    o	What are some common binary gender stereotypes you’ve encountered in your OSM community?
-    o	How do these stereotypes show up in open mapping or technology spaces?
-2.	Personal Acts of Resistance
-    o	Have you personally challenged or broken a binary gender stereotype? What did that look like?
-3.	Cultural and Historical Perspectives
-    o	Are there examples from other cultures or time periods that recognize more than two genders? What can we learn from them?
-4.	Language and Identity
-    o	How does your language shape the way gender is expressed or understood?
-    o	Are there ways your language includes or excludes non-binary identities?
-5.	Community Impact
-    o	How can open communities like OSM create more inclusive environments that recognize diverse gender identities?
+Those working on diversity projects, community participation, and the creation of mapping tools and policies may find this conversation very relevant. Participants will get knowledge about creating an OSM community that is more inclusive and celebrates the diversity of its members.
 
