@@ -70,8 +70,6 @@ Here are some recommended accommodations located both  within and near the venue
 Name | Cost per Night | Remarks
 -----|----------------|--------
 [University Hotel](https://universityhotel.com.ph) | 50-100 USD | nearest/ walking distance from the conference buildings
-[National Institute for Science and Mathematics Education Development (NISMED)](https://nismed.upd.edu.ph/portfolio/hostel/) | 10-35 USD | under renovation as of late 2024
-[SOLAIR (School of Labor and Industrial Relations) Dormitory](https://solair.upd.edu.ph/) | 7-12 USD | Only 3 rooms (good for 3 pax) are available for short term stays, contact: (02) 89818500
 
 ### Recommended Hotels Near University of the Philippines Diliman
 
