@@ -2,7 +2,7 @@
 layout: page-with-toc
 #title: Venue &amp; Transportation
 title: Host City
-headings: "manila,venue,travel,pt,invitation"
+headings: "manila,venue,travel,pt,explore,invitation"
 ---
 
 <h1 id="manila">Manila</h1>
@@ -103,6 +103,11 @@ Suggested commuter route (UPD): Take the UBE Express bus (see bus  schedule here
 
 Suggested private car route (UPD): From NAIA, you can travel through  EDSA following the avenue and turning right on Quezon Avenue towards the  Quezon Memorial Circle. Take the exit to Commonwealth Avenue then turn  right towards the UPD sign. Alternatively, you can take the Skyway  highway system (tolled road) exiting at Quezon Avenue and continuing as  directed above.
 
+<h1 id="explore">Explore Manila</h1>
+
+Wondering what else to do during your stay in the Philippines? We curated a bucket list of top things to do when in Manila (and near Manila)! Explore the Philippines' culture, art, nature and cuisine, and plan your trip through the map:
+
+<iframe width="100%" height="600px" frameborder="0" allowfullscreen src="https://umap.hotosm.org/en/map/state-of-the-map-2025-top-things-to-do-in-metro-ma_572?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/state-of-the-map-2025-top-things-to-do-in-metro-ma_572?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">Open map on a separate page</a></p>
 
 <h1 id="invitation">Request for Invitation Letter</h1>
 
