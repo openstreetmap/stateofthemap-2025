@@ -4,7 +4,7 @@ title: "Translating “Open Mapping Towards SDGs”: A YouthMappers Student Proj
 code: "8VMYYW"
 speaker_names: ['Aki Sato']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Saturday, 12:00"
 time_iso: "2025-10-04T04:00:00Z"

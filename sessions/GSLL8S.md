@@ -4,7 +4,7 @@ title: "UN Mappers: Building a Community of Mappers to Support Peace with OpenSt
 code: "GSLL8S"
 speaker_names: ['Arnalie Vicario', 'Michael Montani']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Sunday, 10:00"
 time_iso: "2025-10-05T02:00:00Z"

@@ -4,7 +4,7 @@ title: "Walking Milano: Unveiling the City’s Character Through 360° Street-Le
 code: "NRJEVM"
 speaker_names: ['Taichi Furuhashi']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Friday, 12:30"
 time_iso: "2025-10-03T04:30:00Z"

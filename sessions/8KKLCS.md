@@ -4,10 +4,10 @@ title: "Resilience Starts with a Map: Community-Led OSM Action in Dhaka’s Clim
 code: "8KKLCS"
 speaker_names: ['Faiza Waziha']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
-time: "Saturday, 17:30"
-time_iso: "2025-10-04T09:30:00Z"
+time: "Saturday, 16:30"
+time_iso: "2025-10-04T08:30:00Z"
 resources: []
 recording: False
 ---

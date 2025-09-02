@@ -4,7 +4,7 @@ title: "OpenStreetMap in Higher Education: Lessons Learned and Best Practices"
 code: "MNCZTF"
 speaker_names: ['Md Atikuzzaman Limon']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Saturday, 10:30"
 time_iso: "2025-10-04T02:30:00Z"

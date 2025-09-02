@@ -4,7 +4,7 @@ title: "Mapping workflows in iD for new, intermediate and advanced mappers"
 code: "H3NM7X"
 speaker_names: ['Martin Raifer']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "40"
 time: "Friday, 15:00"
 time_iso: "2025-10-03T07:00:00Z"

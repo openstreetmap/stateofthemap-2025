@@ -4,7 +4,7 @@ title: "OSM Data for Routing - From Tags to Routing &amp; Mobility Analysis"
 code: "EBQSZC"
 speaker_names: ['Julian Psotta']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "40"
 time: "Sunday, 11:30"
 time_iso: "2025-10-05T03:30:00Z"

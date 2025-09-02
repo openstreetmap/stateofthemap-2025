@@ -4,7 +4,7 @@ title: "How we got here: three mapper stories"
 code: "QD3EQM"
 speaker_names: ['Prativa Thapa', 'KASOZI DENIS', 'Bayazid Ahmed', 'Walter Mayeku']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "60"
 time: "Saturday, 15:00"
 time_iso: "2025-10-04T07:00:00Z"

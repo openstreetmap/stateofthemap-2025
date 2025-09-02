@@ -4,7 +4,7 @@ title: "Why and how to visualize OSM data using pmtiles"
 code: "UUTQZX"
 speaker_names: ['Daniele Santini']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Saturday, 15:00"
 time_iso: "2025-10-04T07:00:00Z"

@@ -4,7 +4,7 @@ title: "OSMF Board AMA"
 code: "ECRTL9"
 speaker_names: ['Laura Mugeha', 'Héctor Ochoa Ortiz']
 affiliations: None
-room: "Auditorium"
+room: "Apo"
 length: "60"
 time: "Sunday, 14:30"
 time_iso: "2025-10-05T06:30:00Z"

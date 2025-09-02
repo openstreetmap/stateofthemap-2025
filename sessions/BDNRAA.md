@@ -4,10 +4,10 @@ title: "Local First in a Diverse Democracy: India’s Decentralized Path to Host
 code: "BDNRAA"
 speaker_names: ['ark Arjun']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
-time: "Saturday, 16:30"
-time_iso: "2025-10-04T08:30:00Z"
+time: "Saturday, 17:00"
+time_iso: "2025-10-04T09:00:00Z"
 resources: []
 recording: False
 ---

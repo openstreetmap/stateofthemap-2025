@@ -4,7 +4,7 @@ title: "Mapping for Impact: Introducing Open Mapping to Civil Society in Sri Lan
 code: "MM8TEB"
 speaker_names: ['Mohamed Haniffa Fathima Hasna']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2025-10-04T06:30:00Z"

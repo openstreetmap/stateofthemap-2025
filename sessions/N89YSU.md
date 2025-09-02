@@ -4,10 +4,10 @@ title: "How to Complete Japan’s Building Mapping in One Year? Strategies for I
 code: "N89YSU"
 speaker_names: ['Taichi Furuhashi']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
-time: "Saturday, 17:00"
-time_iso: "2025-10-04T09:00:00Z"
+time: "Saturday, 11:30"
+time_iso: "2025-10-04T03:30:00Z"
 resources: []
 recording: False
 ---

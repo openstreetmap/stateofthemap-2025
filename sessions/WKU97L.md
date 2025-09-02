@@ -4,10 +4,10 @@ title: "Managing Remote Mapping Projects in the HOT Tasking Manager"
 code: "WKU97L"
 speaker_names: ['Dinar Adiatma']
 affiliations: None
-room: "Workshops"
+room: "Guiting-guiting"
 length: "60"
-time: "Saturday, 16:30"
-time_iso: "2025-10-04T08:30:00Z"
+time: "Saturday, 11:30"
+time_iso: "2025-10-04T03:30:00Z"
 resources: []
 recording: False
 ---

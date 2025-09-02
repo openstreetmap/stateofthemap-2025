@@ -4,7 +4,7 @@ title: "Modeling improvements for access to services and economic opportunities 
 code: "M8GAVJ"
 speaker_names: ['Osunga Michael Otieno']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2025-10-04T08:30:00Z"

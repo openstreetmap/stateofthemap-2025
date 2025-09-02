@@ -4,7 +4,7 @@ title: "From Sprawl to Strategy, Leveraging OpenStreetMap for Smarter Urban Grow
 code: "FZKAAE"
 speaker_names: ['Johanes Petro Machela']
 affiliations: None
-room: "Workshops"
+room: "Guiting-guiting"
 length: "60"
 time: "Sunday, 09:30"
 time_iso: "2025-10-05T01:30:00Z"

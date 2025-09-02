@@ -4,7 +4,7 @@ title: "From Drones to Data: workshop on high precision imagery, AI powered mapp
 code: "ZHERRE"
 speaker_names: ['Ramya Ragupathy', 'Honey Fombuena']
 affiliations: None
-room: "Workshops"
+room: "Guiting-guiting"
 length: "60"
 time: "Friday, 16:30"
 time_iso: "2025-10-03T08:30:00Z"

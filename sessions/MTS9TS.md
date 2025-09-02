@@ -4,7 +4,7 @@ title: "The Ugandan Geo Quests: Mapping Libraries and Museums into the Knowledge
 code: "MTS9TS"
 speaker_names: ['Micheal Kaluba']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Saturday, 10:00"
 time_iso: "2025-10-04T02:00:00Z"

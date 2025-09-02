@@ -4,7 +4,7 @@ title: "Journey to the Center of the Planet"
 code: "CBMXL3"
 speaker_names: ['Minh Nguyễn']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Friday, 16:30"
 time_iso: "2025-10-03T08:30:00Z"

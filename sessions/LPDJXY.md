@@ -4,7 +4,7 @@ title: "Awesome (OSM) Games"
 code: "LPDJXY"
 speaker_names: ['Ben Hur Pintor']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Friday, 12:00"
 time_iso: "2025-10-03T04:00:00Z"

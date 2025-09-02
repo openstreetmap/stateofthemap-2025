@@ -4,7 +4,7 @@ title: "HOT 15-year Anniversary"
 code: "U9MSCX"
 speaker_names: ['Geoffrey Kateregga']
 affiliations: None
-room: "Auditorium"
+room: "Apo"
 length: "20"
 time: "Friday, 10:00"
 time_iso: "2025-10-03T02:00:00Z"

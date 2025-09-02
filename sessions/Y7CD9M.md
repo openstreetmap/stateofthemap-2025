@@ -4,7 +4,7 @@ title: "Integrating OpenStreetMap &amp; HOT Tasking Manager into Cartography Cur
 code: "Y7CD9M"
 speaker_names: ['Samson Ngumenawe']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Saturday, 10:00"
 time_iso: "2025-10-04T02:00:00Z"

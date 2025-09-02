@@ -4,7 +4,7 @@ title: "What Could You Do with 100 Days of Mapping?"
 code: "3WWGYS"
 speaker_names: ['Laura Mugeha']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Sunday, 12:30"
 time_iso: "2025-10-05T04:30:00Z"

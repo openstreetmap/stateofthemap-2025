@@ -4,7 +4,7 @@ title: "OpenStreetMap x Wikidata Collaboration: Taiwan Case"
 code: "JUSRXF"
 speaker_names: ['Dennis Raylin Chen']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Saturday, 09:30"
 time_iso: "2025-10-04T01:30:00Z"

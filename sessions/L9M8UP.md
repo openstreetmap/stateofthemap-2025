@@ -4,7 +4,7 @@ title: "Closing"
 code: "L9M8UP"
 speaker_names: ['SotM Working Group']
 affiliations: None
-room: "Auditorium"
+room: "Apo"
 length: "20"
 time: "Sunday, 16:30"
 time_iso: "2025-10-05T08:30:00Z"

@@ -4,10 +4,10 @@ title: "OSM Swiss Style and the new OSM Swiss Base Map"
 code: "RD3WXL"
 speaker_names: ['Stefan Keller']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
-time: "Saturday, 17:30"
-time_iso: "2025-10-04T09:30:00Z"
+time: "Saturday, 17:00"
+time_iso: "2025-10-04T09:00:00Z"
 resources: []
 recording: False
 ---

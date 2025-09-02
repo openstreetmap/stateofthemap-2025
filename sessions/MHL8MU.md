@@ -4,7 +4,7 @@ title: "Where are we heading? The current state of OpenStreetMap in numbers."
 code: "MHL8MU"
 speaker_names: ['Benjamin Herfort']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Friday, 17:30"
 time_iso: "2025-10-03T09:30:00Z"

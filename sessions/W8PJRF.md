@@ -4,7 +4,7 @@ title: "OpenStreetMap Awards 2025"
 code: "W8PJRF"
 speaker_names: ['Ilya Zverev', 'SotM Working Group']
 affiliations: None
-room: "Auditorium"
+room: "Apo"
 length: "20"
 time: "Sunday, 16:00"
 time_iso: "2025-10-05T08:00:00Z"

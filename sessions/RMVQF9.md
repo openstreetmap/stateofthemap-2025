@@ -4,7 +4,7 @@ title: "OSM mapping of building damage - review and prospects after Chido in May
 code: "RMVQF9"
 speaker_names: ['Séverin Ménard']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Sunday, 10:30"
 time_iso: "2025-10-05T02:30:00Z"

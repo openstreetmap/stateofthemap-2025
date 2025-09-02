@@ -4,7 +4,7 @@ title: "Mapping Resilience and Empowering Sustainable Development in Sri Lankan 
 code: "PRATCA"
 speaker_names: ['Rajendran Keerthana']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Sunday, 12:00"
 time_iso: "2025-10-05T04:00:00Z"

@@ -4,7 +4,7 @@ title: "Making OpenStreetMap More Accessible for New Mappers"
 code: "TX88WD"
 speaker_names: ['Brazil Singh']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Saturday, 12:30"
 time_iso: "2025-10-04T04:30:00Z"

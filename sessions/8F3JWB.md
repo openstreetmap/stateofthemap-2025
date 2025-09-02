@@ -2,9 +2,9 @@
 layout: session
 title: "From Maps to Models: Building AI Context Tools for OpenStreetMap"
 code: "8F3JWB"
-speaker_names: ['Subhash Dulla']
+speaker_names: ['Subhash Dulla', 'Ranjith Raj Vasam']
 affiliations: None
-room: "Workshops"
+room: "Guiting-guiting"
 length: "60"
 time: "Saturday, 09:30"
 time_iso: "2025-10-04T01:30:00Z"

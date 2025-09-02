@@ -4,7 +4,7 @@ title: "Community-Driven Data: How Local Knowledge is Reshaping Urban Waste Syst
 code: "VTGCCY"
 speaker_names: ['Emanuel Kombe']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Saturday, 11:30"
 time_iso: "2025-10-04T03:30:00Z"

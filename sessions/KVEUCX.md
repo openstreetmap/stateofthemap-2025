@@ -4,7 +4,7 @@ title: "Steph-outside: Outdoor Mapping under the bright Sky with KartaView and M
 code: "KVEUCX"
 speaker_names: ['Feye Andal']
 affiliations: None
-room: "Workshops"
+room: "Guiting-guiting"
 length: "60"
 time: "Sunday, 11:30"
 time_iso: "2025-10-05T03:30:00Z"

@@ -4,7 +4,7 @@ title: "City-Scale Open Community Drone Mapping - A World First in Sierra Leone?
 code: "9R8TBE"
 speaker_names: ['Tommy Charles']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2025-10-05T01:30:00Z"

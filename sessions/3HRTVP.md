@@ -4,7 +4,7 @@ title: "fAIrSwipe"
 code: "3HRTVP"
 speaker_names: ['Omran NAJJAR']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Saturday, 12:00"
 time_iso: "2025-10-04T04:00:00Z"

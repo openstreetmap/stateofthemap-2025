@@ -4,7 +4,7 @@ title: "Keeping alive OSMTracker"
 code: "9HN9SX"
 speaker_names: ['Jaime Gutiérrez Alfaro', 'Diego Munguía Molina']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2025-10-03T06:30:00Z"

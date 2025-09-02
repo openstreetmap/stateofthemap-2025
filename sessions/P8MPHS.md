@@ -4,7 +4,7 @@ title: "Lessons from teaching OpenStreetMap in a masters program"
 code: "P8MPHS"
 speaker_names: ['Paul Pickell']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Saturday, 09:30"
 time_iso: "2025-10-04T01:30:00Z"

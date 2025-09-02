@@ -4,7 +4,7 @@ title: "Getting Started with QGIS: A Beginner's Guide to Mapping with Open-Sourc
 code: "TVAWMZ"
 speaker_names: ['Mohamed Haniffa Fathima Hasna']
 affiliations: None
-room: "Workshops"
+room: "Guiting-guiting"
 length: "60"
 time: "Friday, 14:30"
 time_iso: "2025-10-03T06:30:00Z"

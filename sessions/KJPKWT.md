@@ -4,7 +4,7 @@ title: "ORS-Tools - Beginner-friendly Mobility Analysis with OpenStreetMap and o
 code: "KJPKWT"
 speaker_names: ['Benjamin Herfort', 'Julian Psotta']
 affiliations: None
-room: "Workshops"
+room: "Guiting-guiting"
 length: "60"
 time: "Friday, 11:30"
 time_iso: "2025-10-03T03:30:00Z"

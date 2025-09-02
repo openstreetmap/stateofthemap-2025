@@ -4,7 +4,7 @@ title: "Lightning Talks II"
 code: "SAWRUB"
 speaker_names: ['SotM Working Group']
 affiliations: None
-room: "Talks I"
+room: "Mayon"
 length: "20"
 time: "Saturday, 15:30"
 time_iso: "2025-10-04T07:30:00Z"

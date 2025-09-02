@@ -4,7 +4,7 @@ title: "Community Participatory Mapping of Water Sanitation and Hygiene Access f
 code: "XXHWYH"
 speaker_names: ['Esther Judith']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Sunday, 12:30"
 time_iso: "2025-10-05T04:30:00Z"

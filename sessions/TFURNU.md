@@ -4,7 +4,7 @@ title: "From Mappers to Movement Builders: Strengthening Local Leadership throug
 code: "TFURNU"
 speaker_names: ['Mikko Tamura', 'Honey Fombuena']
 affiliations: None
-room: "Talks II"
+room: "Pulag"
 length: "20"
 time: "Sunday, 11:30"
 time_iso: "2025-10-05T03:30:00Z"
