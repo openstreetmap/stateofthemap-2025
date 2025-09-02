@@ -9,7 +9,7 @@ length: "60"
 time: "Saturday, 15:00"
 time_iso: "2025-10-04T07:00:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 In this extended session we want to discuss what motivates people to join the OpenStreetMap community and what makes them stay. Hear the stories of  Denis Kasozi, Bayazid Ahmed and Prativa Thapa, three of our community members coming from different backgrounds and countries. Then join our speakers and the session host Walter Mayeku in an extended QA session to share experiences how people come to be part of the contributors.

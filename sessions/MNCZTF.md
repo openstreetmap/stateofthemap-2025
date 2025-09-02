@@ -9,7 +9,7 @@ length: "20"
 time: "Saturday, 10:30"
 time_iso: "2025-10-04T02:30:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 In my several years of experience in my workplace at my university, this session will explore how OpenStreetMap (OSM) can be used in higher education to teach geography, GIS, and data science, providing hands-on experience with real-world data. I will share specific examples, such as student-led mapping projects that contributed to local community initiatives, and discuss how these projects enhanced students' technical skills and civic awareness. Additionally, I will address common challenges, such as data validation and student motivation, and present strategies to overcome them. Attendees will leave with practical strategies and resources to integrate OSM into their own teaching, including lesson plans, tool recommendations, and tips for managing student projects.

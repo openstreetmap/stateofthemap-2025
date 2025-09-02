@@ -9,7 +9,7 @@ length: "20"
 time: "Friday, 17:30"
 time_iso: "2025-10-03T09:30:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 OpenStreetMap has celebrated its 20th birthday last year. Over the past two decades the community grew tremendously and now covers (almost) the entire globe. This talk summarizes OSM’s evolution with maps and meaningful numbers. We want to take a look at the “state of the map”, current mapping trends and some of the challenges that we face.

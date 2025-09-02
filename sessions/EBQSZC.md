@@ -9,7 +9,7 @@ length: "40"
 time: "Sunday, 11:30"
 time_iso: "2025-10-05T03:30:00Z"
 resources: [{ description: "University of Heidelberg, Faculty for Geoinformation Sciences", url: "https://www.geog.uni-heidelberg.de/gis/index_en.html" },{ description: "Heidelberg Institute for Geoinformation Technology (HeiGIT) Website", url: "https://heigit.org/" }]
-recording: False
+recording: True
 ---
 
 How does OpenStreetMap data as a collection of nodes, ways, and relations with tags like `highway=*`, `access=*` become the fast, turn-by-turn navigation and routing you see and use every day, including on `openstreetmap.org`?

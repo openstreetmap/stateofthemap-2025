@@ -9,7 +9,7 @@ length: "20"
 time: "Sunday, 12:00"
 time_iso: "2025-10-05T04:00:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 Sri Lanka, as a tropical island nation, faces significant challenges including frequent climate related disasters such as floods, landslides, and droughts, alongside socio economic inequalities and limited access to digital infrastructure in many rural and underserved areas. OpenStreetMap (OSM) has become a transformative platform that enables communities to map their own environments, fostering resilience and advancing sustainable development goals through locally driven geospatial data creation and use.

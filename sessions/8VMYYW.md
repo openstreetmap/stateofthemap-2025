@@ -9,7 +9,7 @@ length: "20"
 time: "Saturday, 12:00"
 time_iso: "2025-10-04T04:00:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 This talk introduces a student-led initiative from the Furuhashi Lab at Aoyama Gakuin University in Japan, focusing on the localization of global open mapping knowledge. As a YouthMappers chapter, we are currently translating the open-access book Open Mapping towards Sustainable Development Goals into Japanese. The aim of this translation project is to make critical mapping knowledge accessible to non-English-speaking students and to encourage greater participation in the open mapping community.

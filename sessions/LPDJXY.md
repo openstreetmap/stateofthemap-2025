@@ -9,7 +9,7 @@ length: "20"
 time: "Friday, 12:00"
 time_iso: "2025-10-03T04:00:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 OpenStreetMap and games feel like they go hand-in-hand and that's more than just coincidental. Both OSM and gaming have the power to bring people together, foster community engagement, and provide unique experiences. 

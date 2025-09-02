@@ -1111,7 +1111,3 @@ h2.abstract-subtitle {
 
 /* temporary overrides
 --------------------------------------*/
-.abstract-no-recording,
-.noRecordingDark {
-  display: none !important;
-}

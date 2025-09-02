@@ -9,7 +9,7 @@ length: "20"
 time: "Sunday, 12:30"
 time_iso: "2025-10-05T04:30:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 What could you really accomplish with 100 days of consistent mapping? Add 1000 buildings, delete 100 nodes, or achieve completeness for an entire neighbourhood? Within the OpenStreetMap community, mappers contribute at different levels and frequencies using several tools and editors to enhance the map. In this presentation, we will share our experiences mapping every single day - the lessons learnt, the shortcuts we somehow didn't know, and key insights on maintaining data quality while sustaining a daily mapping practice over an extended period. We'll explore frameworks that could be considered for similar mapping challenges, strategies for finding motivation when inspiration runs low, and tracking progress to celebrate mapping milestones along the way.

@@ -9,7 +9,7 @@ length: "20"
 time: "Sunday, 16:00"
 time_iso: "2025-10-05T08:00:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 The [OpenStreetMap community awards](https://blog.openstreetmap.org/2025/06/07/call-for-nominees-openstreetmap-awards-2025-in-manila/) are nominated and chosen by the community. The OpenStreetMap awards is a global recognition event that celebrates contributors from all corners of the OSM project – including mappers, developers, community organizers, writers, and everyone who makes OSM great. This will be the awards ceremony.

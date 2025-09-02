@@ -9,7 +9,7 @@ length: "20"
 time: "Friday, 12:30"
 time_iso: "2025-10-03T04:30:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 Between September 2024 and August 2025, we conducted a comprehensive street-level survey of Milano, Italy, capturing approximately one million 360° panoramic images using a monopod-mounted camera setup. These images were uploaded to Mapillary, contributing to open-access urban geospatial data. This presentation shares practical insights into continuous data collection methods and analyzes urban characteristics discernible from the imagery, such as graffiti prevalence, urban greenery distribution, and the potential of these visuals as foundational data for 3D digital twin models. I will discuss the current capabilities and limitations of using crowdsourced street-level imagery for urban analysis and planning.

@@ -9,7 +9,7 @@ length: "20"
 time: "Saturday, 10:00"
 time_iso: "2025-10-04T02:00:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 Across Uganda, countless community libraries and local museums hold untold stories, cultural memory, and untapped knowledge—but remain invisible on the digital map. The Ugandan Geo Quests project aims to change that.

@@ -9,7 +9,7 @@ length: "40"
 time: "Friday, 15:00"
 time_iso: "2025-10-03T07:00:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 Mapping in iD is designed to be a welcoming experience that should require little to no required knowledge to get started. Additionally, the editor does also have some additional features up its sleave for more advanced mapping tasks. Regardless if you are a new, intermediate or advanced mapper: it can never hurt to know a trick or two that make your mapping more efficient!

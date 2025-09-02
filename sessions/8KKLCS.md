@@ -9,7 +9,7 @@ length: "20"
 time: "Saturday, 16:30"
 time_iso: "2025-10-04T08:30:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 Dhaka, one of the most climate-affected cities in South Asia, is home to millions of migrants living in informal urban settlements. These densely populated areas are increasingly exposed to environmental and health hazards, particularly seasonal waterlogging and recurring dengue outbreaks. Despite the severity of these issues, many of these settlements remain underrepresented in official datasets, limiting the ability to implement targeted and effective resilience measures.

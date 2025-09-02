@@ -9,7 +9,7 @@ length: "20"
 time: "Saturday, 16:30"
 time_iso: "2025-10-04T08:30:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 &lt;p&gt;In Freetown, it is estimated that more than &lt;strong&gt;360,000 people&lt;/strong&gt; live in informal settlements. These are vibrant and dynamic neighbourhoods of varying size, recency and characteristic. The residents of these settlements move between their own neighbourhoods and other parts of the city for economic and social reasons, but also to access services not available where they live.&lt;/p&gt;
