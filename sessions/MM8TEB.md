@@ -12,7 +12,7 @@ resources: []
 recording: True
 ---
 
-Over the past few years, the open mapping movement in Sri Lanka has witnessed a quiet revolution—led not by tech giants, but by grassroots changemakers. In this talk, I will share my journey of introducing and integrating OpenStreetMap (OSM) and open geospatial tools into the workflows of 78 civil society organizations spanning all 25 districts of Sri Lanka.
+Over the past few years, the open mapping movement in Sri Lanka has witnessed a quiet revolution—led not by tech giants, but by grassroots changemakers. In this talk, I will share my journey of introducing and integrating OpenStreetMap (OSM) and open geospatial tools into the workflows of 113 civil society organizations in Sri Lanka.
 
 From initial awareness sessions to hands-on training, the talk will walk through how open maps were demystified and transformed into powerful tools for advocacy, community development, disaster preparedness, and resource mapping. I’ll highlight real-life use cases where OSM contributed to amplifying local voices and solving local challenges, including navigating post-disaster recovery and environmental monitoring.
 
