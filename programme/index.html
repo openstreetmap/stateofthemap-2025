@@ -16,13 +16,14 @@ headings: "general_Friday,general_Saturday,general_Sunday"
 
 <!--<p>If you want to use an app to get reminders for talks in the schedule, you can use <a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a>. Alternatively, there is also an ICS calendar available <a href="https://sotm.osmz.ru/2024.html">here</a>.</p>-->
 
-<!--<h2 id="timezone-switcher">Time Zone</h2>
+{% include _timezoneswitcher.html %}
+<h2 id="timezone-switcher">Time Zone</h2>
 <p>Change time zone:
 <select id="city-select" size="1" onchange="updateTZ(this.value)" style="width:10em">
-  <option value="Africa/Nairobi">Kenya</option>
+  <option value="Asia/Manila">Manila</option>
   <option value="UTC">UTC</option>
 </select>
-</p>-->
+</p>
 
 {% include schedule/_general.html %}
 
@@ -35,4 +36,3 @@ headings: "general_Friday,general_Saturday,general_Sunday"
   <a href="https://wiki.openstreetmap.org/wiki/State_of_the_Map_2025/self-organized_sessions">https://wiki.openstreetmap.org/wiki/State_of_the_Map_2025/self-organized_sessions</a>
 </p>-->
 
-<!--{% include _timezoneswitcher.html %}-->
