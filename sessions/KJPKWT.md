@@ -6,8 +6,8 @@ speaker_names: ['Benjamin Herfort', 'Julian Psotta']
 affiliations: None
 room: "Guiting-guiting"
 length: "60"
-time: "Friday, 11:30"
-time_iso: "2025-10-03T03:30:00Z"
+time: "Friday, 12:00"
+time_iso: "2025-10-03T04:00:00Z"
 resources: [{ description: "Openrouteservice Website", url: "https://openrouteservice.org/" },{ description: "Heidelberg Institute for Geoinformation Technology (HeiGIT) Website", url: "https://heigit.org/" },{ description: "University of Heidelberg, Faculty of Geoinformation Sciences", url: "https://www.geog.uni-heidelberg.de/gis/index_en.html" }]
 recording: False
 ---

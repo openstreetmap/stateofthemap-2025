@@ -1,0 +1,35 @@
+---
+layout: session
+title: "OSMlanduse: A dataset of European Union land use at 10 m resolution derived from OpenStreetMap and Sentinel-2"
+code: "BDTYZ9"
+speaker_names: ['Michael Schultz']
+affiliations: None
+room: "Pulag"
+length: "5"
+time: "Friday, 12:45"
+time_iso: "2025-10-03T04:45:00Z"
+resources: []
+recording: True
+---
+
+OSMlanduse is the first EU-wide 10 m land-use map integrating 3.2 million OpenStreetMap geometries with Sentinel-2 imagery through an open deep-learning workflow. Delivering CORINE-level thematic detail with finer spatial resolution, it achieves 89% accuracy, providinng wall-to-wall coverage while retaining OSM’s sub-metre detail where available. Released under open licences with reproducible scripts, it supports applications from climate modelling and biodiversity surveys to urban planning and policy monitoring. By uniting crowdsourced mapping and Earth observation, OSMlanduse demonstrates a scalable, transparent approach to producing reliable, high-resolution land-use information at continental scale.
+
+<hr>
+
+Spatially resolved information on present-day land use (LU) is fundamental for climate-mitigation tracking, food-system monitoring and spatial planning, yet Europe still relies on
+inventories such as CORINE Land Cover (CLC) that are updated quinquennially at 100 m and under-represent the urban micro-mosaic. Meanwhile, new 10 m remote-sensing maps excel at spectral land-cover separation but lack the thematic richness contributed by citizens through OpenStreetMap (OSM).
+We introduce OSMlanduse, the first European Union-wide LU map at 10 m resolution that fuses 3.2 million OSM geometries with Sentinel-2 multispectral composites by means of a completely open workflow. The product supplies CLC-level thematic detail while matching the spatial grain of Copernicus imagery.
+Our objective was to demonstrate that globally recurrent, freely licensed data streams can be combined through deep learning to overcome the spatial incompleteness of volunteered geographic information. We converted the March 2020 OSM planet snapshot into 13 CLC classes, directly labelling 61.8 % of EU28 territory. For the unlabeled remainder we trained country-specific residual convolutional neural networks (ResNets) on medoid composites of cloud-masked Sentinel-2 top-of-atmosphere reflectance, then mosaicked predictions and original labels into a seamless raster–vector hybrid.
+Accuracy was assessed with 4 616 stratified reference points interpreted independently on sub-metre Bing and Google imagery. The map attains 89 % overall accuracy (95 % CI ± 2 %); producer’s accuracies range from 77 % (shrub/herbaceous vegetation) to 99 % (water bodies), while user’s accuracies exceed 93 % for agricultural strata. Most confusion arises between spectrally similar urban greens and semi-natural grasslands, or between early construction sites and bare soil, reflecting both spectral ambiguity and occasional tag noise.
+OSMlanduse inherits sub-metre geometric detail wherever OSM mapping is dense—Dutch canal parcels, German allotment gardens, Romanian farmyards—yet guarantees wall-to-wall coverage through 10 m raster infill. GeoTIFF tiles, training rasters and the OSM-to-CLC translation table are released under CC-BY 4.0 (DOI: 10.11588/data/IUTCDN) and visualised at https://osmlanduse.org; GPL-3.0 scripts ensure full reproducibility.
+Three methodological insights emerge. First, the current density and thematic granularity of OSM LU tags suffice to train deep networks that generalise across divergent biogeographic regions without external annotation campaigns. Second, multi-temporal medoid compositing plus per-country modelling dampens atmospheric noise and phenological divergence, enabling continental consistency from uncalibrated top-of-atmosphere data.
+Third, open-science principles—public code, permissive licences, cloud execution—place high-resolution mapping within reach of resource-constrained institutions.
+
+The dataset opens new avenues for investigating LU dynamics, from crop-rotation detection and peri-urban sprawl quantification (SDG 11.3.1) to habitat-specific sampling frames for biodiversity surveys and downscaling of economic statistics. Moreover, its billions of labelled pixels address the chronic scarcity of public training corpora highlighted by recent computer-vision studies.
+Limitations persist. Crowdsourced tags remain temporally asynchronous; the March 2020 snapshot necessarily precedes pandemic-era peri-urban expansion. Spectral ambiguity endures in arid shrublands and gravel pits, and the 10 m grid misses features narrower than one pixel such as hedgerows. Nevertheless, by releasing not only the final map but all processing scripts under GPL-3.0 we invite replication, auditing and regional adaptation.
+Training was performed on the FAO SEPAL cloud using Nesterov-accelerated Adam, batch size 64 and early stopping on 20 % held-out OSM tiles per country. Managing the 1.2 TB Sentinel-2 archive through orbit-wise partitioning and raster caching allowed execution of the full continental workflow within 96 GPU-hours on commodity instances. Sampling 5 000 patches per class and tile balanced the abundant yet noisy training labels while preserving rare categories such as mines and wetlands.
+While earlier studies either harvested OSM tags to create fragmented local LU layers or applied deep networks to remote-sensing mosaics devoid of human semantics, our approach unifies both paradigms at continental scale. This synergy circumvents the classic cartographic trade-off between spatial detail, thematic depth and geographic extent, whilst adhering strictly to open-data licences.
+Policy makers can exploit OSMlanduse for rapid appraisal of agricultural subsidy eligibility, Natura 2000 management and disaster-risk exposure without waiting for the next CLC release. Sub-municipal authorities may integrate the vector segments directly into cadastre systems, whereas climate modellers gain higher-resolution surface descriptors that improve albedo and evapotranspiration parameterisation in regional Earth-system simulations. The open architecture ensures that local corrections contributed through everyday OSM editing propagate into forthcoming versions, creating a virtuous cycle of citizen engagement and scientific refinement.
+By making the entire workflow transparent we aspire to seed analogous initiatives on other continents, particularly in data-scarce regions where OSM growth is accelerating. Replication requires only Sentinel-2 coverage and a minimally tagged OSM backbone—resources already available in most inhabited areas. We therefore invite collaboration from both researchers and local mapping communities to test transferability, co-produce validation data and push the frontier of open land-use science.
+We conclude that crowdsourced mapping and Earth observation form a complementary, fully open pipeline capable of producing reliable 10 m LU information at continental scale, bridging the thematic gap between authoritative 100 m inventories and purely spectral cover maps.
+

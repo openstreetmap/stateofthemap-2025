@@ -4,10 +4,10 @@ title: "Thinking Beyond the Map"
 code: "AL8ZGL"
 speaker_names: ['Ivan Harris Tanyag']
 affiliations: None
-room: "Mayon"
+room: "Pulag"
 length: "20"
-time: "Friday, 11:30"
-time_iso: "2025-10-03T03:30:00Z"
+time: "Friday, 12:00"
+time_iso: "2025-10-03T04:00:00Z"
 resources: []
 recording: True
 ---

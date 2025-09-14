@@ -6,8 +6,8 @@ speaker_names: ['SotM Working Group']
 affiliations: None
 room: "Apo"
 length: "20"
-time: "Friday, 09:00"
-time_iso: "2025-10-03T01:00:00Z"
+time: "Friday, 09:30"
+time_iso: "2025-10-03T01:30:00Z"
 resources: []
 recording: True
 ---
