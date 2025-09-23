@@ -2,7 +2,7 @@
 layout: session
 title: "OSMF Board AMA"
 code: "ECRTL9"
-speaker_names: ['Laura Mugeha', 'Héctor Ochoa Ortiz']
+speaker_names: ['Brazil Singh', 'Laura Mugeha', 'Héctor Ochoa Ortiz']
 affiliations: None
 room: "Apo"
 length: "60"

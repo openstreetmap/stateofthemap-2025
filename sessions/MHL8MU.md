@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Friday, 16:30"
 time_iso: "2025-10-03T08:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2025/submissions/MHL8MU/resources/SOTM_Manila_2025__Ef4rSAg.pdf" },{ description: "Poster", url: "https://pretalx.com/media/sotm2025/submissions/MHL8MU/resources/HeiGIT_poster_map_YOfWjVi.pdf" }]
 recording: True
 ---
 

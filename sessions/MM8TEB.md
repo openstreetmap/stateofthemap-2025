@@ -12,17 +12,15 @@ resources: []
 recording: True
 ---
 
-Over the past few years, the open mapping movement in Sri Lanka has witnessed a quiet revolution—led not by tech giants, but by grassroots changemakers. In this talk, I will share my journey of introducing and integrating OpenStreetMap (OSM) and open geospatial tools into the workflows of 113 civil society organizations in Sri Lanka.
+The open mapping movement in Sri Lanka has gained significant traction in recent years, with grassroots organizations demonstrating how open geospatial technologies can serve as tools for advocacy, resilience, and participatory governance. Supported by the Vriddhi Project, implemented by UNOPS Sri Lanka, this initiative introduced OpenStreetMap (OSM) and complementary open-source geospatial tools to 113 civil society organizations (CSOs) in Sri Lanka. These CSOs represented diverse sectors including women’s rights, land rights, environmental protection, youth development and disaster risk reduction.
 
-From initial awareness sessions to hands-on training, the talk will walk through how open maps were demystified and transformed into powerful tools for advocacy, community development, disaster preparedness, and resource mapping. I’ll highlight real-life use cases where OSM contributed to amplifying local voices and solving local challenges, including navigating post-disaster recovery and environmental monitoring.
+The approach was structured around four pillars. Initiation and Engagement examined how the unfamiliar concept of open mapping was contextualized in local languages, building trust and digital confidence among grassroots actors. Capacity Building and Toolkits focused on the design of non-technical training modules and the deployment of user-friendly tools that directly informed local advocacy. Challenges and Lessons Learned highlighted issues of digital inequality, connectivity gaps, institutional skepticism, and gendered barriers to participation, while also reflecting on strategies to sustain momentum in remote and conflict-affected areas. Outcomes and Impact showcased case studies, including mapping project outcomes, visualizing land disputes, and documenting community assets, demonstrating how open mapping enhanced transparency, collaboration, and storytelling across civil society initiatives.
 
-The session will also explore the barriers encountered—technical, institutional, and cultural—and the creative strategies employed to overcome them. By the end, participants will gain insights into the practical steps for initiating open mapping in grassroots settings, the importance of local ownership, and why civil society must be central to the open data conversation in South Asia.
-
-Let’s map the unmapped—together, for change.
+By embedding open mapping practices into grassroots workflows, this project illustrates the transformative potential of locally driven geospatial innovation. It further underscores the critical role of civil society in advancing open data ecosystems and sustaining participatory development in South Asia.
 
 <hr>
 
-This session will take the audience on a journey through the practical, human-centered introduction of OpenStreetMap and open geospatial technologies to civil society organizations (CSOs) across Sri Lanka. Spanning all 25 districts, the initiative empowered 78 organizations working in diverse sectors—ranging from women’s rights, land rights and environmental protection to youth development and disaster risk reduction.
+This session will take the audience on a journey through the practical, human-centered introduction of OpenStreetMap and open geospatial technologies to civil society organizations (CSOs) across Sri Lanka. Spanning all 25 districts, the initiative empowered 113 organizations working in diverse sectors—ranging from women’s rights, land rights and environmental protection to youth development and disaster risk reduction.
 
 The presentation will be structured around four key pillars:
 

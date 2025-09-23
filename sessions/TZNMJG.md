@@ -2,7 +2,7 @@
 layout: session
 title: "Platinum Sponsor Session: From Edits to Impact - TomTom’s Journey with OpenStreetMap Communities"
 code: "TZNMJG"
-speaker_names: ['Kiran Ahire']
+speaker_names: ['Kiran Ahire', 'Hajar ElOuafi']
 affiliations: None
 room: "Guiting-guiting"
 length: "15"

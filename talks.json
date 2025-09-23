@@ -728,7 +728,7 @@
       "code": "MM8TEB",
       "id": 1336838,
       "title": "Mapping for Impact: Introducing Open Mapping to Civil Society in Sri Lanka",
-      "abstract": "Over the past few years, the open mapping movement in Sri Lanka has witnessed a quiet revolution—led not by tech giants, but by grassroots changemakers. In this talk, I will share my journey of introducing and integrating OpenStreetMap (OSM) and open geospatial tools into the workflows of 113 civil society organizations in Sri Lanka.\r\n\r\nFrom initial awareness sessions to hands-on training, the talk will walk through how open maps were demystified and transformed into powerful tools for advocacy, community development, disaster preparedness, and resource mapping. I’ll highlight real-life use cases where OSM contributed to amplifying local voices and solving local challenges, including navigating post-disaster recovery and environmental monitoring.\r\n\r\nThe session will also explore the barriers encountered—technical, institutional, and cultural—and the creative strategies employed to overcome them. By the end, participants will gain insights into the practical steps for initiating open mapping in grassroots settings, the importance of local ownership, and why civil society must be central to the open data conversation in South Asia.\r\n\r\nLet’s map the unmapped—together, for change.",
+      "abstract": "The open mapping movement in Sri Lanka has gained significant traction in recent years, with grassroots organizations demonstrating how open geospatial technologies can serve as tools for advocacy, resilience, and participatory governance. Supported by the Vriddhi Project, implemented by UNOPS Sri Lanka, this initiative introduced OpenStreetMap (OSM) and complementary open-source geospatial tools to 113 civil society organizations (CSOs) in Sri Lanka. These CSOs represented diverse sectors including women’s rights, land rights, environmental protection, youth development and disaster risk reduction.\r\n\r\nThe approach was structured around four pillars. Initiation and Engagement examined how the unfamiliar concept of open mapping was contextualized in local languages, building trust and digital confidence among grassroots actors. Capacity Building and Toolkits focused on the design of non-technical training modules and the deployment of user-friendly tools that directly informed local advocacy. Challenges and Lessons Learned highlighted issues of digital inequality, connectivity gaps, institutional skepticism, and gendered barriers to participation, while also reflecting on strategies to sustain momentum in remote and conflict-affected areas. Outcomes and Impact showcased case studies, including mapping project outcomes, visualizing land disputes, and documenting community assets, demonstrating how open mapping enhanced transparency, collaboration, and storytelling across civil society initiatives.\r\n\r\nBy embedding open mapping practices into grassroots workflows, this project illustrates the transformative potential of locally driven geospatial innovation. It further underscores the critical role of civil society in advancing open data ecosystems and sustaining participatory development in South Asia.",
       "speakers": [
         "3D8BL8"
       ],
@@ -914,7 +914,8 @@
       "title": "Platinum Sponsor Session: From Edits to Impact - TomTom’s Journey with OpenStreetMap Communities",
       "abstract": "TomTom partners with OSM communities worldwide to build richer maps through collective action. In this SotM Global event 2025, we share how we support university mapathons, YouthMappers, and humanitarian mapping in 189 countries, reflecting on learnings and challenges in scaling community engagement while advancing OSM’s mission through meaningful, local partnerships.",
       "speakers": [
-        "SWWSGH"
+        "SWWSGH",
+        "RAV9PX"
       ],
       "track": 6311,
       "start": "2025-10-04T17:00:00+08:00",
@@ -1280,7 +1281,8 @@
       "abstract": "During the OpenStreetMap Foundation Board Ask Us Anything (i.e. AMA) session, we will take questions from the audience oand/or more questions that the larger community can submit before the event. We can discuss the board's past actions and our future plans.\r\n\r\nLet’s have a conversation about the Foundation and the Board and how all the parts work together. If you know nothing about what the board is doing, this is a chance to find out. Find out what the Foundation does and doesn’t do, what it can and can’t do. Find out how you can help and get involved. The Board is committed to openness and wants to engage with the community.\r\n\r\nFeel free to ask us questions also outside this specific session.",
       "speakers": [
         "KEEP87",
-        "SXPGUB"
+        "SXPGUB",
+        "ZNVRYC"
       ],
       "track": 5522,
       "start": "2025-10-05T14:30:00+08:00",
@@ -1587,6 +1589,7 @@
     }
   ],
   "version": "0.5.0",
+  "schedule_id": 10577,
   "timezone": "Asia/Manila",
   "event_start": "2025-10-03",
   "event_end": "2025-10-05",
@@ -1953,6 +1956,13 @@
       "avatar": "https://pretalx.com/media/avatars/JBAK7J_D4lGb6s.jpg",
       "avatar_thumbnail_default": "https://pretalx.com/media/avatars/JBAK7J_D4lGb6s_thumbnail_default.jpg",
       "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/JBAK7J_D4lGb6s_thumbnail_tiny.jpg"
+    },
+    {
+      "code": "RAV9PX",
+      "name": "Hajar ElOuafi",
+      "avatar": "https://pretalx.com/media/avatars/RAV9PX_qo0zsmq.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/RAV9PX_qo0zsmq_thumbnail_default.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/RAV9PX_qo0zsmq_thumbnail_tiny.jpg"
     },
     {
       "code": "8L9AVU",
