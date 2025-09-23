@@ -4,10 +4,10 @@ title: "Addressing Participation Gaps in Nepal’s OSM Ecosystem: Strategies for
 code: "RUCRPS"
 speaker_names: ['Dibikshya Shrestha']
 affiliations: None
-room: "Pulag"
+room: "Mayon"
 length: "20"
-time: "Friday, 17:00"
-time_iso: "2025-10-03T09:00:00Z"
+time: "Saturday, 15:00"
+time_iso: "2025-10-04T07:00:00Z"
 resources: []
 recording: True
 ---

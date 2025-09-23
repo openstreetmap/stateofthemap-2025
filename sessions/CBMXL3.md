@@ -6,8 +6,8 @@ speaker_names: ['Minh Nguyễn']
 affiliations: None
 room: "Mayon"
 length: "20"
-time: "Friday, 17:00"
-time_iso: "2025-10-03T09:00:00Z"
+time: "Saturday, 14:30"
+time_iso: "2025-10-04T06:30:00Z"
 resources: []
 recording: True
 ---

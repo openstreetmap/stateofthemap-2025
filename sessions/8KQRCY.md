@@ -4,12 +4,12 @@ title: "Platinum Sponsor Session: OSM Data for Two-Wheelers and Safety"
 code: "8KQRCY"
 speaker_names: ['Soh Leng']
 affiliations: None
-room: "Guiting-guiting"
+room: "Pulag"
 length: "15"
-time: "Saturday, 16:30"
-time_iso: "2025-10-04T08:30:00Z"
+time: "Friday, 17:00"
+time_iso: "2025-10-03T09:00:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 This talk delves into the unique challenges and opportunities of enhancing OpenStreetMap (OSM) data for two-wheeler routing and safety. Two-wheelers are a vital mode of transportation within SEA, yet their safety needs are often overlooked. 

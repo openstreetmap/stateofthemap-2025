@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Lightning Talks I"
+title: "Lightning Talks II"
 code: "NVHF3U"
 speaker_names: ['SotM Working Group']
 affiliations: None

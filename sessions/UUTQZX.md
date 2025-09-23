@@ -6,8 +6,8 @@ speaker_names: ['Daniele Santini']
 affiliations: None
 room: "Mayon"
 length: "20"
-time: "Saturday, 15:00"
-time_iso: "2025-10-04T07:00:00Z"
+time: "Sunday, 12:00"
+time_iso: "2025-10-05T04:00:00Z"
 resources: []
 recording: True
 ---

@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Lightning Talks III"
+title: "Lightning Talks IV"
 code: "YDSFTB"
 speaker_names: ['SotM Working Group']
 affiliations: None

@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Lightning Talks II"
+title: "Lightning Talks III"
 code: "SAWRUB"
 speaker_names: ['SotM Working Group']
 affiliations: None
