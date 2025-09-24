@@ -2,13 +2,13 @@
 layout: session
 title: "PlaceCrafter: Curating Urban Functional Regions through Platial Clustering of OpenStreetMap Points of Interest"
 code: "LJGVP9"
-speaker_names: ['James']
+speaker_names: ['James Williams']
 affiliations: None
 room: "Pulag"
 length: "5"
 time: "Friday, 12:30"
 time_iso: "2025-10-03T04:30:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "https://pretalx.com/media/sotm2025-osm-science/submissions/LJGVP9/resources/Place_9ZbwmNN.pdf" }]
 recording: True
 ---
 

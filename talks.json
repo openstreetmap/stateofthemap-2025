@@ -1296,7 +1296,8 @@
       "speakers": [
         "KEEP87",
         "SXPGUB",
-        "ZNVRYC"
+        "ZNVRYC",
+        "VNDWRP"
       ],
       "track": 5522,
       "start": "2025-10-05T14:30:00+08:00",
@@ -1923,6 +1924,13 @@
       "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/TJ9EBM_XbPDHu0_thumbnail_tiny.jpg"
     },
     {
+      "code": "VNDWRP",
+      "name": "Roland Olbricht",
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
+    },
+    {
       "code": "8AZY3X",
       "name": "Esther Judith",
       "avatar": "https://pretalx.com/media/avatars/8AZY3X_NUMgegi.jpg",
@@ -2169,10 +2177,10 @@
     },
     {
       "code": "9ZR3LL",
-      "name": "James",
-      "avatar": "",
-      "avatar_thumbnail_default": "",
-      "avatar_thumbnail_tiny": ""
+      "name": "James Williams",
+      "avatar": "https://pretalx.com/media/avatars/9ZR3LL_V6aWoHa.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/9ZR3LL_V6aWoHa_thumbnail_default_fny8OVT.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/9ZR3LL_V6aWoHa_thumbnail_tiny_1YNsRlo.jpg"
     },
     {
       "code": "YGRHL8",
