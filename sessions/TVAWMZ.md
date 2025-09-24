@@ -10,6 +10,7 @@ time: "Friday, 14:30"
 time_iso: "2025-10-03T06:30:00Z"
 resources: [{ description: "QGIS Installation Guide", url: "https://pretalx.com/media/sotm2025/submissions/TVAWMZ/resources/QGIS_Installation_vtY4FFD.pdf" },{ description: "Presentation Slides", url: "https://pretalx.com/media/sotm2025/submissions/TVAWMZ/resources/Slides_m6Mn9wW.pdf" }]
 recording: False
+prerecorded: False
 ---
 
 This hands-on workshop is designed for beginners who are curious about Geographic Information Systems (GIS) and want to explore the power of open-source mapping through QGIS. Participants will be introduced to the fundamentals of GIS, the QGIS interface, and basic tools for creating, editing, and visualizing spatial data. The session will include a practical component where attendees will carry out a simple mapping task using real-world datasets. Whether you're a student, researcher, development professional, or simply GIS-curious, this workshop will equip you with the foundational skills to start your own mapping journey. No prior GIS experience required—just bring your curiosity!

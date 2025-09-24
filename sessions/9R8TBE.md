@@ -10,6 +10,7 @@ time: "Sunday, 09:30"
 time_iso: "2025-10-05T01:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 In April and May, 2025, in Freetown, 13 of the city’s residents became the first open drone

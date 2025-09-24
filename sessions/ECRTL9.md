@@ -10,6 +10,7 @@ time: "Sunday, 14:30"
 time_iso: "2025-10-05T06:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 During the OpenStreetMap Foundation Board Ask Us Anything (i.e. AMA) session, we will take questions from the audience oand/or more questions that the larger community can submit before the event. We can discuss the board's past actions and our future plans.

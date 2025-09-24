@@ -10,6 +10,7 @@ time: "Sunday, 10:30"
 time_iso: "2025-10-05T02:30:00Z"
 resources: []
 recording: True
+prerecorded: True
 ---
 
 On December 14, 2024, the territory of Mayotte, a French department of more than 300,000 inhabitants made up of several islands between Africa and Madagascar, was hit by the passage of Chido, the most violent cyclone it had seen in more than fifty years.

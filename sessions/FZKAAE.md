@@ -10,6 +10,7 @@ time: "Sunday, 09:30"
 time_iso: "2025-10-05T01:30:00Z"
 resources: []
 recording: False
+prerecorded: False
 ---
 
 Using OpenStreetMap and GIS to Monitor Urban Sprawl, Forecast Building Demand, and Evaluate Urban Development Trends

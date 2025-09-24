@@ -10,6 +10,7 @@ time: "Friday, 14:30"
 time_iso: "2025-10-03T06:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 This is a story about the last 7 years of OSMTracker and how, from an academic space in a Costa Rican public university, we managed to keep alive the app with computer engineering undergrad students.  We want to share what we have learned: the challenges and contributions during this process, and how we plan to continue. 

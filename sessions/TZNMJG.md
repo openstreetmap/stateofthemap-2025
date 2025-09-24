@@ -10,6 +10,7 @@ time: "Friday, 17:15"
 time_iso: "2025-10-03T09:15:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 TomTom partners with OSM communities worldwide to build richer maps through collective action. In this SotM Global event 2025, we share how we support university mapathons, YouthMappers, and humanitarian mapping in 189 countries, reflecting on learnings and challenges in scaling community engagement while advancing OSM’s mission through meaningful, local partnerships.

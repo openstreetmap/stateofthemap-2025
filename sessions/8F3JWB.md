@@ -10,6 +10,7 @@ time: "Saturday, 09:30"
 time_iso: "2025-10-04T01:30:00Z"
 resources: []
 recording: False
+prerecorded: False
 ---
 
 OpenStreetMap (OSM) is the most comprehensive open-source geospatial database in the world—but as it continues to grow, the tools for understanding and managing this data need to evolve as well. In this workshop, we explore how AI, when thoughtfully integrated with OSM workflows, can offer intelligent, context-aware support to mappers and developers alike.

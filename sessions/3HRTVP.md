@@ -10,6 +10,7 @@ time: "Saturday, 12:00"
 time_iso: "2025-10-04T04:00:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 This project aims to combine AI‐generated building predictions from fAIr with crowdsourced validation and conflation workflows in MapSwipe, ultimately pushing high‐confidence conflated map data into OpenStreetMap (OSM).

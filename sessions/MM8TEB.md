@@ -10,6 +10,7 @@ time: "Saturday, 14:30"
 time_iso: "2025-10-04T06:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 The open mapping movement in Sri Lanka has gained significant traction in recent years, with grassroots organizations demonstrating how open geospatial technologies can serve as tools for advocacy, resilience, and participatory governance. Supported by the Vriddhi Project, implemented by UNOPS Sri Lanka, this initiative introduced OpenStreetMap (OSM) and complementary open-source geospatial tools to 113 civil society organizations (CSOs) in Sri Lanka. These CSOs represented diverse sectors including women’s rights, land rights, environmental protection, youth development and disaster risk reduction.

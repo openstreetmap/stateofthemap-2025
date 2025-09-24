@@ -10,6 +10,7 @@ time: "Saturday, 09:30"
 time_iso: "2025-10-04T01:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 Not only NSI, but Wikidata can be integrated with OpenStreetMap, and vice versa! Many years ago, with the help of Wikidata Taiwan, OpenStreetMap Taiwan has mapped all 7,000 villages, and also cross-linked to Wikidata. We also have a similar river project of mapping all rivers in Taiwan and crosslinking to Wikidata with the help of the river code published by the Taiwan government. In this talk, we want to further talk about the school, mountain, church, temple, and hiking trail mapping projects, which also have the corresponding external 3rd-party Wikidata property. We will also describe the process like documenting and tools involved

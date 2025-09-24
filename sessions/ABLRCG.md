@@ -10,6 +10,7 @@ time: "Saturday, 12:30"
 time_iso: "2025-10-04T04:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 World-Map-Explorer is a web application that helps the visually impaired learn about the world and understand maps. It is a great pleasure to note that the application was developed by a group of students from the Computer Science Department of Sri Krishnapuram Government Engineering College in collaboration with Zendalona with support of OpenStreetMap Kerala Community.

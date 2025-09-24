@@ -10,6 +10,7 @@ time: "Saturday, 12:30"
 time_iso: "2025-10-04T04:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 OpenStreetMap (OSM) has become one of the most valuable open mapping platforms, yet many aspiring contributors struggle with the initial learning curve. Technical complexities, lack of structured on boarding, and limited localized training resources often prevent new mappers from fully engaging with OSM. This talk will highlight key challenges faced by beginners and propose practical solutions to make OSM more accessible and inclusive.

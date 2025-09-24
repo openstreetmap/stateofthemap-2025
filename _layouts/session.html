@@ -20,6 +20,7 @@ color: dark-nav
             Duration: {{page.length}}&nbsp;minutes{% unless page.noQA %} (plus Q&amp;A){% endunless %}
           </span>
         </p>
+	{% if page.prerecorded %}<p>This talk is pre-recorded.</p>{% endif %}
 
         {% if page.extra_time_1 %}
         <hr class="space-right4">

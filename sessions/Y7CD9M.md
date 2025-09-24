@@ -10,6 +10,7 @@ time: "Saturday, 10:00"
 time_iso: "2025-10-04T02:00:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 In today's digital mapping era, equipping students with practical GIS skills is essential. At The Institute of Survey &amp; Land Management, we have incorporated OpenStreetMap (OSM) and HOT Tasking Manager into our cartography curriculum to provide students with hands-on experience in open mapping. This integration not only enhances their technical skills but also exposes them to real-world geospatial data applications.

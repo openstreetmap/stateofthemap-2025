@@ -10,6 +10,7 @@ time: "Saturday, 11:30"
 time_iso: "2025-10-04T03:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 Since 2020, Japan’s Ministry of Land, Infrastructure, Transport and Tourism (MLIT) has led Project PLATEAU, releasing 3D city models in CityGML format. By 2025, over 236 municipalities have published building datasets compatible with the Open Database License (ODbL), suitable for integration into OpenStreetMap (OSM).

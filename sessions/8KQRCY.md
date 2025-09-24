@@ -10,6 +10,7 @@ time: "Friday, 17:00"
 time_iso: "2025-10-03T09:00:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 This talk delves into the unique challenges and opportunities of enhancing OpenStreetMap (OSM) data for two-wheeler routing and safety. Two-wheelers are a vital mode of transportation within SEA, yet their safety needs are often overlooked. 

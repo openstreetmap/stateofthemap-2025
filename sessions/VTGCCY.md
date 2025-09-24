@@ -10,6 +10,7 @@ time: "Saturday, 11:30"
 time_iso: "2025-10-04T03:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 Effective urban solid waste management in African cities remains a critical challenge characterized by rapid urbanization, limited infrastructure, and insufficient data. Traditional top-down approaches often fail to address the unique, hyperlocal realities of waste generation, disposal behaviors, and service gaps. This presentation explores how OpenMap Development Tanzania (OMDTZ) with the funds from the World Bank, has implemented community-driven data collection approaches in Tanzania, Mozambique, and Kenya to fill this knowledge gap and build more responsive, inclusive waste management systems.

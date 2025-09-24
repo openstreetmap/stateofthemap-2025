@@ -10,6 +10,7 @@ time: "Sunday, 12:30"
 time_iso: "2025-10-05T04:30:00Z"
 resources: []
 recording: True
+prerecorded: True
 ---
 
 Access to safe water and sanitation is critical for public health and sustainable urban development, yet significant disparities persist in informal settlements across low- and middle-income countries. This study explores inequalities in WASH access within Korogocho and Viwandani which are two densely populated informal settlements in Nairobi, using a participatory geospatial approach. Community members collaborated in mapping key WASH-related assets, including water points, sanitation facilities, and waste collection sites, enabling a detailed spatial understanding often absent in official datasets.

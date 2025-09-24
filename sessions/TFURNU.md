@@ -10,6 +10,7 @@ time: "Sunday, 11:30"
 time_iso: "2025-10-05T03:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 The Open Mapping Gurus are more than skilled mappers—they are changemakers rooted in their local contexts, driven by purpose, and committed to building resilient communities through open data. As mapping needs shift from short-term project engagement to long-term sustainability and impact, we need to equip these local champions not just with tools—but with vision, leadership, and strategy.

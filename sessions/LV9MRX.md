@@ -10,6 +10,7 @@ time: "Saturday, 14:30"
 time_iso: "2025-10-04T06:30:00Z"
 resources: []
 recording: False
+prerecorded: False
 ---
 
 OpenStreetMap (OSM) thrives on teamwork and the desire to accurately depict the globe. Nonetheless, within its contributor base, gender disparities still exist. In addition to reflecting larger cultural trends, this underrepresentation affects the type of data gathered and the viewpoints given priority. 

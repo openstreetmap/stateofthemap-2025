@@ -10,6 +10,7 @@ time: "Saturday, 11:30"
 time_iso: "2025-10-04T03:30:00Z"
 resources: []
 recording: False
+prerecorded: False
 ---
 
 In this 60-minute workshop, I will share my approach and personal workflow in managing remote mapping projects using the HOT Tasking Manager. Tailored for those with Project Manager access, yet open to all, the session aims to highlight real-world methods of setting up priority areas with limited ground data, responding effectively to volunteer feedback, and writing clear, actionable task instructions. I will also present an idea for forming temporary validator teams (not yet implemented), and openly share the challenges and pain points I’ve faced in these roles. The workshop is not about presenting a perfect solution, but about learning together and collecting ideas for continuous improvement.

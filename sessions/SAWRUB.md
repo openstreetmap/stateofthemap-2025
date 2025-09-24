@@ -10,6 +10,7 @@ time: "Saturday, 15:30"
 time_iso: "2025-10-04T07:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 Lightning talks are short presentations (maximum 5 minutes) about a topic related to OpenStreetMap.

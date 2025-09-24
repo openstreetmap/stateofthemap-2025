@@ -10,6 +10,7 @@ time: "Saturday, 17:00"
 time_iso: "2025-10-04T09:00:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 India’s OpenStreetMap community is characterised by its vast diversity and absence of a formal national body. Instead, independent regional groups drive mapping efforts, facing challenges such as funding restrictions and policy gaps. This talk highlights the “local first” approach, empowering regional communities to build sustainable mapping initiatives.

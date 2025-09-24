@@ -10,6 +10,7 @@ time: "Friday, 12:00"
 time_iso: "2025-10-03T04:00:00Z"
 resources: [{ description: "Openrouteservice Website", url: "https://openrouteservice.org/" },{ description: "Heidelberg Institute for Geoinformation Technology (HeiGIT) Website", url: "https://heigit.org/" },{ description: "University of Heidelberg, Faculty of Geoinformation Sciences", url: "https://www.geog.uni-heidelberg.de/gis/index_en.html" }]
 recording: False
+prerecorded: False
 ---
 
 **Turn OpenStreetMap data into routing insights** with openrouteservice and QGIS, no servers, no sign-ups, no code.

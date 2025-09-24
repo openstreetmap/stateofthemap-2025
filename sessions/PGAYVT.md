@@ -10,6 +10,7 @@ time: "Saturday, 14:30"
 time_iso: "2025-10-04T06:30:00Z"
 resources: []
 recording: False
+prerecorded: False
 ---
 
 This training session will show how to get started with JOSM editor from the very first steps after installation to some plugins and advanced features which makes it different from iD Editor.

@@ -10,6 +10,7 @@ time: "Friday, 16:30"
 time_iso: "2025-10-03T08:30:00Z"
 resources: []
 recording: False
+prerecorded: False
 ---
 
 This hands-on workshop will guide participants through the complete geospatial data pipeline, starting from drone imagery generation to processing high-precision imagery, generating building predictions using AI, and validating results via field mapping tools.

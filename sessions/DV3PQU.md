@@ -10,6 +10,7 @@ time: "Saturday, 15:30"
 time_iso: "2025-10-04T07:30:00Z"
 resources: []
 recording: True
+prerecorded: False
 ---
 
 This talk presents my personal journey as a case study on how OpenStreetMap (OSM) and YouthMappers can shape the lives and careers of young people especially in the Global South through practical learning, leadership opportunities, and global connections. I will share how I discovered OSM as a first-year university student in Uganda, joined the YouthMappers chapter at my university, and gradually grew into a leader and mentor within the community.
