@@ -1,0 +1,87 @@
+---
+layout: page-with-toc
+title: Live Stream
+titlecontent: "Watch the SotM 2025 live stream. The following streams are available:"
+headings: "apo-mayon,pulag"
+---
+
+<p>The main tracks of the State of the Map with most talks of the general and OSM Science <a href="../programme">programme</a> can be watched live here. Note that if you have a <em>“Venueless”</em> conference <a href="/tickets/">ticket</a>, you can watch all talks, ask questions and interact with other attendees on the <a href="https://venueless.events">Venueless</a> conference platform at <a href="https://sotm2025.venueless.events/">https://sotm2025.venueless.events/</a>. You can enter the conference platform by clicking on the <em>"Join online event"</em> button on the ticket page which is linked from the emails you received from our ticketing system (pretix).</p>
+
+<h2 id="apo-mayon">Apo/Mayon</h2>
+
+<video id="video-auditorium-1" style="width:100%" controls data-stream-url="https://cache.xemo.ch/live/sotm-2025-apo-mayon.m3u8"></video>
+
+<p>Audio-only version: <audio id="audio-auditorium-1" controls src="https://cache.xemo.ch/live/sotm-2025-apo-mayon.mp3"></audio></p>
+
+<h2 id="pulag">Pulag</h2>
+
+<video id="video-auditorium-2" style="width:100%" controls data-stream-url="https://cache.xemo.ch/live/sotm-2025-pulag.m3u8"></video>
+
+<p>Audio-only version: <audio id="audio-auditorium-2" controls src="https://cache.xemo.ch/live/sotm-2025-pulag.mp3"></audio></p>
+
+
+<script src="./hls.js"></script>
+<script>
+(function () {
+  const rooms = ['auditorium-1', 'auditorium-2'];
+  rooms.forEach(function(room) {
+    const video = document.getElementById('video-'+room);
+    const videoSrc = video.dataset.streamUrl;
+    if (Hls.isSupported()) {
+      const hls = new Hls({
+        debug: false
+      });
+      hls.loadSource(videoSrc);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.ERROR, function (event, data) {
+        if (data.fatal) {
+          switch (data.type) {
+            case Hls.ErrorTypes.NETWORK_ERROR:
+              console.log('Fatal network error encountered, try to recover');
+              hls.startLoad();
+              break;
+            case Hls.ErrorTypes.MEDIA_ERROR:
+              console.log('fatal media error encountered, try to recover');
+              hls.recoverMediaError();
+              break;
+            default:
+              console.log('fatal, unrecoverable error encountered, freeing resources');
+              hls.destroy();
+              break;
+          }
+        }
+      });
+    }
+    else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = videoSrc;
+    }
+  });
+})();
+</script>
+
+<h2>Alternative watching methods</h2>
+<p>
+  If you prefer watching the live stream using a dedicated player (like <a href="https://www.videolan.org/vlc/">VLC</a>) instead of the embedded one on this page, you can use the following URLs:
+</p>
+
+<ul>
+  <li>Apo/Mayon
+    <ul>
+      <li>Video: <a href="https://cache.xemo.ch/live/sotm-2025-apo-mayon.m3u8">https://cache.xemo.ch/live/sotm-2025-apo-mayon.m3u8</a></li>
+      <li>Audio only: <a href="https://cache.xemo.ch/live/sotm-2025-apo-mayon.mp3">https://cache.xemo.ch/live/sotm-2025-apo-mayon.mp3   </a></li>
+    </ul>
+  </li>
+  <li>Pulag
+    <ul>
+      <li>Video: <a href="https://cache.xemo.ch/live/sotm-2025-pulag.m3u8">https://cache.xemo.ch/live/sotm-2025-pulag.m3u8</a></li>
+      <li>Audio only: <a href="https://cache.xemo.ch/live/sotm-2025-pulag.mp3">https://cache.xemo.ch/live/sotm-2025-pulag.mp3</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>If you prefer using <a href="https://kodi.tv/">Kodi</a> to watch the video streams, you can use the following <a href="https://kodi.wiki/view/Internet_video_and_audio_streams#The_.STRM_file_method:"><code>.strm</code></a> files by saving them into a directory that is accessible to Kodi and opening them from within the Kodi user interface:</p>
+
+<ul>
+  <li><a href="./SotM-2025-Apo-Mayon.strm">Apo/Mayon</a></li>
+  <li><a href="./SotM-2025-Pulag.strm">Pulag</a></li>
+</ul>
