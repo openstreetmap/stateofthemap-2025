@@ -1,0 +1,54 @@
+---
+layout: default
+sitetitle: true
+options: dark-nav
+---
+
+
+<div class='keyline-top pad8y'>
+  <div class='limiter'>
+    <div class='pad4y col12 clearfix prose min-height'>
+      <div class='programme'>
+        <div>
+          <h1 class="purple-text">{{page.title}}</h1>
+          {% if page.titlecontent %}{{page.titlecontent}}{% endif %}
+          <!-- begin toc -->
+          <div id="toc"><ul class="nav toc">
+          <script>
+            document.addEventListener('DOMContentLoaded', function() {
+              var headings = '{{page.headings}}'.split(',');
+              for (var heading in headings) {
+                var id = headings[heading];
+                var title = document.getElementById(id).title || document.getElementById(id).textContent;
+                $("#toc ul").append(`<li class=""><a href="#${id}" class="strong block pad1x page-scroll" title="${title}">${title}</a></li>`);
+              }
+
+              function hasScrollbar() {
+                return document.body.scrollHeight > document.body.clientHeight;
+              }
+              if (hasScrollbar()) {
+                $("body").scrollspy({ target: "#toc" });
+              }
+              $(window).resize(function() {
+                if (hasScrollbar()) {
+                  $("body").scrollspy({ target: "#toc" });
+                  $("body").scrollspy("refresh");
+                } else {
+                  $("body").scrollspy("clear");
+                }
+              });
+            }, false);
+          </script>
+          </ul></div>
+          <!--end toc -->
+        </div>
+        &nbsp;
+      </div>
+      <div class=''>
+        <div class="space-left4 content">
+          {{content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
