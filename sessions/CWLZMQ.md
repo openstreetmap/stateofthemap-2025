@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Friday, 15:30"
 time_iso: "2025-10-03T07:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2025-osm-science/submissions/CWLZMQ/resources/Intel_hc5THDl.pdf" }]
 recording: True
 prerecorded: False
 ---

@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2025-10-03T06:30:00Z"
-resources: []
+resources: [{ description: "When Metadata Isn’t Enough - presentation", url: "https://pretalx.com/media/sotm2025-osm-science/submissions/EH3ZWQ/resources/Danie_NHMpTrX.pdf" }]
 recording: True
 prerecorded: False
 ---

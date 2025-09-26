@@ -6,8 +6,8 @@ speaker_names: ['Kiran Ahire', 'Hajar ElOuafi']
 affiliations: None
 room: "Pulag"
 length: "15"
-time: "Friday, 17:15"
-time_iso: "2025-10-03T09:15:00Z"
+time: "Friday, 17:20"
+time_iso: "2025-10-03T09:20:00Z"
 resources: []
 recording: True
 prerecorded: False

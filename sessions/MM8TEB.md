@@ -21,7 +21,7 @@ By embedding open mapping practices into grassroots workflows, this project illu
 
 <hr>
 
-This session will take the audience on a journey through the practical, human-centered introduction of OpenStreetMap and open geospatial technologies to civil society organizations (CSOs) across Sri Lanka. Spanning all 25 districts, the initiative empowered 113 organizations working in diverse sectors—ranging from women’s rights, land rights and environmental protection to youth development and disaster risk reduction.
+This session will take the audience on a journey through the practical, human-centered introduction of OpenStreetMap and open geospatial technologies to civil society organizations (CSOs) across Sri Lanka. This  initiative empowered 113 organizations working in diverse sectors—ranging from women’s rights, land rights and environmental protection to youth development and disaster risk reduction.
 
 The presentation will be structured around four key pillars:
 

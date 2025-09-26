@@ -5,10 +5,10 @@ code: "RUCRPS"
 speaker_names: ['Dibikshya Shrestha']
 affiliations: None
 room: "Mayon"
-length: "20"
-time: "Saturday, 15:00"
-time_iso: "2025-10-04T07:00:00Z"
-resources: []
+length: "15"
+time: "Friday, 17:20"
+time_iso: "2025-10-03T09:20:00Z"
+resources: [{ description: "Presentation slides", url: "https://pretalx.com/media/sotm2025/submissions/RUCRPS/resources/Addressing_Partic_joNpECD.pdf" }]
 recording: True
 prerecorded: True
 ---
