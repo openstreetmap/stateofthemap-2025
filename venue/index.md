@@ -29,9 +29,8 @@ The Philippines is a tropical country. It has relatively high temperature, high 
 We are hosting SotM 2025 on October 3-5 at the University of the Philippines Diliman (UPD), one of the country’s premier institutions for higher learning. UP Diliman is located in Quezon City (QC), the largest city in Metro Manila both in terms of population and land area.
 
 The conference will take place on on two venues:
-1. Plenary sessions and lunch breaks will take place at GT-Toyota Asian Center Auditorium
-2. Parallel sessions, snacks and exhibits will take place at the Industrial Engineering/Mechanial Engineering (IE/ME) Building
-
+1. Plenary sessions and lunch breaks will take place at GT-Toyota Asian Center Auditorium (entrance on Magsaysay Avenue, corner of C-5 (Katipunan Avenue.))
+2. Parallel sessions, snacks and exhibits will take place at the Industrial Engineering/Mechanial Engineering (IE/ME) Building, two blocks west.
 ## How to get there
 
 Depending on where you are coming from, you can use [sakay.ph](https://www.sakay.ph/) for public commute directions.
