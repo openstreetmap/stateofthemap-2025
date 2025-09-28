@@ -1315,7 +1315,8 @@
         "KEEP87",
         "SXPGUB",
         "ZNVRYC",
-        "VNDWRP"
+        "VNDWRP",
+        "9LCYEQ"
       ],
       "track": 5522,
       "start": "2025-10-05T14:30:00+08:00",
@@ -1800,6 +1801,13 @@
       "avatar": "https://pretalx.com/media/avatars/AB9QXF_BgY1DHK.jpeg",
       "avatar_thumbnail_default": "https://pretalx.com/media/avatars/AB9QXF_BgY1DHK_thumbnail.jpeg",
       "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/AB9QXF_BgY1DHK_thumbnail_tiny.jpeg"
+    },
+    {
+      "code": "9LCYEQ",
+      "name": "Craig Allan",
+      "avatar": "https://pretalx.com/media/avatars/9LCYEQ_tVwQp0W.png",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/9LCYEQ_tVwQp0W_thumbnail_default_sGhXU96.png",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/9LCYEQ_tVwQp0W_thumbnail_tiny.png"
     },
     {
       "code": "KEEP87",

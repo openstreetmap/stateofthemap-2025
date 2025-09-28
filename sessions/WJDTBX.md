@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Friday, 15:00"
 time_iso: "2025-10-03T07:00:00Z"
-resources: []
+resources: [{ description: "Presentation in PDF format.", url: "https://pretalx.com/media/sotm2025-osm-science/submissions/WJDTBX/resources/Stamp_ScztEE4.pdf" }]
 recording: True
 prerecorded: False
 ---
