@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2025-10-04T08:30:00Z"
-resources: []
+resources: [{ description: "Presentation (PDF v1) on &#34;OSM Swiss Style&#34; by Stefan Keller, State of the Map 2025 Manila, 2025-10-04", url: "https://pretalx.com/media/sotm2025/submissions/RD3WXL/resources/2025-10-04_SotM_2_fdAEz2Y.pdf" },{ description: "Webapp of the &#34;OSM Swiss Base Map&#34; covering Switzerland and surrounding countries, July 2025 (No guarantee – subject to change or unavailability)", url: "https://osm-swiss-style.infs.ch/" },{ description: "&#34;OSM Swiss Base Map&#34; showing Zermatt at zoom level ~16.7 (Screenshot 2025-09-28)", url: "https://pretalx.com/media/sotm2025/submissions/RD3WXL/resources/2025-10-04_SotM_2_KZUQJlR.png" }]
 recording: True
 prerecorded: True
 ---
