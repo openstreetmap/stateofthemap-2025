@@ -8,25 +8,24 @@ room: "Online Workshops"
 length: "60"
 time: "Friday, 16:30"
 time_iso: "2025-10-03T08:30:00Z"
-resources: [{ description: "Heidelberg Institute for Geoinformation Technology (HeiGIT) Website", url: "https://heigit.org/" },{ description: "Openrouteservice Website", url: "https://openrouteservice.org/" },{ description: "University of Heidelberg, Faculty of Geoinformation Sciences", url: "https://www.geog.uni-heidelberg.de/gis/index_en.html" }]
+resources: [{ description: "Heidelberg Institute for Geoinformation Technology (HeiGIT) Website", url: "https://heigit.org/" },{ description: "Openrouteservice Website", url: "https://openrouteservice.org/" },{ description: "HeiGIT Workshop Link", url: "https://workshops.heigit.org/orstools-workshop-qgis-uc2025/intro.html" },{ description: "University of Heidelberg, Faculty of Geoinformation Sciences", url: "https://www.geog.uni-heidelberg.de/gis/index_en.html" },{ description: "QGIS User Conference - OSM and ORS talk", url: "https://www.youtube.com/watch?v=F3DbLgXey8E&amp;list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7&amp;index=8" }]
 recording: False
 prerecorded: False
 ---
 
 **Turn OpenStreetMap data into routing insights** with openrouteservice and QGIS, no servers, no sign-ups, no code.
 
-In this 90-minute hands-on session **for newcomers and intermediates**, you’ll:
-- See **how OSM tags become a routable network** and why popular routing engines offer directions, isochrones &amp; matrices per default and what they do.
-- Connect the **ORS-Tools QGIS-plugin** with the public openrouteservice API with **API-keys we hand out on the spot**.
+In this 60-minute hands-on session **for newcomers and intermediates**, you’ll:
+- **Sign up** to and connect the **ORS-Tools QGIS-plugin** with the public openrouteservice API
 - **Build multiprofile routes** around the SotM venue, **calculate hospital service areas** in Manila, and **solve a medicine delivery** to every of those hospitals **with** the help of easy to access **vehicle optimisation**.
 
 You’ll walk away with a **reusable QGIS project**, a **tutorial**, and the confidence and knowledge to **repeat the workflow anywhere, anytime**.
 
 <hr>
 
-This 90-minute workshop is a hands-on session for newcomers and intermediates to learn how to do routing and mobility analysis with OSM data and openrouteservice in QGIS.
+This 60-minute workshop is a hands-on session for newcomers and intermediates to learn how to do routing and mobility analysis with OSM data and openrouteservice in QGIS.
 
-We start with a **fast-but-thorough introduction** with the basics for the new ones: 
+In case you  start with a **fast-but-thorough introduction** with the basics for the new ones: 
 - How are **OSM tags** converted into routable networks; 
 - How do you **access OSM data for mobility analysis**;
 - The **three core services of routing engines**: directions, isochrones, matrix. 
@@ -35,9 +34,9 @@ During the hands-on part, you'll learn how to use the ORS-Tools QGIS-plugin for 
 
 More specific you will:
 
-- **connect the ORS-Tools plugin** to the public ORS API using **workshop API-keys we provide – no signup needed**;
-- **build turn-by-turn routes** around the SotM 2025 venue;
-- calculate X-minute hospital isochrones in Manila and count the residents they cover;
+- **sign up** and **connect the ORS-Tools plugin** to the public ORS API;
+- **build turn-by-turn routes**;
+- calculate X-minute hospital isochrones in Sweden and count the residents they cover;
 - **solve a travelling-salesman problem** to deliver medicine to every of those hospitals in the most efficient way.
 
 You’ll leave with a ready-to-reuse QGIS project and the know-how to repeat every step anywhere and anytime. The participants can always set up openrouteservice as self-hosted or acquire individual access to our hosted servers for free afterwards.
