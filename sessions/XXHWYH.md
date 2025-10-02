@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Sunday, 12:30"
 time_iso: "2025-10-05T04:30:00Z"
-resources: []
+resources: [{ description: "This is the slides of my presentation on community participatory mapping and training on open data sharing using OSM.", url: "https://docs.google.com/presentation/d/1-SlwqQBKbjWp3KKsXtxSd0gjpIqfVmlQ/edit?slide=id.p2#slide=id.p2" }]
 recording: True
 prerecorded: True
 ---

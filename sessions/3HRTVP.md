@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Saturday, 12:00"
 time_iso: "2025-10-04T04:00:00Z"
-resources: []
+resources: [{ description: "fAIrSwipe - SoTM Manila Oct 2025", url: "https://docs.google.com/presentation/d/1cuR9xwYgU6OoEYkqqEcgyCrx8rIKeK0KhIPqgTpcuU8/edit?slide=id.g3878a2a8e8b_0_120#slide=id.g3878a2a8e8b_0_120" }]
 recording: True
 prerecorded: False
 ---

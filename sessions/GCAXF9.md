@@ -8,7 +8,7 @@ room: "Pulag"
 length: "5"
 time: "Friday, 16:35"
 time_iso: "2025-10-03T08:35:00Z"
-resources: []
+resources: [{ description: "Slides - PDF file", url: "https://pretalx.com/media/sotm2025-osm-science/submissions/GCAXF9/resources/Behav_KGJEwls.pdf" }]
 recording: True
 prerecorded: True
 ---

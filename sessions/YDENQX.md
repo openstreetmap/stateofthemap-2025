@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Sunday, 10:00"
 time_iso: "2025-10-05T02:00:00Z"
-resources: []
+resources: [{ description: "The Role of Crowdsourced Damage Assessment in Disaster Response and Recovery (SoTM)", url: "https://docs.google.com/presentation/d/1kjDPdLA3V5GyZToUt1OkGGwICFXxNqsQt52sfmlsTas/edit?usp=sharing" },{ description: "PDF", url: "https://pretalx.com/media/sotm2025/submissions/YDENQX/resources/The_Role_of_Crowd_sbG77Iw.pdf" }]
 recording: True
 prerecorded: False
 ---

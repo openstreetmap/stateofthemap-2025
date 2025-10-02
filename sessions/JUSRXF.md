@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Saturday, 09:30"
 time_iso: "2025-10-04T01:30:00Z"
-resources: []
+resources: [{ description: "slide url", url: "https://hackmd.io/@osm-tw/S1Zf2pu6yx" }]
 recording: True
 prerecorded: False
 ---

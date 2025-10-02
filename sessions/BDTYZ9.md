@@ -6,9 +6,9 @@ speaker_names: ['Michael Schultz']
 affiliations: None
 room: "Pulag"
 length: "5"
-time: "Friday, 12:45"
-time_iso: "2025-10-03T04:45:00Z"
-resources: []
+time: "Friday, 12:40"
+time_iso: "2025-10-03T04:40:00Z"
+resources: [{ description: "Slides - PDF file", url: "https://pretalx.com/media/sotm2025-osm-science/submissions/BDTYZ9/resources/SOTM__zcPWCgU.pdf" }]
 recording: True
 prerecorded: True
 ---

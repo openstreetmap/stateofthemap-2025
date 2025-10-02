@@ -8,7 +8,7 @@ room: "Guiting-guiting"
 length: "60"
 time: "Friday, 14:30"
 time_iso: "2025-10-03T06:30:00Z"
-resources: [{ description: "QGIS Installation Guide", url: "https://pretalx.com/media/sotm2025/submissions/TVAWMZ/resources/QGIS_Installation_vtY4FFD.pdf" }]
+resources: [{ description: "QGIS Installation Guide", url: "https://pretalx.com/media/sotm2025/submissions/TVAWMZ/resources/QGIS_Installation_vtY4FFD.pdf" },{ description: "Worksheet", url: "https://pretalx.com/media/sotm2025/submissions/TVAWMZ/resources/Getting_Started_w_TFu40uK.pdf" },{ description: "Slides_PDF", url: "https://pretalx.com/media/sotm2025/submissions/TVAWMZ/resources/Workshop_Slides_S_uggDgBr.pdf" }]
 recording: False
 prerecorded: False
 ---
