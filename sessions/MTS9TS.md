@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Saturday, 10:00"
 time_iso: "2025-10-04T02:00:00Z"
-resources: []
+resources: [{ description: "Mapping Community Libraries, Public Libraries, and Museums in Uganda: Leveraging OpenStreetMap for Knowledge Access", url: "https://docs.google.com/presentation/d/10UOkMsvBP3VnWdR0Vl_kMRu5uHCjFmG_/edit?slide=id.g36793e671f4_2_8#slide=id.g36793e671f4_2_8" }]
 recording: True
 prerecorded: False
 ---

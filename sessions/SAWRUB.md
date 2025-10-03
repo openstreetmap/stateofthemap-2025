@@ -6,8 +6,8 @@ speaker_names: ['SotM Working Group']
 affiliations: None
 room: "Mayon"
 length: "20"
-time: "Saturday, 15:30"
-time_iso: "2025-10-04T07:30:00Z"
+time: "Saturday, 16:00"
+time_iso: "2025-10-04T08:00:00Z"
 resources: []
 recording: True
 prerecorded: False

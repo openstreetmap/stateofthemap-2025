@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Saturday, 09:30"
 time_iso: "2025-10-04T01:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2025/submissions/P8MPHS/resources/state_of_the_map__MuQ8GGT.pdf" }]
 recording: True
 prerecorded: False
 ---

@@ -13,5 +13,17 @@ recording: True
 prerecorded: False
 ---
 
-Lightning talks are short presentations (maximum 5 minutes) about a topic related to OpenStreetMap.
+## OSM Sound Demo
+_by Smallman (Taro)
+
+## ArcGIS Living Atlas of the World: Open Data Content
+_by Deniz Karagulle
+
+<hr>
+
+## OSM Sound Demo
+_by Smallman (Taro)
+
+## ArcGIS Living Atlas of the World: Open Data Content
+_by Deniz Karagulle
 

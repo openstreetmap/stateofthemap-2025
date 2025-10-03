@@ -4,10 +4,10 @@ title: "Where are we heading? The current state of OpenStreetMap in numbers."
 code: "MHL8MU"
 speaker_names: ['Benjamin Herfort']
 affiliations: None
-room: "Mayon"
+room: "Pulag"
 length: "20"
-time: "Saturday, 17:00"
-time_iso: "2025-10-04T09:00:00Z"
+time: "Saturday, 16:00"
+time_iso: "2025-10-04T08:00:00Z"
 resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2025/submissions/MHL8MU/resources/SOTM_Manila_2025__Ef4rSAg.pdf" },{ description: "Poster", url: "https://pretalx.com/media/sotm2025/submissions/MHL8MU/resources/HeiGIT_poster_map_YOfWjVi.pdf" }]
 recording: True
 prerecorded: True

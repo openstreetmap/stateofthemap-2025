@@ -8,7 +8,7 @@ room: "Online Workshops"
 length: "60"
 time: "Friday, 16:30"
 time_iso: "2025-10-03T08:30:00Z"
-resources: [{ description: "Heidelberg Institute for Geoinformation Technology (HeiGIT) Website", url: "https://heigit.org/" },{ description: "Openrouteservice Website", url: "https://openrouteservice.org/" },{ description: "HeiGIT Workshop Link", url: "https://workshops.heigit.org/orstools-workshop-qgis-uc2025/intro.html" },{ description: "University of Heidelberg, Faculty of Geoinformation Sciences", url: "https://www.geog.uni-heidelberg.de/gis/index_en.html" },{ description: "QGIS User Conference - OSM and ORS talk", url: "https://www.youtube.com/watch?v=F3DbLgXey8E&amp;list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7&amp;index=8" }]
+resources: [{ description: "Heidelberg Institute for Geoinformation Technology (HeiGIT) Website", url: "https://heigit.org/" },{ description: "Openrouteservice Website", url: "https://openrouteservice.org/" },{ description: "ORSTools Workshop Resources", url: "https://workshops.heigit.org/orstools-workshop-sotm2025/intro.html" },{ description: "University of Heidelberg, Faculty of Geoinformation Sciences", url: "https://www.geog.uni-heidelberg.de/gis/index_en.html" },{ description: "QGIS User Conference - OSM and ORS talk", url: "https://www.youtube.com/watch?v=F3DbLgXey8E&amp;list=PLi6mvse6ZEOx3REy1Dr0JFOWxVOxkqEY7&amp;index=8" }]
 recording: False
 prerecorded: False
 ---

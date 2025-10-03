@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2025-10-04T06:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2025/submissions/CBMXL3/resources/Journey_to_the_Ce_cHviXEr.pdf" },{ description: "Slides and notes", url: "https://pretalx.com/media/sotm2025/submissions/CBMXL3/resources/Journey_to_the_Ce_Mh0Q3y2.pdf" }]
 recording: True
 prerecorded: False
 ---

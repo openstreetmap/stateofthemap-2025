@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Translating “Open Mapping Towards SDGs”: A YouthMappers Student Project from Furuhashi Lab, Japan"
+title: "~Translation and Mapathons~  Building Open Mapping Education  by Students; A YouthMappers Student Project from Furuhashi Lab, Japan"
 code: "8VMYYW"
 speaker_names: ['Aki Sato']
 affiliations: None
@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Saturday, 12:00"
 time_iso: "2025-10-04T04:00:00Z"
-resources: []
+resources: [{ description: "presentation slide", url: "https://docs.google.com/presentation/d/1cET-Q-v9xsfhglM0Fk8w_sGf1KanJXO5/edit?usp=sharing&amp;ouid=116829386221370295333&amp;rtpof=true&amp;sd=true" }]
 recording: True
 prerecorded: False
 ---
