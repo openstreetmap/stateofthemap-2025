@@ -40,7 +40,7 @@ For those travelling by highways using cars, motorcycles, or trucks, the maps al
 I believe this map provides informative, accessible, and convenient information for Malaysians, as it is available not only on desktop but also on mobile phones.
 
 <h2 id="2">Notable trees in OSM</h2>
-<h3>Ivan Rugg</h3>
+<h3>Ivan Ruggiero</h3>
 
 [<img src="../img/posters/2.jpg">](https://files.osmfoundation.org/s/Bkf6DEBsipwNNgs)
 
