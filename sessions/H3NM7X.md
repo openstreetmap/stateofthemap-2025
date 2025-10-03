@@ -8,7 +8,7 @@ room: "Mayon"
 length: "40"
 time: "Friday, 15:00"
 time_iso: "2025-10-03T07:00:00Z"
-resources: [{ description: "slides", url: "https://pretalx.com/media/sotm2025/submissions/H3NM7X/resources/slides_yFCP7yO.pdf" }]
+resources: [{ description: "slides", url: "https://pretalx.com/media/sotm2025/submissions/H3NM7X/resources/slides_9zQo6gF.pdf" }]
 recording: True
 prerecorded: False
 ---
