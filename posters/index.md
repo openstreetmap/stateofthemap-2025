@@ -88,6 +88,8 @@ Do you recognise these logos, can you name them and the year? How about the maps
 It's brilliant when the OpenStreetMap community happens in different places. I wanted to show how much that was happening with all the logos, but it's difficult to fit them all on one poster. I had to only include the most recent State of the Map of each region or country, and still exclude some that hadn't taken place recently.
 Additionally I show a map of each location, and in differing styles, to further illustrate the variety of identities in our community and the value for bringing it to many locations.
 
+For matching the logos and maps to the list of conferences, the [answers are on LivingWithDragons.com](https://www.livingwithdragons.com/2025/10/poster-of-conferences).
+
 <h2 id="6">An Open-Source Framework for Street-Level Flood Hazard Assessment Using Multi-Factor Weighted Risk Modeling</h2>
 <h3>Merce Jaen Adlaon & Daniel Lopez, PhD</h3>
 
