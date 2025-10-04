@@ -13,5 +13,35 @@ recording: True
 prerecorded: False
 ---
 
-Lightning talks are short presentations (maximum 5 minutes) about a topic related to OpenStreetMap.
+## Access Disparities to Evacuation Centers
+_by Mark Ducusin_
+
+## Post conference trip Mt. Pulag
+_by T. Hercig_
+
+## Using OSM to identify the busiest public transport stops in Manila
+_by Edneil Soriano_
+
+## Drone Tasking Manager 
+_by Sam W._
+
+## Vibe Coding a Web GIS Platform
+_by Amche In
+
+<hr>
+
+## Access Disparities to Evacuation Centers
+_by Mark Ducusin_
+
+## Post conference trip Mt. Pulag
+_by T. Hercig_
+
+## Using OSM to identify the busiest public transport stops in Manila
+_by Edneil Soriano_
+
+## Drone Tasking Manager 
+_by Sam W._
+
+## Vibe Coding a Web GIS Platform
+_by Amche In
 
