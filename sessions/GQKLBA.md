@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Saturday, 15:00"
 time_iso: "2025-10-04T07:00:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "https://pretalx.com/media/sotm2025/submissions/GQKLBA/resources/postpass_31WD5H8.pdf" }]
 recording: True
 prerecorded: False
 ---
