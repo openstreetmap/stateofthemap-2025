@@ -1,13 +1,13 @@
 ---
 layout: session
-title: "Birds of Feather/BoF Kanlaon IX"
+title: "Hot staff &amp; voting members meetup"
 code: "RNGYZB"
 speaker_names: []
 affiliations: None
 room: "Kanlaon"
 length: "30"
-time: "Sunday, 11:30"
-time_iso: "2025-10-05T03:30:00Z"
+time: "Sunday, 12:30"
+time_iso: "2025-10-05T04:30:00Z"
 resources: []
 recording: False
 prerecorded: False

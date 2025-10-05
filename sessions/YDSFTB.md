@@ -13,41 +13,29 @@ recording: True
 prerecorded: False
 ---
 
-## No Title
+## Spatial Innovation Carigara: Applying Opensource Mapping Tools for Community Developmet
 _by Ariel Donic_
 
-## No Title
+## Enhancing Passenger Ride Experience Using GrabMaps
 _by Vic Puno_
 
-## Using OSM for transport maps
+## From OSM Data to Transport Models
 _by Yannick Roth_
 
-## No Title
-_by Minh Nguyen_
-
-## Docker on PostGIS
-_by Takeshi Furnta_
-
-## My project using OSM
-_by Mizuki Yamaimoto_
+## What is a stop? Mapping Public Transport Routes
+_by Minh Nguyễn_
 
 <hr>
 
-## No Title
+## Spatial Innovation Carigara: Applying Opensource Mapping Tools for Community Developmet
 _by Ariel Donic_
 
-## No Title
+## Enhancing Passenger Ride Experience Using GrabMaps
 _by Vic Puno_
 
-## Using OSM for transport maps
+## From OSM Data to Transport Models
 _by Yannick Roth_
 
-## No Title
-_by Minh Nguyen_
-
-## Docker on PostGIS
-_by Takeshi Furnta_
-
-## My project using OSM
-_by Mizuki Yamaimoto_
+## What is a stop? Mapping Public Transport Routes
+_by Minh Nguyễn_
 

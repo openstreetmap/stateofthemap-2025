@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Sunday, 11:30"
 time_iso: "2025-10-05T03:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2025/submissions/CTPAV7/resources/Complicated_ViQoUiR.pdf" },{ description: "Slides and notes", url: "https://pretalx.com/media/sotm2025/submissions/CTPAV7/resources/Complicated_with_AEW6lfa.pdf" }]
 recording: True
 prerecorded: False
 ---

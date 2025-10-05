@@ -2,7 +2,7 @@
   "talks": [
     {
       "code": "GEBE8Z",
-      "id": 1350677,
+      "id": 1350946,
       "title": "Opening",
       "abstract": "We welcome the OpenStreetMap community in Manila but also online to celebrate the international State of the Map conference. This session will also provide some formal instructions and helpful information. You will for example learn how the QA (question and answer) sessions are run. And what we will do on Friday and Saturday evening.",
       "speakers": [
@@ -13,13 +13,13 @@
       "end": "2025-10-03T10:30:00+08:00",
       "room": 4375,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.705478+00:00",
+      "updated": "2025-10-05T01:30:57.569405+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "U9MSCX",
-      "id": 1350678,
+      "id": 1350947,
       "title": "HOT 15-year Anniversary",
       "abstract": "The Humanitarian OpenStreetMap Team (HOT) celebrates its 15th anniversary in 2025. This presentation will explore HOT's evolution from a small group of mappers responding to the Haiti earthquake to a global organization at the forefront of humanitarian mapping. We'll delve into key milestones, technological advancements, the growth of the HOT community, and the increasing role of local mappers in leading humanitarian responses. The talk will also address the challenges and opportunities for the next 15 years, including sustainability, technological innovation, and expanding the impact of open mapping in a changing world. This presentation will examine how HOT has transformed disaster response, development initiatives, and community empowerment through collaborative mapping. It will also look at how HOT has fostered a global community of mappers and the impact of open data on humanitarian efforts. Furthermore, the presentation will discuss the strategic directions HOT is taking to ensure its continued relevance and effectiveness in an ever-changing technological and global landscape, emphasizing the importance of partnerships, innovation, and inclusivity.",
       "speakers": [
@@ -30,12 +30,12 @@
       "end": "2025-10-03T10:50:00+08:00",
       "room": 4375,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.705517+00:00",
+      "updated": "2025-10-05T01:30:57.569441+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350681,
+      "id": 1350953,
       "title": {
         "en": "Coffee Break"
       },
@@ -44,52 +44,7 @@
       "room": 4376
     },
     {
-      "id": 1350684,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-03T03:00:00Z",
-      "end": "2025-10-03T12:00:00+08:00",
-      "room": 4911
-    },
-    {
-      "id": 1350685,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-03T03:00:00Z",
-      "end": "2025-10-03T12:00:00+08:00",
-      "room": 4377
-    },
-    {
-      "id": 1350683,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-03T03:00:00Z",
-      "end": "2025-10-03T12:00:00+08:00",
-      "room": 4910
-    },
-    {
-      "id": 1350682,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-03T03:00:00Z",
-      "end": "2025-10-03T12:00:00+08:00",
-      "room": 4375
-    },
-    {
-      "id": 1350680,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-03T03:00:00Z",
-      "end": "2025-10-03T12:00:00+08:00",
-      "room": 4378
-    },
-    {
-      "id": 1350679,
+      "id": 1350954,
       "title": {
         "en": "Coffee Break"
       },
@@ -98,38 +53,53 @@
       "room": 4379
     },
     {
-      "code": "PHEYCV",
-      "id": 1350687,
-      "title": "Birds of Feather/BoF Kanlaon I",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-03T12:00:00+08:00",
-      "end": "2025-10-03T13:00:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T07:09:15.856925+00:00",
-      "state": null,
-      "do_not_record": null
+      "id": 1350948,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-03T03:00:00Z",
+      "end": "2025-10-03T12:00:00+08:00",
+      "room": 4910
     },
     {
-      "code": "7Y9W7Q",
-      "id": 1350688,
-      "title": "Birds of Feather/BoF Banahaw I",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-03T12:00:00+08:00",
-      "end": "2025-10-03T13:00:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.705771+00:00",
-      "state": null,
-      "do_not_record": null
+      "id": 1350952,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-03T03:00:00Z",
+      "end": "2025-10-03T12:00:00+08:00",
+      "room": 4378
+    },
+    {
+      "id": 1350951,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-03T03:00:00Z",
+      "end": "2025-10-03T12:00:00+08:00",
+      "room": 4911
+    },
+    {
+      "id": 1350950,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-03T03:00:00Z",
+      "end": "2025-10-03T12:00:00+08:00",
+      "room": 4375
+    },
+    {
+      "id": 1350949,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-03T03:00:00Z",
+      "end": "2025-10-03T12:00:00+08:00",
+      "room": 4377
     },
     {
       "code": "LPDJXY",
-      "id": 1350686,
+      "id": 1350955,
       "title": "Awesome (OSM) Games",
       "abstract": "OpenStreetMap and games feel like they go hand-in-hand and that's more than just coincidental. Both OSM and gaming have the power to bring people together, foster community engagement, and provide unique experiences. \r\n\r\nIn fact, the OSM wiki has a page for games built using OSM data (https://wiki.openstreetmap.org/wiki/Games) and in recent years, we've seen the increase in the use of tools such as MapRoulette and StreetComplete that gamify the experience of contributing to OSM. While the latter is a very interesting topic in itself, this talk will focus on the former—games that use, but are not necessarily intended to contribute, OSM data.\r\n\r\nIn this talk, we will explore the world of OSM-based/OSM-adjacent games to try and identify various game categories/genres and uses of OSM such as in location-based games (e.g. PokemonGO), serious and realistic simulation games, educational and trivia games, other niche/bespoke games, as well as both digital and tangible/tactile experiences.\r\n\r\nFurthermore, we will try to investigate the benefits and drawbacks of using OSM in games and look into other open source \"games/game resources/gaming communities\" (such as those in the Open Source Tabletop/RPG genre) to uncover possible intersections and opportunities.\r\n\r\nWhether you're a beginner or experienced OSM contributor, a game developer, or just a fellow gamer, this talk aims to spark new ideas and inspire further discussions, activities, and developments around the intersection of OpenStreetMap and games.",
       "speakers": [
@@ -140,13 +110,13 @@
       "end": "2025-10-03T12:20:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.705732+00:00",
+      "updated": "2025-10-05T01:30:57.569670+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "NRJEVM",
-      "id": 1350689,
+      "id": 1350956,
       "title": "Walking Milano: Unveiling the City’s Character Through 360° Street-Level Panorama Imagery.",
       "abstract": "Between September 2024 and August 2025, we conducted a comprehensive street-level survey of Milano, Italy, capturing approximately one million 360° panoramic images using a monopod-mounted camera setup. These images were uploaded to Mapillary, contributing to open-access urban geospatial data. This presentation shares practical insights into continuous data collection methods and analyzes urban characteristics discernible from the imagery, such as graffiti prevalence, urban greenery distribution, and the potential of these visuals as foundational data for 3D digital twin models. I will discuss the current capabilities and limitations of using crowdsourced street-level imagery for urban analysis and planning.",
       "speakers": [
@@ -157,57 +127,12 @@
       "end": "2025-10-03T12:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.705789+00:00",
+      "updated": "2025-10-05T01:30:57.569704+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350694,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-03T05:00:00Z",
-      "end": "2025-10-03T14:30:00+08:00",
-      "room": 4379
-    },
-    {
-      "id": 1350693,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-03T05:00:00Z",
-      "end": "2025-10-03T14:30:00+08:00",
-      "room": 4375
-    },
-    {
-      "id": 1350696,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-03T05:00:00Z",
-      "end": "2025-10-03T14:30:00+08:00",
-      "room": 4377
-    },
-    {
-      "id": 1350691,
-      "title": {
-        "en": "Lunch break"
-      },
-      "start": "2025-10-03T05:00:00Z",
-      "end": "2025-10-03T14:30:00+08:00",
-      "room": 4911
-    },
-    {
-      "id": 1350690,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-03T05:00:00Z",
-      "end": "2025-10-03T14:30:00+08:00",
-      "room": 4378
-    },
-    {
-      "id": 1350692,
+      "id": 1350960,
       "title": {
         "en": "Lunch Break"
       },
@@ -216,7 +141,7 @@
       "room": 4376
     },
     {
-      "id": 1350695,
+      "id": 1350957,
       "title": {
         "en": "Lunch break"
       },
@@ -225,8 +150,68 @@
       "room": 4910
     },
     {
+      "id": 1350963,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-03T05:00:00Z",
+      "end": "2025-10-03T14:30:00+08:00",
+      "room": 4379
+    },
+    {
+      "id": 1350959,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-03T05:00:00Z",
+      "end": "2025-10-03T14:30:00+08:00",
+      "room": 4377
+    },
+    {
+      "id": 1350961,
+      "title": {
+        "en": "Lunch break"
+      },
+      "start": "2025-10-03T05:00:00Z",
+      "end": "2025-10-03T14:30:00+08:00",
+      "room": 4911
+    },
+    {
+      "id": 1350958,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-03T05:00:00Z",
+      "end": "2025-10-03T14:30:00+08:00",
+      "room": 4375
+    },
+    {
+      "id": 1350962,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-03T05:00:00Z",
+      "end": "2025-10-03T14:30:00+08:00",
+      "room": 4378
+    },
+    {
+      "code": "XTXSYU",
+      "id": 1350964,
+      "title": "Birds of Feather/BoF Apo I",
+      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organised session at the \"BoF\" white board at the conference venue.",
+      "speakers": [],
+      "track": 6396,
+      "start": "2025-10-03T14:30:00+08:00",
+      "end": "2025-10-03T16:00:00+08:00",
+      "room": 4375,
+      "duration": 30,
+      "updated": "2025-10-05T01:30:57.569904+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
       "code": "9HN9SX",
-      "id": 1350697,
+      "id": 1350966,
       "title": "Keeping alive OSMTracker",
       "abstract": "This is a story about the last 7 years of OSMTracker and how, from an academic space in a Costa Rican public university, we managed to keep alive the app with computer engineering undergrad students.  We want to share what we have learned: the challenges and contributions during this process, and how we plan to continue. \r\n\r\nOSMTracker is one of the oldies free software data capture tools in the OSM ecosystem.  Its simplicity, low technical requirements, easy customization, and ability to use the exported data in various applications make it a valuable resource for mappers. The app became part of the methodological resources used by the Laboratorio Experimental de Computación y Comunidades (LabComún) for development of university extension projects together with communities like Erizo Juan Santamaría Informal settlements and Alajuela en Cleta urban cycling collective. Naturally, the usage of OSMTracker in this context showed us improvements needed in the app, and consequently, we contributed with code that were incorporated in the tool. \r\n\r\nIn 2018, nguillaumin, the original developer of the app, transferred the maintenance OSMTracker to LabComún. Since then, LabComún has been managing the challenge of developing free software from a (global south) public university: scarcity of resources, bureaucratic difficulties, and how to align the process of developing software while offering a sustainable educational experience for students.\r\n\r\nThe ongoing focus of development of OSMTracker highlights the importance of engagement of undergrad computer science students in projects that are related to territories and people. This offers a real perspective on how their contributions to software could improve the quality of life. From a technical and academic perspective, the opportunity to be part of a bigger free software and open data community is unique.\r\n\r\nFinally, we want to open discussion on how to enhance the sustainability of OSMTracker, involving other actors in collaborations and keeping the app useful for thematic mapping projects.",
       "speakers": [
@@ -238,28 +223,13 @@
       "end": "2025-10-03T14:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.706002+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "D7CZVS",
-      "id": 1350699,
-      "title": "Birds of Feather/BoF Banahaw II",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-03T14:30:00+08:00",
-      "end": "2025-10-03T16:00:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706038+00:00",
+      "updated": "2025-10-05T01:30:57.569945+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "TVAWMZ",
-      "id": 1350698,
+      "id": 1350965,
       "title": "Getting Started with QGIS: A Beginner's Guide to Mapping with Open-Source Tools",
       "abstract": "This hands-on workshop is designed for beginners who are curious about Geographic Information Systems (GIS) and want to explore the power of open-source mapping through QGIS. Participants will be introduced to the fundamentals of GIS, the QGIS interface, and basic tools for creating, editing, and visualizing spatial data. The session will include a practical component where attendees will carry out a simple mapping task using real-world datasets. Whether you're a student, researcher, development professional, or simply GIS-curious, this workshop will equip you with the foundational skills to start your own mapping journey. No prior GIS experience required—just bring your curiosity!",
       "speakers": [
@@ -270,43 +240,13 @@
       "end": "2025-10-03T15:30:00+08:00",
       "room": 4378,
       "duration": 60,
-      "updated": "2025-10-04T03:02:54.706020+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "XTXSYU",
-      "id": 1350701,
-      "title": "Birds of Feather/BoF Apo I",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organised session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-03T14:30:00+08:00",
-      "end": "2025-10-03T16:00:00+08:00",
-      "room": 4375,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706079+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "78RJQL",
-      "id": 1350700,
-      "title": "Spatial BigQuery",
-      "abstract": "If you have lots of geom operations, but runtime will take >3 days maybe this could help",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-03T15:00:00+08:00",
-      "end": "2025-10-03T16:00:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T07:08:08.050833+00:00",
+      "updated": "2025-10-05T01:30:57.569925+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "H3NM7X",
-      "id": 1350702,
+      "id": 1350967,
       "title": "Mapping workflows in iD for new, intermediate and advanced mappers",
       "abstract": "Mapping in iD is designed to be a welcoming experience that should require little to no required knowledge to get started. Additionally, the editor does also have some additional features up its sleave for more advanced mapping tasks. Regardless if you are a new, intermediate or advanced mapper: it can never hurt to know a trick or two that make your mapping more efficient!\r\n\r\nThis talk will go through common mapping workflows in iD and how they can elevate your mapping experience. There will be sections dedicated for beginners, intermediate and advanced mappers. For starters, it will be shown how one can get up to speed most efficiently with iD through its built-in walkthough and other help functionality. For intermediate mappers, the talk will cover topics such as photo-mapping, efficient use of keyboard shortcuts, integrated quality assurance tools, useful browser extensions, etc. The talk concludes with advanced techniques such as adding custom background imagery or map data.\r\n\r\nThe showcased mapping workflows shall give a good overview of the spectrum of different mapping tasks one might encounter as a mapper on an regular basis, and will also highlight tools other than iD that allow to dive even further into the respective topics.",
       "speakers": [
@@ -317,21 +257,27 @@
       "end": "2025-10-03T15:40:00+08:00",
       "room": 4376,
       "duration": 40,
-      "updated": "2025-10-04T03:02:54.706115+00:00",
+      "updated": "2025-10-05T01:30:57.569965+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350703,
-      "title": {
-        "en": "Coffee break"
-      },
-      "start": "2025-10-03T08:00:00Z",
-      "end": "2025-10-03T16:30:00+08:00",
-      "room": 4911
+      "code": "78RJQL",
+      "id": 1350968,
+      "title": "Spatial BigQuery",
+      "abstract": "If you have lots of geom operations, but runtime will take >3 days maybe this could help",
+      "speakers": [],
+      "track": 6396,
+      "start": "2025-10-03T15:00:00+08:00",
+      "end": "2025-10-03T16:00:00+08:00",
+      "room": 4910,
+      "duration": 30,
+      "updated": "2025-10-05T01:30:57.569985+00:00",
+      "state": null,
+      "do_not_record": null
     },
     {
-      "id": 1350704,
+      "id": 1350969,
       "title": {
         "en": "Coffee Break"
       },
@@ -340,34 +286,16 @@
       "room": 4376
     },
     {
-      "id": 1350708,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-03T08:00:00Z",
-      "end": "2025-10-03T16:30:00+08:00",
-      "room": 4379
-    },
-    {
-      "id": 1350706,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-03T08:00:00Z",
-      "end": "2025-10-03T16:30:00+08:00",
-      "room": 4378
-    },
-    {
-      "id": 1350707,
+      "id": 1350973,
       "title": {
         "en": "Coffee break"
       },
       "start": "2025-10-03T08:00:00Z",
       "end": "2025-10-03T16:30:00+08:00",
-      "room": 4910
+      "room": 4911
     },
     {
-      "id": 1350705,
+      "id": 1350972,
       "title": {
         "en": "Coffee Break"
       },
@@ -376,88 +304,35 @@
       "room": 4377
     },
     {
-      "code": "QJRY8D",
-      "id": 1350712,
-      "title": "Cebu Mapathon",
-      "abstract": "Cebu Mapathon at State of the Map 2025 after the recent earthquake and its aftermath.",
-      "speakers": [
-        "HVGX3M",
-        "W8J3SL"
-      ],
-      "track": 5517,
-      "start": "2025-10-03T16:30:00+08:00",
-      "end": "2025-10-03T17:35:00+08:00",
-      "room": 4378,
-      "duration": 60,
-      "updated": "2025-10-04T03:02:54.706335+00:00",
-      "state": null,
-      "do_not_record": null
+      "id": 1350970,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-03T08:00:00Z",
+      "end": "2025-10-03T16:30:00+08:00",
+      "room": 4379
     },
     {
-      "code": "P3FWCW",
-      "id": 1350714,
-      "title": "Lightning Talks I",
-      "abstract": "## OSM Sound Demo\r\n_by Smallman (Taro)\r\n\r\n## ArcGIS Living Atlas of the World: Open Data Content\r\n_by Deniz Karagulle",
-      "speakers": [
-        "YNFKER"
-      ],
-      "track": 5524,
-      "start": "2025-10-03T16:30:00+08:00",
-      "end": "2025-10-03T16:50:00+08:00",
-      "room": 4376,
-      "duration": 20,
-      "updated": "2025-10-04T03:02:54.706369+00:00",
-      "state": null,
-      "do_not_record": null
+      "id": 1350971,
+      "title": {
+        "en": "Coffee break"
+      },
+      "start": "2025-10-03T08:00:00Z",
+      "end": "2025-10-03T16:30:00+08:00",
+      "room": 4910
     },
     {
-      "code": "DUFFPF",
-      "id": 1350711,
-      "title": "Birds of Feather/BoF Kanlaon III",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-03T16:30:00+08:00",
-      "end": "2025-10-03T17:35:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706318+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "YSYTHC",
-      "id": 1350709,
-      "title": "Birds of Feather/BoF Banahaw III",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-03T16:30:00+08:00",
-      "end": "2025-10-03T17:35:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706283+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "ABRBCZ",
-      "id": 1350713,
-      "title": "Birds of Feather/BoF Apo II",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-03T16:30:00+08:00",
-      "end": "2025-10-03T17:35:00+08:00",
-      "room": 4375,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706352+00:00",
-      "state": null,
-      "do_not_record": null
+      "id": 1350974,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-03T08:00:00Z",
+      "end": "2025-10-03T16:30:00+08:00",
+      "room": 4378
     },
     {
       "code": "KJPKWT",
-      "id": 1350710,
+      "id": 1350978,
       "title": "ORS-Tools - Beginner-friendly Mobility Analysis with OpenStreetMap and openrouteservice in QGIS",
       "abstract": "**Turn OpenStreetMap data into routing insights** with openrouteservice and QGIS, no servers, no sign-ups, no code.\r\n\r\nIn this 60-minute hands-on session **for newcomers and intermediates**, you’ll:\r\n- **Sign up** to and connect the **ORS-Tools QGIS-plugin** with the public openrouteservice API\r\n- **Build multiprofile routes** around the SotM venue, **calculate hospital service areas** in Manila, and **solve a medicine delivery** to every of those hospitals **with** the help of easy to access **vehicle optimisation**.\r\n\r\nYou’ll walk away with a **reusable QGIS project**, a **tutorial**, and the confidence and knowledge to **repeat the workflow anywhere, anytime**.",
       "speakers": [
@@ -471,13 +346,63 @@
       "end": "2025-10-03T17:30:00+08:00",
       "room": 4379,
       "duration": 60,
-      "updated": "2025-10-04T03:02:54.706301+00:00",
+      "updated": "2025-10-05T01:30:57.570213+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
+      "code": "P3FWCW",
+      "id": 1350975,
+      "title": "Lightning Talks I",
+      "abstract": "## OSM Sound Demo\r\n_by Smallman (Taro)\r\n\r\n## ArcGIS Living Atlas of the World: Open Data Content\r\n_by Deniz Karagulle",
+      "speakers": [
+        "YNFKER"
+      ],
+      "track": 5524,
+      "start": "2025-10-03T16:30:00+08:00",
+      "end": "2025-10-03T16:50:00+08:00",
+      "room": 4376,
+      "duration": 20,
+      "updated": "2025-10-05T01:30:57.570152+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
+      "code": "ABRBCZ",
+      "id": 1350977,
+      "title": "Birds of Feather/BoF Apo II",
+      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
+      "speakers": [],
+      "track": 6396,
+      "start": "2025-10-03T16:30:00+08:00",
+      "end": "2025-10-03T17:35:00+08:00",
+      "room": 4375,
+      "duration": 30,
+      "updated": "2025-10-05T01:30:57.570193+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
+      "code": "QJRY8D",
+      "id": 1350976,
+      "title": "Cebu Mapathon",
+      "abstract": "Cebu Mapathon at State of the Map 2025 after the recent earthquake and its aftermath.",
+      "speakers": [
+        "HVGX3M",
+        "W8J3SL"
+      ],
+      "track": 5517,
+      "start": "2025-10-03T16:30:00+08:00",
+      "end": "2025-10-03T17:35:00+08:00",
+      "room": 4378,
+      "duration": 60,
+      "updated": "2025-10-05T01:30:57.570173+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "8KKLCS",
-      "id": 1350715,
+      "id": 1350979,
       "title": "Resilience Starts with a Map: Community-Led OSM Action in Dhaka’s Climate-Vulnerable Settlements",
       "abstract": "Dhaka, one of the most climate-affected cities in South Asia, is home to millions of migrants living in informal urban settlements. These densely populated areas are increasingly exposed to environmental and health hazards, particularly seasonal waterlogging and recurring dengue outbreaks. Despite the severity of these issues, many of these settlements remain underrepresented in official datasets, limiting the ability to implement targeted and effective resilience measures.\r\n\r\nAs part of our Capstone Project under the Climate Resilience Fellowship (CRF), this initiative leveraged OpenStreetMap (OSM) to conduct a community-led, GIS-based multi-hazard assessment in some of Dhaka’s most climate-vulnerable settlements. Our work followed a two-phase approach:\r\n\r\nField-based data collection and mapping, where youth and women from local communities actively identified water accumulation zones and dengue breeding hotspots using OSM tools.\r\n\r\nAwareness building and local preparedness activities, using the mapped data to facilitate community dialogues and promote action for health and disaster resilience.\r\n\r\nThrough this participatory mapping effort, we not only generated critical geospatial data but also strengthened local capacity to respond to climate and health risks. OSM served as both a data platform and a tool for empowerment, enabling residents to visualize their vulnerabilities and advocate for solutions.\r\n\r\nThis talk will showcase how open mapping, when integrated with community engagement and local knowledge, can effectively support disaster risk reduction, public health planning, and climate adaptation in marginalized urban areas. We will also reflect on the potential for replicating this model in other cities facing similar climate and health challenges.",
       "speakers": [
@@ -488,13 +413,13 @@
       "end": "2025-10-03T17:15:00+08:00",
       "room": 4376,
       "duration": 15,
-      "updated": "2025-10-04T03:02:54.706387+00:00",
+      "updated": "2025-10-05T01:30:57.570233+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "8KQRCY",
-      "id": 1350716,
+      "id": 1350980,
       "title": "Platinum Sponsor Session: OSM Data for Two-Wheelers and Safety",
       "abstract": "This talk delves into the unique challenges and opportunities of enhancing OpenStreetMap (OSM) data for two-wheeler routing and safety. Two-wheelers are a vital mode of transportation within SEA, yet their safety needs are often overlooked. \r\n\r\nDrawing from our experience in building and contributing enriched safety data back to OSM, we explore how attributes like lighting conditions, speed bumps, and pothole assessments can make navigation safer and more efficient for two-wheelers.\r\n\r\nThrough this talk, we aim to inspire the OSM community to prioritize safety attributes for improving map data quality for two-wheelers.",
       "speakers": [
@@ -505,30 +430,13 @@
       "end": "2025-10-03T17:15:00+08:00",
       "room": 4377,
       "duration": 15,
-      "updated": "2025-10-04T03:02:54.706404+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "RUCRPS",
-      "id": 1350717,
-      "title": "Addressing Participation Gaps in Nepal’s OSM Ecosystem: Strategies for Long-Term Community Retention",
-      "abstract": "Nepal’s OpenStreetMap (OSM) community is currently experiencing a noticeable decline in active participation and long-term engagement. While the ecosystem once thrived on regionally supported events and student-led enthusiasm, it now faces a rise in passive contributors and a lack of continuity in mapping efforts. This trend is particularly concerning in a context like Nepal, where access to reliable and up-to-date geospatial data remains limited, and OSM presents a valuable, open-source alternative for inclusive mapping and data democratisation. A key factor contributing to this decline is the narrow framing of OSM as a repetitive editing platform, often reinforced by conventional training sessions that overlook the broader creative and applied potential of the tool. Innovative and accessible platforms such as Mapillary, MapSwipe, and OSM-based design tools—which can make mapping more engaging and relevant to everyday challenges—are rarely introduced or integrated into learning experiences. Drawing on my own experience organising initiatives such as the OSM Hackfest and thematic map design based on OSM dataset competitions, I have witnessed how student engagement can be restored when OSM is presented not just as an editing tool but as a gateway to problem-solving in urban planning, disaster resilience, and many more potentials of the OSM datasets. More importantly, there is a need for advocacy for a shift in narrative: from simply contributing data to understanding the importance of OSM and utilising it. By embedding OSM awareness from the student level to policymaking stakeholders, Nepal can foster a resilient and self-sustaining mapping ecosystem.",
-      "speakers": [
-        "JFZ9JE"
-      ],
-      "track": 5522,
-      "start": "2025-10-03T17:20:00+08:00",
-      "end": "2025-10-03T17:35:00+08:00",
-      "room": 4376,
-      "duration": 15,
-      "updated": "2025-10-04T03:02:54.706436+00:00",
+      "updated": "2025-10-05T01:30:57.570253+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "TZNMJG",
-      "id": 1350718,
+      "id": 1350981,
       "title": "Platinum Sponsor Session: From Edits to Impact - TomTom’s Journey with OpenStreetMap Communities",
       "abstract": "TomTom partners with OSM communities worldwide to build richer maps through collective action. In this SotM Global event 2025, we share how we support university mapathons, YouthMappers, and humanitarian mapping in 189 countries, reflecting on learnings and challenges in scaling community engagement while advancing OSM’s mission through meaningful, local partnerships.",
       "speakers": [
@@ -540,13 +448,30 @@
       "end": "2025-10-03T17:35:00+08:00",
       "room": 4377,
       "duration": 15,
-      "updated": "2025-10-04T03:02:54.706453+00:00",
+      "updated": "2025-10-05T01:30:57.570273+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
+      "code": "RUCRPS",
+      "id": 1350982,
+      "title": "Addressing Participation Gaps in Nepal’s OSM Ecosystem: Strategies for Long-Term Community Retention",
+      "abstract": "Nepal’s OpenStreetMap (OSM) community is currently experiencing a noticeable decline in active participation and long-term engagement. While the ecosystem once thrived on regionally supported events and student-led enthusiasm, it now faces a rise in passive contributors and a lack of continuity in mapping efforts. This trend is particularly concerning in a context like Nepal, where access to reliable and up-to-date geospatial data remains limited, and OSM presents a valuable, open-source alternative for inclusive mapping and data democratisation. A key factor contributing to this decline is the narrow framing of OSM as a repetitive editing platform, often reinforced by conventional training sessions that overlook the broader creative and applied potential of the tool. Innovative and accessible platforms such as Mapillary, MapSwipe, and OSM-based design tools—which can make mapping more engaging and relevant to everyday challenges—are rarely introduced or integrated into learning experiences. Drawing on my own experience organising initiatives such as the OSM Hackfest and thematic map design based on OSM dataset competitions, I have witnessed how student engagement can be restored when OSM is presented not just as an editing tool but as a gateway to problem-solving in urban planning, disaster resilience, and many more potentials of the OSM datasets. More importantly, there is a need for advocacy for a shift in narrative: from simply contributing data to understanding the importance of OSM and utilising it. By embedding OSM awareness from the student level to policymaking stakeholders, Nepal can foster a resilient and self-sustaining mapping ecosystem.",
+      "speakers": [
+        "JFZ9JE"
+      ],
+      "track": 5522,
+      "start": "2025-10-03T17:20:00+08:00",
+      "end": "2025-10-03T17:35:00+08:00",
+      "room": 4376,
+      "duration": 15,
+      "updated": "2025-10-05T01:30:57.570293+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "JUSRXF",
-      "id": 1350719,
+      "id": 1350984,
       "title": "OpenStreetMap x Wikidata Collaboration: Taiwan Case",
       "abstract": "Not only NSI, but Wikidata can be integrated with OpenStreetMap, and vice versa! Many years ago, with the help of Wikidata Taiwan, OpenStreetMap Taiwan has mapped all 7,000 villages, and also cross-linked to Wikidata. We also have a similar river project of mapping all rivers in Taiwan and crosslinking to Wikidata with the help of the river code published by the Taiwan government. In this talk, we want to further talk about the school, mountain, church, temple, and hiking trail mapping projects, which also have the corresponding external 3rd-party Wikidata property. We will also describe the process like documenting and tools involved",
       "speakers": [
@@ -557,43 +482,30 @@
       "end": "2025-10-04T09:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.706471+00:00",
+      "updated": "2025-10-05T01:30:57.570333+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "code": "BX7SEA",
-      "id": 1350723,
-      "title": "Birds of Feather/BoF Banahaw IV",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
+      "code": "P8MPHS",
+      "id": 1350983,
+      "title": "Lessons from teaching OpenStreetMap in a masters program",
+      "abstract": "Teaching with OpenStreetMap has mostly been focused at the high school and undergraduate levels. In this presentation, I will share my experience of integrating OpenStreetMap into a professional graduate program, the Master of Geomatics for Environmental Management at the University of British Columbia. We will look at some of the opportunities for teaching with OpenStreetMap at the graduate-level, identify some of the challenges with teaching natural resource management with OpenStreetMap, and consider some broader implications for incorporating OpenStreetMap into graduate education. Finally, I will share some open educational resource lesson plans for teaching with OpenStreetMap that can be adapted for your classroom.",
+      "speakers": [
+        "GZKADJ"
+      ],
+      "track": 5526,
       "start": "2025-10-04T09:30:00+08:00",
-      "end": "2025-10-04T11:00:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706541+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "WQC8MU",
-      "id": 1350720,
-      "title": "Birds of Feather/BoF Kanlaon IV",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-04T09:30:00+08:00",
-      "end": "2025-10-04T11:00:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706488+00:00",
+      "end": "2025-10-04T09:50:00+08:00",
+      "room": 4377,
+      "duration": 20,
+      "updated": "2025-10-05T01:30:57.570313+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "8F3JWB",
-      "id": 1350722,
+      "id": 1350985,
       "title": "From Maps to Models: Building AI Context Tools for OpenStreetMap",
       "abstract": "OpenStreetMap (OSM) is the most comprehensive open-source geospatial database in the world—but as it continues to grow, the tools for understanding and managing this data need to evolve as well. In this workshop, we explore how AI, when thoughtfully integrated with OSM workflows, can offer intelligent, context-aware support to mappers and developers alike.\r\n\r\nThis session introduces participants to the Model Context Protocol (MCP)—a lightweight, structured format for embedding task-specific context into AI interactions. MCP allows for the creation of prompts and workflows that are reproducible, local-first, and aware of the mapping domain. Using this protocol, we will build a proof-of-concept tool that uses open-source large language models (LLMs) to interpret OSM data and assist with mapping tasks, such as tag validation, feature classification, and geospatial query answering.\r\n\r\nImportantly, the workshop focuses on privacy-respecting, open-source solutions. All AI tools used will run locally on participant machines, avoiding any reliance on commercial APIs or user-tracking platforms. This aligns with the ethos of the OSM and open-data communities, ensuring participants can experiment with powerful AI without compromising control or transparency.\r\n\r\nAttendees will gain practical skills in working with Overpass API to extract OSM data, creating MCP-compliant prompts, running local LLMs via tools like LM Studio or Ollama, and designing AI agents that enhance mapping workflows. No prior experience with AI is required—just a curiosity for what happens when maps meet models.",
       "speakers": [
@@ -605,30 +517,13 @@
       "end": "2025-10-04T10:30:00+08:00",
       "room": 4378,
       "duration": 60,
-      "updated": "2025-10-04T03:02:54.706523+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "P8MPHS",
-      "id": 1350721,
-      "title": "Lessons from teaching OpenStreetMap in a masters program",
-      "abstract": "Teaching with OpenStreetMap has mostly been focused at the high school and undergraduate levels. In this presentation, I will share my experience of integrating OpenStreetMap into a professional graduate program, the Master of Geomatics for Environmental Management at the University of British Columbia. We will look at some of the opportunities for teaching with OpenStreetMap at the graduate-level, identify some of the challenges with teaching natural resource management with OpenStreetMap, and consider some broader implications for incorporating OpenStreetMap into graduate education. Finally, I will share some open educational resource lesson plans for teaching with OpenStreetMap that can be adapted for your classroom.",
-      "speakers": [
-        "GZKADJ"
-      ],
-      "track": 5526,
-      "start": "2025-10-04T09:30:00+08:00",
-      "end": "2025-10-04T09:50:00+08:00",
-      "room": 4377,
-      "duration": 20,
-      "updated": "2025-10-04T03:02:54.706506+00:00",
+      "updated": "2025-10-05T01:30:57.570353+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "MTS9TS",
-      "id": 1350724,
+      "id": 1350986,
       "title": "The Ugandan Geo Quests: Mapping Libraries and Museums into the Knowledge Commons",
       "abstract": "Across Uganda, countless community libraries and local museums hold untold stories, cultural memory, and untapped knowledge—but remain invisible on the digital map. The Ugandan Geo Quests project aims to change that.\r\n\r\nThis session introduces two complementary national mapping initiatives: The Ugandan Libraries Geo Quest and The Ugandan Museums Geo Quest, which leverage OpenStreetMap, Wikidata, and Wikipedia to bring local knowledge institutions into the global digital commons.\r\n\r\nWe’ll explore how we:\r\n\r\nMobilized local communities, Wikimedians, and mappers for participatory documentation\r\nUsed tools like uMap, ODK Collect and KoboToolbox to ensure data quality and visibility\r\nLinked OSM data with Wikidata and Wikipedia for multi-platform discoverability\r\nAddressed challenges around verification, tagging, and sustainability\r\n\r\nAttendees will gain insights into designing thematic mapping campaigns that go beyond infrastructure—to elevate culture, education, and heritage in open data ecosystems. Whether you're a mapper, librarian, or advocate for digital equity, this session offers inspiration on how maps can preserve identity and empower communities.",
       "speakers": [
@@ -639,13 +534,13 @@
       "end": "2025-10-04T10:20:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.706558+00:00",
+      "updated": "2025-10-05T01:30:57.570373+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "NVHF3U",
-      "id": 1350725,
+      "id": 1350987,
       "title": "Lightning Talks II",
       "abstract": "## Utilizing OSM with QGIS\r\n_by Ariel Dome_\r\n\r\n## Open Mapping potential in Jakarta Metropolitan: Case of Mappilary Capture  in Depok City\r\n_by Yabes Butar Butar_\r\n\r\n## People data tracing movement  with GPS\r\n_by CJ Capuli_\r\n\r\n## All of five km\r\n_by Ewen Hill_",
       "speakers": [
@@ -656,30 +551,12 @@
       "end": "2025-10-04T10:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:21:18.454734+00:00",
+      "updated": "2025-10-05T01:30:57.570392+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350726,
-      "title": {
-        "en": "Coffee break"
-      },
-      "start": "2025-10-04T03:00:00Z",
-      "end": "2025-10-04T11:30:00+08:00",
-      "room": 4910
-    },
-    {
-      "id": 1350730,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-04T03:00:00Z",
-      "end": "2025-10-04T11:30:00+08:00",
-      "room": 4375
-    },
-    {
-      "id": 1350727,
+      "id": 1350989,
       "title": {
         "en": "Coffee break"
       },
@@ -688,16 +565,7 @@
       "room": 4911
     },
     {
-      "id": 1350729,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-04T03:00:00Z",
-      "end": "2025-10-04T11:30:00+08:00",
-      "room": 4379
-    },
-    {
-      "id": 1350731,
+      "id": 1350988,
       "title": {
         "en": "Coffee Break"
       },
@@ -706,7 +574,16 @@
       "room": 4377
     },
     {
-      "id": 1350732,
+      "id": 1350992,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-04T03:00:00Z",
+      "end": "2025-10-04T11:30:00+08:00",
+      "room": 4375
+    },
+    {
+      "id": 1350991,
       "title": {
         "en": "Coffee Break"
       },
@@ -715,7 +592,16 @@
       "room": 4376
     },
     {
-      "id": 1350728,
+      "id": 1350990,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-04T03:00:00Z",
+      "end": "2025-10-04T11:30:00+08:00",
+      "room": 4379
+    },
+    {
+      "id": 1350994,
       "title": {
         "en": "Coffee Break"
       },
@@ -724,55 +610,17 @@
       "room": 4378
     },
     {
-      "code": "WKU97L",
-      "id": 1350735,
-      "title": "Managing Remote Mapping Projects in the HOT Tasking Manager",
-      "abstract": "In this 60-minute workshop, I will share my approach and personal workflow in managing remote mapping projects using the HOT Tasking Manager. Tailored for those with Project Manager access, yet open to all, the session aims to highlight real-world methods of setting up priority areas with limited ground data, responding effectively to volunteer feedback, and writing clear, actionable task instructions. I will also present an idea for forming temporary validator teams (not yet implemented), and openly share the challenges and pain points I’ve faced in these roles. The workshop is not about presenting a perfect solution, but about learning together and collecting ideas for continuous improvement.",
-      "speakers": [
-        "UUU9VM"
-      ],
-      "track": 5517,
-      "start": "2025-10-04T11:30:00+08:00",
-      "end": "2025-10-04T12:30:00+08:00",
-      "room": 4378,
-      "duration": 60,
-      "updated": "2025-10-04T03:02:54.706779+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "HQH3RH",
-      "id": 1350734,
-      "title": "Birds of Feather/BoF Banahaw V",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-04T11:30:00+08:00",
-      "end": "2025-10-04T13:00:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706762+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "BL3X39",
-      "id": 1350737,
-      "title": "Birds of Feather/BoF Kanlaon V",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-04T11:30:00+08:00",
-      "end": "2025-10-04T13:00:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.706814+00:00",
-      "state": null,
-      "do_not_record": null
+      "id": 1350993,
+      "title": {
+        "en": "Coffee break"
+      },
+      "start": "2025-10-04T03:00:00Z",
+      "end": "2025-10-04T11:30:00+08:00",
+      "room": 4910
     },
     {
       "code": "VTGCCY",
-      "id": 1350733,
+      "id": 1350995,
       "title": "Community-Driven Data: How Local Knowledge is Reshaping Urban Waste Systems",
       "abstract": "Effective urban solid waste management in African cities remains a critical challenge characterized by rapid urbanization, limited infrastructure, and insufficient data. Traditional top-down approaches often fail to address the unique, hyperlocal realities of waste generation, disposal behaviors, and service gaps. This presentation explores how OpenMap Development Tanzania (OMDTZ) with the funds from the World Bank, has implemented community-driven data collection approaches in Tanzania, Mozambique, and Kenya to fill this knowledge gap and build more responsive, inclusive waste management systems.\r\n\r\nThrough the integration of OpenStreetMap (OSM), mobile data tools like OpenDataKit, OsmAnd, and participatory mapping techniques, communities have been engaged in mapping informal waste collection points, illegal dumping sites, transfer stations, and service coverage areas. By centering local knowledge, these projects have produced actionable geospatial data that informs city-level planning, supports environmental health interventions, and amplifies citizen voices in waste governance.\r\nParticipants will gain insights into how grassroots data collection not only improves the quality of open data but also reshapes power dynamics in urban planning, placing communities at the forefront of building cleaner, more sustainable cities.",
       "speakers": [
@@ -783,13 +631,30 @@
       "end": "2025-10-04T11:50:00+08:00",
       "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.706744+00:00",
+      "updated": "2025-10-05T01:30:57.570579+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
+      "code": "WKU97L",
+      "id": 1350997,
+      "title": "Managing Remote Mapping Projects in the HOT Tasking Manager",
+      "abstract": "In this 60-minute workshop, I will share my approach and personal workflow in managing remote mapping projects using the HOT Tasking Manager. Tailored for those with Project Manager access, yet open to all, the session aims to highlight real-world methods of setting up priority areas with limited ground data, responding effectively to volunteer feedback, and writing clear, actionable task instructions. I will also present an idea for forming temporary validator teams (not yet implemented), and openly share the challenges and pain points I’ve faced in these roles. The workshop is not about presenting a perfect solution, but about learning together and collecting ideas for continuous improvement.",
+      "speakers": [
+        "UUU9VM"
+      ],
+      "track": 5517,
+      "start": "2025-10-04T11:30:00+08:00",
+      "end": "2025-10-04T12:30:00+08:00",
+      "room": 4378,
+      "duration": 60,
+      "updated": "2025-10-05T01:30:57.570619+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "N89YSU",
-      "id": 1350736,
+      "id": 1350996,
       "title": "How to Complete Japan’s Building Mapping in One Year? Strategies for Integrating PLATEAU Data into OSM",
       "abstract": "Since 2020, Japan’s Ministry of Land, Infrastructure, Transport and Tourism (MLIT) has led Project PLATEAU, releasing 3D city models in CityGML format. By 2025, over 236 municipalities have published building datasets compatible with the Open Database License (ODbL), suitable for integration into OpenStreetMap (OSM).\r\n\r\nSince 2022, OpenStreetMap Japan volunteers have imported PLATEAU’s Level of Detail 1 (LOD1) building data into OSM, completing imports for 13 cities as of May 2025. Despite these efforts, only about 62% of Japan’s estimated 38 million building polygons are mapped in OSM.\r\n\r\nThis presentation proposes a roadmap to complete Japan’s building mapping within one year, focusing on optimizing PLATEAU data imports, ensuring data consistency, and strengthening community collaboration.",
       "speakers": [
@@ -800,30 +665,13 @@
       "end": "2025-10-04T11:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.706796+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "8VMYYW",
-      "id": 1350738,
-      "title": "~Translation and Mapathons~  Building Open Mapping Education  by Students; A YouthMappers Student Project from Furuhashi Lab, Japan",
-      "abstract": "This talk introduces a student-led initiative from the Furuhashi Lab at Aoyama Gakuin University in Japan, focusing on the localization of global open mapping knowledge. As a YouthMappers chapter, we are currently translating the open-access book Open Mapping towards Sustainable Development Goals into Japanese. The aim of this translation project is to make critical mapping knowledge accessible to non-English-speaking students and to encourage greater participation in the open mapping community.\r\n\r\nRecognizing the importance of engaging peers through action, we organized our first online Mapathon in early 2025. This event helped beginner mappers gain hands-on experience and fostered a sense of community among participants. Building on its success, we are now planning a collaborative inter-university Mapathon scheduled for July 2025, with the goal of expanding our network and impact across academic institutions in Japan.\r\n\r\nIn this talk, we will share insights from managing the translation workflow, including how we divided chapters, ensured consistency in technical vocabulary, and utilized collaborative tools such as GitHub for version control. We will also reflect on our outreach efforts—how we communicated the value of open mapping to our peers and engaged them in both the translation and mapping processes.\r\n\r\nThrough this project, we aim to empower students with the knowledge and tools needed to contribute to global development goals through geospatial technologies. Ultimately, our initiative highlights the potential of youth-driven efforts to strengthen open mapping education and build inclusive communities, even in regions where English is not the primary language.",
-      "speakers": [
-        "8L9AVU"
-      ],
-      "track": 5526,
-      "start": "2025-10-04T12:00:00+08:00",
-      "end": "2025-10-04T12:20:00+08:00",
-      "room": 4377,
-      "duration": 20,
-      "updated": "2025-10-04T03:02:54.706831+00:00",
+      "updated": "2025-10-05T01:30:57.570599+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "3HRTVP",
-      "id": 1350739,
+      "id": 1350999,
       "title": "fAIrSwipe",
       "abstract": "This project aims to combine AI‐generated building predictions from fAIr with crowdsourced validation and conflation workflows in MapSwipe, ultimately pushing high‐confidence conflated map data into OpenStreetMap (OSM).\r\nfAIr is an AI‐powered mapping assistant by HOT that helps users map smarter, faster, and more accurately.\r\nMapSwipe is a crowdsourcing app that lets volunteers validate or identify features (e.g. buildings) quickly on satellite imagery.\r\n\r\nObjectives\r\n- Automate the creation of MapSwipe projects from fAIr (with building predictions, TMS layers, etc.).\r\n- Validate AI‐predicted features via MapSwipe’s volunteer workflow via redundancy.\r\n- Conflate validated features with existing OSM data.\r\n- Upload conflated data back to OSM in a controlled, conflict‐aware manner.\r\n- Provide feedback to improve fAIr's AI models based on volunteer validation results and possibly task the tasking manager to manually map the parts that are difficult to validate via MapSwipe.",
       "speakers": [
@@ -834,13 +682,30 @@
       "end": "2025-10-04T12:20:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.706849+00:00",
+      "updated": "2025-10-05T01:30:57.570658+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
+      "code": "8VMYYW",
+      "id": 1350998,
+      "title": "~Translation and Mapathons~  Building Open Mapping Education  by Students; A YouthMappers Student Project from Furuhashi Lab, Japan",
+      "abstract": "This talk introduces a student-led initiative from the Furuhashi Lab at Aoyama Gakuin University in Japan, focusing on the localization of global open mapping knowledge. As a YouthMappers chapter, we are currently translating the open-access book Open Mapping towards Sustainable Development Goals into Japanese. The aim of this translation project is to make critical mapping knowledge accessible to non-English-speaking students and to encourage greater participation in the open mapping community.\r\n\r\nRecognizing the importance of engaging peers through action, we organized our first online Mapathon in early 2025. This event helped beginner mappers gain hands-on experience and fostered a sense of community among participants. Building on its success, we are now planning a collaborative inter-university Mapathon scheduled for July 2025, with the goal of expanding our network and impact across academic institutions in Japan.\r\n\r\nIn this talk, we will share insights from managing the translation workflow, including how we divided chapters, ensured consistency in technical vocabulary, and utilized collaborative tools such as GitHub for version control. We will also reflect on our outreach efforts—how we communicated the value of open mapping to our peers and engaged them in both the translation and mapping processes.\r\n\r\nThrough this project, we aim to empower students with the knowledge and tools needed to contribute to global development goals through geospatial technologies. Ultimately, our initiative highlights the potential of youth-driven efforts to strengthen open mapping education and build inclusive communities, even in regions where English is not the primary language.",
+      "speakers": [
+        "8L9AVU"
+      ],
+      "track": 5526,
+      "start": "2025-10-04T12:00:00+08:00",
+      "end": "2025-10-04T12:20:00+08:00",
+      "room": 4377,
+      "duration": 20,
+      "updated": "2025-10-05T01:30:57.570638+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "TX88WD",
-      "id": 1350740,
+      "id": 1351001,
       "title": "Making OpenStreetMap More Accessible for New Mappers",
       "abstract": "OpenStreetMap (OSM) has become one of the most valuable open mapping platforms, yet many aspiring contributors struggle with the initial learning curve. Technical complexities, lack of structured on boarding, and limited localized training resources often prevent new mappers from fully engaging with OSM. This talk will highlight key challenges faced by beginners and propose practical solutions to make OSM more accessible and inclusive.\r\n\r\nDrawing from my experience as an Open Mapping Guru, a YouthMappers leader, and a trainer with the Open Mapping Hub - Asia Pacific, I will discuss effective strategies for on boarding new contributors. These include localized training resources, mentorship programs, and simplified tool introductions. By addressing these gaps, we can empower a more diverse community to participate actively in open mapping.",
       "speakers": [
@@ -851,13 +716,13 @@
       "end": "2025-10-04T12:50:00+08:00",
       "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.706866+00:00",
+      "updated": "2025-10-05T01:30:57.570709+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "ABLRCG",
-      "id": 1350741,
+      "id": 1351000,
       "title": "World-Map-Explorer – Explore the world with ease",
       "abstract": "World-Map-Explorer is a web application that helps the visually impaired learn about the world and understand maps. It is a great pleasure to note that the application was developed by a group of students from the Computer Science Department of Sri Krishnapuram Government Engineering College in collaboration with Zendalona with support of OpenStreetMap Kerala Community.\r\n\r\nThis app, which can be used by both the visually impaired and the sighted, is based on the free software OpenStreetMap. This app describes the world based on audio cues with the help of a screen reader. Existing applications like Google Maps cannot be used with a keyboard. Therefore, the visually impaired cannot use map applications. They understand the structure of areas by swiping their hands through the lines and dots that stand out on the tactile map. They understand where a place is by waving their hands over the place name written in Braille.",
       "speakers": [
@@ -868,30 +733,12 @@
       "end": "2025-10-04T12:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.706883+00:00",
+      "updated": "2025-10-05T01:30:57.570678+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350742,
-      "title": {
-        "en": "Lunch break"
-      },
-      "start": "2025-10-04T05:00:00Z",
-      "end": "2025-10-04T14:30:00+08:00",
-      "room": 4910
-    },
-    {
-      "id": 1350746,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-04T05:00:00Z",
-      "end": "2025-10-04T14:30:00+08:00",
-      "room": 4378
-    },
-    {
-      "id": 1350743,
+      "id": 1351008,
       "title": {
         "en": "Lunch Break"
       },
@@ -900,34 +747,16 @@
       "room": 4377
     },
     {
-      "id": 1350744,
+      "id": 1351007,
       "title": {
-        "en": "Lunch Break"
+        "en": "Lunch break"
       },
       "start": "2025-10-04T05:00:00Z",
       "end": "2025-10-04T14:30:00+08:00",
-      "room": 4375
+      "room": 4910
     },
     {
-      "id": 1350748,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-04T05:00:00Z",
-      "end": "2025-10-04T14:30:00+08:00",
-      "room": 4376
-    },
-    {
-      "id": 1350745,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-04T05:00:00Z",
-      "end": "2025-10-04T14:30:00+08:00",
-      "room": 4379
-    },
-    {
-      "id": 1350747,
+      "id": 1351003,
       "title": {
         "en": "Lunch break"
       },
@@ -936,40 +765,44 @@
       "room": 4911
     },
     {
-      "code": "PGAYVT",
-      "id": 1350752,
-      "title": "Introduction to JOSM and some plugins",
-      "abstract": "This training session will show how to get started with JOSM editor from the very first steps after installation to some plugins and advanced features which makes it different from iD Editor.\r\nThe session will go through the following topics:\r\n- Initial settings after JOSM download\r\n- Basic editing modes in JOSM, how to change imagery, align it to the data, etc.\r\n- How to download plugins in JOSM to enhance its functionalities\r\n- Usage of plugins: utils, buildings, open_data, FastDraw, ToDo, revert. Some of these plugins are to map better and faster, while others are to perform validation of data\r\n- JOSM queries to selected OSM data (very useful for validation)\r\n\r\nThe ideal participant to the session is a mapper that has some knowledge of OSM editing, always used iD editor and would like to get some exposure to JOSM to be able to perform some advanced mapping, or just explore it further. If that is you, do not hesitate to participate!\r\nIt is necessary for participants to bring their own laptop and mouse with JOSM already downloaded, possibly to the latest tested version which can be found here: https://josm.openstreetmap.de/wiki/Download.",
-      "speakers": [
-        "BCLAGF"
-      ],
-      "track": 5517,
-      "start": "2025-10-04T14:30:00+08:00",
-      "end": "2025-10-04T15:30:00+08:00",
-      "room": 4379,
-      "duration": 60,
-      "updated": "2025-10-04T03:02:54.707132+00:00",
-      "state": null,
-      "do_not_record": null
+      "id": 1351005,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-04T05:00:00Z",
+      "end": "2025-10-04T14:30:00+08:00",
+      "room": 4375
     },
     {
-      "code": "W7MXZR",
-      "id": 1350754,
-      "title": "Birds of Feather/BoF Kanlaon VI",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-04T14:30:00+08:00",
-      "end": "2025-10-04T15:30:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.707169+00:00",
-      "state": null,
-      "do_not_record": null
+      "id": 1351006,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-04T05:00:00Z",
+      "end": "2025-10-04T14:30:00+08:00",
+      "room": 4378
+    },
+    {
+      "id": 1351002,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-04T05:00:00Z",
+      "end": "2025-10-04T14:30:00+08:00",
+      "room": 4379
+    },
+    {
+      "id": 1351004,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-04T05:00:00Z",
+      "end": "2025-10-04T14:30:00+08:00",
+      "room": 4376
     },
     {
       "code": "MM8TEB",
-      "id": 1350753,
+      "id": 1351009,
       "title": "Mapping for Impact: Introducing Open Mapping to Civil Society in Sri Lanka",
       "abstract": "The open mapping movement in Sri Lanka has gained significant traction in recent years, with grassroots organizations demonstrating how open geospatial technologies can serve as tools for advocacy, resilience, and participatory governance. Supported by the Vriddhi Project, implemented by UNOPS Sri Lanka, this initiative introduced OpenStreetMap (OSM) and complementary open-source geospatial tools to 113 civil society organizations (CSOs) in Sri Lanka. These CSOs represented diverse sectors including women’s rights, land rights, environmental protection, youth development and disaster risk reduction.\r\n\r\nThe approach was structured around four pillars. Initiation and Engagement examined how the unfamiliar concept of open mapping was contextualized in local languages, building trust and digital confidence among grassroots actors. Capacity Building and Toolkits focused on the design of non-technical training modules and the deployment of user-friendly tools that directly informed local advocacy. Challenges and Lessons Learned highlighted issues of digital inequality, connectivity gaps, institutional skepticism, and gendered barriers to participation, while also reflecting on strategies to sustain momentum in remote and conflict-affected areas. Outcomes and Impact showcased case studies, including mapping project outcomes, visualizing land disputes, and documenting community assets, demonstrating how open mapping enhanced transparency, collaboration, and storytelling across civil society initiatives.\r\n\r\nBy embedding open mapping practices into grassroots workflows, this project illustrates the transformative potential of locally driven geospatial innovation. It further underscores the critical role of civil society in advancing open data ecosystems and sustaining participatory development in South Asia.",
       "speakers": [
@@ -980,45 +813,13 @@
       "end": "2025-10-04T14:50:00+08:00",
       "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707151+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "WELJ3Y",
-      "id": 1350751,
-      "title": "Birds of Feather/BoF Banahaw VI",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-04T14:30:00+08:00",
-      "end": "2025-10-04T15:30:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.707102+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "CBMXL3",
-      "id": 1350750,
-      "title": "Journey to the Center of the Planet",
-      "abstract": "Whether you’re a simple mapper or a sophisticated data consumer, you depend on a lot of machinery at the heart of OpenStreetMap that you probably never think about. After many years mapping and tinkering on OSM-based frontend applications, Minh is venturing into the software core of OSM’s world. Join him as he recounts his travels, unearthing the many moving parts beneath the surface and piecing together how they fit into the larger constellation of OSM software. Get a glimpse of the future of this software stack as we invest in development resources and make progress on longstanding priorities – and how you can help.",
-      "speakers": [
-        "FGMQNF"
-      ],
-      "track": 5519,
-      "start": "2025-10-04T14:30:00+08:00",
-      "end": "2025-10-04T14:50:00+08:00",
-      "room": 4376,
-      "duration": 20,
-      "updated": "2025-10-04T03:02:54.707070+00:00",
+      "updated": "2025-10-05T01:30:57.570897+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "LV9MRX",
-      "id": 1350749,
+      "id": 1351011,
       "title": "Beyond the Binary: Gender, Language, and Representation in Open Mapping",
       "abstract": "OpenStreetMap (OSM) thrives on teamwork and the desire to accurately depict the globe. Nonetheless, within its contributor base, gender disparities still exist. In addition to reflecting larger cultural trends, this underrepresentation affects the type of data gathered and the viewpoints given priority. \r\n\r\nMappers, community organizers, and advocates get together on this topic to explore various aspects of gender in the OSM ecosystem. The workshop will highlight initiatives to promote diversity, talk about how cultural norms affect participation, and share personal experiences navigating gendered expectations. We will look into issues like: What are the ways in which mapping communities exhibit binary gender assumptions? What aspects of gender are influenced by linguistic and cultural contexts? In what ways can we establish environments that embrace a range of gender identities?\r\n\r\nBy examining these questions, the workshop aims to:\r\n• Draw attention to the difficulties that underrepresented genders in OSM confront. \r\n• Discuss ways to encourage equal participation and combat gender biases. \r\n• Promote the use of inclusive terminology and methods in mapping projects. \r\n\r\nThose working on diversity projects, community participation, and the creation of mapping tools and policies may find this conversation very relevant. Participants will get knowledge about creating an OSM community that is more inclusive and celebrates the diversity of its members.",
       "speakers": [
@@ -1031,30 +832,47 @@
       "end": "2025-10-04T15:30:00+08:00",
       "room": 4378,
       "duration": 60,
-      "updated": "2025-10-04T03:02:54.707050+00:00",
+      "updated": "2025-10-05T01:30:57.570938+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "code": "YHRMZM",
-      "id": 1350756,
-      "title": "Women Who Map: My Mission to Build Inclusive Mapping Communities in Nepal",
-      "abstract": "Building a strong and inclusive mapping community requires leadership, collaboration and a vision that aligns with global geospatial initiatives. As an Om Guru Advanced Mapper, Kathmandu University YouthMappers President and Executive Member & Sole Mapping Lead of Geomatics Engineering Society (GES) for tenure 2025, I have worked extensively to expand Nepal’s OpenStreetMap (OSM) ecosystem, integrating engineering students, women and interdisciplinary contributors into mapping projects. My leadership has helped grow female mappers and transform the local community into university-level, being in the geospatial field, focused on women to lead mapping and running monthly campaigns across the country, ensuring greater inclusivity and technical engagement.                                                                                                                                                                                                                                                                                                                                                               In April 2025, I single-handedly organized Mapping Week 2025, an open mapping initiative held across Kathmandu University. This program featured 9 distinct open-source mapping applications, more than 12 national and international trainers and a range of community engagement activities including mapathons, quizzes and interactive workshops. The result? A historic rise in female participation and the expansion of mapping interest across university that previously had little exposure to OSM.\r\nMy talk focuses on how OpenStreetMap can be a tool for technical training, empowerment, inclusion and leadership development. I will reflect on the process of forming KU YouthMappers, expanding beyond a departmental club into a university-wide, multidisciplinary chapter. I will also explore challenges we faced when breaking academic silos, how we sustained motivation among new mappers and strategies that ensured our efforts aligned with OSMF’s larger mission.\r\nThis session will demonstrate building inclusive and gender-aware communities using open tools like ID editors and JOSM. It also aims to show the potential of young leaders, especially women, in shaping the future of mapping movements in underrepresented regions like Nepal. My ultimate goal is to highlight how ‘Women Who Map’ can be pioneers of change both locally and globally.",
+      "code": "CBMXL3",
+      "id": 1351010,
+      "title": "Journey to the Center of the Planet",
+      "abstract": "Whether you’re a simple mapper or a sophisticated data consumer, you depend on a lot of machinery at the heart of OpenStreetMap that you probably never think about. After many years mapping and tinkering on OSM-based frontend applications, Minh is venturing into the software core of OSM’s world. Join him as he recounts his travels, unearthing the many moving parts beneath the surface and piecing together how they fit into the larger constellation of OSM software. Get a glimpse of the future of this software stack as we invest in development resources and make progress on longstanding priorities – and how you can help.",
       "speakers": [
-        "3UNRQL"
+        "FGMQNF"
       ],
-      "track": 5522,
-      "start": "2025-10-04T15:00:00+08:00",
-      "end": "2025-10-04T15:20:00+08:00",
-      "room": 4377,
+      "track": 5519,
+      "start": "2025-10-04T14:30:00+08:00",
+      "end": "2025-10-04T14:50:00+08:00",
+      "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707204+00:00",
+      "updated": "2025-10-05T01:30:57.570917+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
+      "code": "PGAYVT",
+      "id": 1351012,
+      "title": "Introduction to JOSM and some plugins",
+      "abstract": "This training session will show how to get started with JOSM editor from the very first steps after installation to some plugins and advanced features which makes it different from iD Editor.\r\nThe session will go through the following topics:\r\n- Initial settings after JOSM download\r\n- Basic editing modes in JOSM, how to change imagery, align it to the data, etc.\r\n- How to download plugins in JOSM to enhance its functionalities\r\n- Usage of plugins: utils, buildings, open_data, FastDraw, ToDo, revert. Some of these plugins are to map better and faster, while others are to perform validation of data\r\n- JOSM queries to selected OSM data (very useful for validation)\r\n\r\nThe ideal participant to the session is a mapper that has some knowledge of OSM editing, always used iD editor and would like to get some exposure to JOSM to be able to perform some advanced mapping, or just explore it further. If that is you, do not hesitate to participate!\r\nIt is necessary for participants to bring their own laptop and mouse with JOSM already downloaded, possibly to the latest tested version which can be found here: https://josm.openstreetmap.de/wiki/Download.",
+      "speakers": [
+        "BCLAGF"
+      ],
+      "track": 5517,
+      "start": "2025-10-04T14:30:00+08:00",
+      "end": "2025-10-04T15:30:00+08:00",
+      "room": 4379,
+      "duration": 60,
+      "updated": "2025-10-05T01:30:57.570958+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "GQKLBA",
-      "id": 1350755,
+      "id": 1351014,
       "title": "Overpass Turbo goes PostGIS",
       "abstract": "This talks presents the \"Postpass\" service, a database that services OSM data for public querying much like Overpass, but uses PostGIS under the hood. With a few extra characters added to your query, you can have the power of PostGIS at your fingertips from within Overpass Turbo.",
       "speakers": [
@@ -1065,66 +883,29 @@
       "end": "2025-10-04T15:20:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707187+00:00",
+      "updated": "2025-10-05T01:30:57.570999+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350762,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-04T07:30:00Z",
-      "end": "2025-10-04T16:00:00+08:00",
-      "room": 4378
+      "code": "YHRMZM",
+      "id": 1351013,
+      "title": "Women Who Map: My Mission to Build Inclusive Mapping Communities in Nepal",
+      "abstract": "Building a strong and inclusive mapping community requires leadership, collaboration and a vision that aligns with global geospatial initiatives. As an Om Guru Advanced Mapper, Kathmandu University YouthMappers President and Executive Member & Sole Mapping Lead of Geomatics Engineering Society (GES) for tenure 2025, I have worked extensively to expand Nepal’s OpenStreetMap (OSM) ecosystem, integrating engineering students, women and interdisciplinary contributors into mapping projects. My leadership has helped grow female mappers and transform the local community into university-level, being in the geospatial field, focused on women to lead mapping and running monthly campaigns across the country, ensuring greater inclusivity and technical engagement.                                                                                                                                                                                                                                                                                                                                                               In April 2025, I single-handedly organized Mapping Week 2025, an open mapping initiative held across Kathmandu University. This program featured 9 distinct open-source mapping applications, more than 12 national and international trainers and a range of community engagement activities including mapathons, quizzes and interactive workshops. The result? A historic rise in female participation and the expansion of mapping interest across university that previously had little exposure to OSM.\r\nMy talk focuses on how OpenStreetMap can be a tool for technical training, empowerment, inclusion and leadership development. I will reflect on the process of forming KU YouthMappers, expanding beyond a departmental club into a university-wide, multidisciplinary chapter. I will also explore challenges we faced when breaking academic silos, how we sustained motivation among new mappers and strategies that ensured our efforts aligned with OSMF’s larger mission.\r\nThis session will demonstrate building inclusive and gender-aware communities using open tools like ID editors and JOSM. It also aims to show the potential of young leaders, especially women, in shaping the future of mapping movements in underrepresented regions like Nepal. My ultimate goal is to highlight how ‘Women Who Map’ can be pioneers of change both locally and globally.",
+      "speakers": [
+        "3UNRQL"
+      ],
+      "track": 5522,
+      "start": "2025-10-04T15:00:00+08:00",
+      "end": "2025-10-04T15:20:00+08:00",
+      "room": 4377,
+      "duration": 20,
+      "updated": "2025-10-05T01:30:57.570978+00:00",
+      "state": null,
+      "do_not_record": null
     },
     {
-      "id": 1350763,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-04T07:30:00Z",
-      "end": "2025-10-04T16:00:00+08:00",
-      "room": 4377
-    },
-    {
-      "id": 1350758,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-04T07:30:00Z",
-      "end": "2025-10-04T16:00:00+08:00",
-      "room": 4375
-    },
-    {
-      "id": 1350757,
-      "title": {
-        "en": "Coffee break"
-      },
-      "start": "2025-10-04T07:30:00Z",
-      "end": "2025-10-04T16:00:00+08:00",
-      "room": 4910
-    },
-    {
-      "id": 1350759,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-04T07:30:00Z",
-      "end": "2025-10-04T16:00:00+08:00",
-      "room": 4376
-    },
-    {
-      "id": 1350761,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-04T07:30:00Z",
-      "end": "2025-10-04T16:00:00+08:00",
-      "room": 4379
-    },
-    {
-      "id": 1350760,
+      "id": 1351021,
       "title": {
         "en": "Coffee break"
       },
@@ -1133,8 +914,62 @@
       "room": 4911
     },
     {
+      "id": 1351016,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-04T07:30:00Z",
+      "end": "2025-10-04T16:00:00+08:00",
+      "room": 4379
+    },
+    {
+      "id": 1351018,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-04T07:30:00Z",
+      "end": "2025-10-04T16:00:00+08:00",
+      "room": 4377
+    },
+    {
+      "id": 1351015,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-04T07:30:00Z",
+      "end": "2025-10-04T16:00:00+08:00",
+      "room": 4375
+    },
+    {
+      "id": 1351020,
+      "title": {
+        "en": "Coffee break"
+      },
+      "start": "2025-10-04T07:30:00Z",
+      "end": "2025-10-04T16:00:00+08:00",
+      "room": 4910
+    },
+    {
+      "id": 1351019,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-04T07:30:00Z",
+      "end": "2025-10-04T16:00:00+08:00",
+      "room": 4376
+    },
+    {
+      "id": 1351017,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-04T07:30:00Z",
+      "end": "2025-10-04T16:00:00+08:00",
+      "room": 4378
+    },
+    {
       "code": "SAWRUB",
-      "id": 1350766,
+      "id": 1351022,
       "title": "Lightning Talks III",
       "abstract": "## Access Disparities to Evacuation Centers\r\n_by Mark Ducusin_\r\n\r\n## Post conference trip Mt. Pulag\r\n_by Thomas Hercig_\r\n\r\n## Using OSM to identify the busiest public transport stops in Manila\r\n_by Edneil Soriano_\r\n\r\n## I'd like to show my OSM commits as 3D\r\n_by S.A. Tanaka_\r\n\r\n## Vibe Coding a Web GIS Platform\r\n_by Arun Ganesh_\r\n\r\nhttps://amche.in\r\n\r\n## Way 44512235\r\n_by Amazing Sambale_",
       "speakers": [
@@ -1145,13 +980,13 @@
       "end": "2025-10-04T16:20:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T06:47:36.548714+00:00",
+      "updated": "2025-10-05T01:30:57.571209+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "MHL8MU",
-      "id": 1350764,
+      "id": 1351023,
       "title": "Where are we heading? The current state of OpenStreetMap in numbers.",
       "abstract": "OpenStreetMap has celebrated its 20th birthday last year. Over the past two decades the community grew tremendously and now covers (almost) the entire globe. This talk summarizes OSM’s evolution with maps and meaningful numbers. We want to take a look at the “state of the map”, current mapping trends and some of the challenges that we face.\r\n\r\nWe look at the size of the active community, analyse regional differences in mapping and look at the impact of mobile OSM editors such as StreetComplete and Every Door. Let’s also take a brief look at humanitarian mapping, corporate mapping and the impact of AI-generated data and Street View Imagery on OSM’s future. \r\n\r\nThis talk is intended to be an introduction and puts a focus on the basics. Each topic mentioned above would probably deserve its own talk!",
       "speakers": [
@@ -1162,60 +997,13 @@
       "end": "2025-10-04T16:20:00+08:00",
       "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707383+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "SMPTBL",
-      "id": 1350765,
-      "title": "Birds of Feather/BoF Banahaw VII",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-04T16:00:00+08:00",
-      "end": "2025-10-04T17:00:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.707401+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "CBUWLQ",
-      "id": 1350767,
-      "title": "Birds of Feather/BoF Kanlaon VII",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-04T16:00:00+08:00",
-      "end": "2025-10-04T17:00:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.707449+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "BDNRAA",
-      "id": 1350768,
-      "title": "Local First in a Diverse Democracy: India’s Decentralized Path to Hosting the First Regional SotM",
-      "abstract": "India’s OpenStreetMap community is characterised by its vast diversity and absence of a formal national body. Instead, independent regional groups drive mapping efforts, facing challenges such as funding restrictions and policy gaps. This talk highlights the “local first” approach, empowering regional communities to build sustainable mapping initiatives.\r\n\r\nUsing OSM Kerala as a case study, I will share how this community navigated legal and funding hurdles to successfully host India’s first regional State of the Map conference in 2023. The talk also explores how communities gained the trust of the government and spearheaded open data policies and releases. This will be a learning for how decentralised communities can leverage these developments to strengthen their impact.\r\n\r\nThis session offers valuable lessons for diverse democracies worldwide on fostering resilient and inclusive open mapping movements through local empowerment.",
-      "speakers": [
-        "G7PBPK"
-      ],
-      "track": 5522,
-      "start": "2025-10-04T16:30:00+08:00",
-      "end": "2025-10-04T16:50:00+08:00",
-      "room": 4376,
-      "duration": 20,
-      "updated": "2025-10-04T03:02:54.707466+00:00",
+      "updated": "2025-10-05T01:30:57.571230+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "RD3WXL",
-      "id": 1350769,
+      "id": 1351024,
       "title": "OSM Swiss Style and the new OSM Swiss Base Map",
       "abstract": "This talk will present the OSM Swiss Style project and the new OSM Swiss Base Map, which was developed by University of Applied Sciences OST, in cooperation with ETH Zurich, Sourcepole AG and the Swiss OpenStreetMap Association. The goal is to create a base map for thematic maps that blends Swiss cartographic design principles such as clarity and readability with modern technologies like vector tiles and unique worldwide datasets such as OpenStreetMap (OSM) data and Terrain 3D tiles. The map style pays particular attention to public transport. It uses MapLibre GL JS, PMTiles, Tilemaker with Lua scripts and an extended Shortbread schema. Graphical assets include custom-made icons, icons from the OSM project, and the Roboto font. Innovations include geographical name and points-of-interest (POI) prioritization with QRank, which will be discussed alongside the challenges experienced so far.",
       "speakers": [
@@ -1226,77 +1014,30 @@
       "end": "2025-10-04T16:50:00+08:00",
       "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707483+00:00",
+      "updated": "2025-10-05T01:30:57.571250+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "code": "9R8TBE",
-      "id": 1350772,
-      "title": "City-Scale Open Community Drone Mapping - A World First in Sierra Leone?",
-      "abstract": "In April and May, 2025, in Freetown, 13 of the city’s residents became the first open drone\r\nmapping crew to take on the mapping of an entire capital city, creating a contiguous layer of\r\nhigh quality (sub-5cm) open aerial imagery, as well as 3d meshes and elevation models.\r\nThe crew represented a mix of city stakeholders from Freetown City Council (FCC), Federation\r\nof Urban and Rural Poor (FEDURP), Centre of Dialogue on Human Settlement and Poverty\r\nAlleviation (CODOHSAPA) and OpenStreetMap Sierra Leone and the initiative was funded by\r\nHumanitarian OpenStreetMap Team (HOT) and GIZ at the request of Freetown City Council to\r\nsupport a host of urban development use cases including access to essential services analysis\r\nfor people with disabilities, living in informal settlements.\r\nThe open mapping world is incredible because it allows people, communities and organisations\r\nto take autonomous action, creating and using geographical data to make positive change.\r\nHowever, imagery remains a significant dependency.\r\nMuch mapping depends on access to good quality aerial imagery and this still largely means\r\nusing whatever is available through accessible imagery layers provided by corporations or\r\npurchasing imagery at commercial rates. Exceptions to this, such as Maxar’s Open Data\r\nProgram, contribute freely licensed imagery but are limited to disaster response activations or\r\nare at the discretion of Maxar’s decision makers.\r\nThe increasingly low price and high performance of low-cost drones has long promised to\r\ndisrupt this status quo and the development of OpenAerialMap and OpenDroneMap have\r\nalready contributed significantly to making this possible. The latest FOSS tooling to be added to\r\nthis ecosystem is Drone Tasking Manager, which does for drone mapping what the HOT Tasking\r\nManager does for remote mapping; enabling community members to participate in large scale,\r\ncoordinated campaigns with built in quality checks.\r\nWe propose to demonstrate to the State of the Map audience how local people with low-cost,\r\nconsumer-grade drones and an open tech stack can now deliver high quality aerial imagery for\r\ncity authorities and urban communities at a city scale and for a fraction of the cost of\r\ncomparable satellite imagery or commercially-flown drone imagery.",
+      "code": "BDNRAA",
+      "id": 1351025,
+      "title": "Local First in a Diverse Democracy: India’s Decentralized Path to Hosting the First Regional SotM",
+      "abstract": "India’s OpenStreetMap community is characterised by its vast diversity and absence of a formal national body. Instead, independent regional groups drive mapping efforts, facing challenges such as funding restrictions and policy gaps. This talk highlights the “local first” approach, empowering regional communities to build sustainable mapping initiatives.\r\n\r\nUsing OSM Kerala as a case study, I will share how this community navigated legal and funding hurdles to successfully host India’s first regional State of the Map conference in 2023. The talk also explores how communities gained the trust of the government and spearheaded open data policies and releases. This will be a learning for how decentralised communities can leverage these developments to strengthen their impact.\r\n\r\nThis session offers valuable lessons for diverse democracies worldwide on fostering resilient and inclusive open mapping movements through local empowerment.",
       "speakers": [
-        "RUQJMW"
+        "G7PBPK"
       ],
-      "track": 5517,
-      "start": "2025-10-05T09:30:00+08:00",
-      "end": "2025-10-05T09:50:00+08:00",
-      "room": 4377,
-      "duration": 20,
-      "updated": "2025-10-04T03:02:54.707538+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "MDWSKG",
-      "id": 1350771,
-      "title": "Address and street name grids in the Philippines",
-      "abstract": "Rare in Asia, house numbering grids are indeed present in the Philippines, as an analysis of\r\nOpenStreetMap data shows.\r\n\r\nIn places like Bonifacio Global City the names of roads themselves form a quite advanced pattern,\r\nwith non-overlapping street vs. avenue numbering. House numbers are absent. Other places like Pasay\r\nhave odd numbered street names perpendicular to even.\r\n\r\nIf the physical streets form a grid, but the current numbers don't, then we take the liberty to\r\nsuggest one.\r\n\r\nSoftware used: OGR/GDAL and GNU/Linux command line tools and Viking GPS to display the KMZs\r\nproduced.\r\n\r\nFull article: https://www.jidanni.org/geo/house_numbering/grids/ph/ncr/bands/high.html",
-      "speakers": [
-        "ZMLFKT"
-      ],
-      "track": 5517,
-      "start": "2025-10-05T09:30:00+08:00",
-      "end": "2025-10-05T09:50:00+08:00",
+      "track": 5522,
+      "start": "2025-10-04T16:30:00+08:00",
+      "end": "2025-10-04T16:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707519+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "KRCXGS",
-      "id": 1350773,
-      "title": "Birds of Feather/BoF Kanlaon VIII",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-05T09:30:00+08:00",
-      "end": "2025-10-05T11:00:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.707555+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "S9ZN8F",
-      "id": 1350774,
-      "title": "Birds of Feather/BoF Banahaw VIII",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-05T09:30:00+08:00",
-      "end": "2025-10-05T11:00:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.707573+00:00",
+      "updated": "2025-10-05T01:30:57.571270+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "FZKAAE",
-      "id": 1350770,
+      "id": 1351026,
       "title": "From Sprawl to Strategy, Leveraging OpenStreetMap for Smarter Urban Growth Analysis a case of Dodoma City",
       "abstract": "Using OpenStreetMap and GIS to Monitor Urban Sprawl, Forecast Building Demand, and Evaluate Urban Development Trends\r\nThis session initially presents a practical approach to equipping the Ministry of Lands, Housing, and Human Settlements Development (MLHHSD) staff in Tanzania with essential GIS skills for urban planning. By leveraging open-source tools and OpenStreetMap (OSM) data, state of map participants will learn how to analyze urban sprawl, forecast future building space needs, and evaluate trends in urban development and planning control.\r\nUrban sprawl, characterized by uncontrolled city expansion, poses major challenges for sustainable development. Through spatial analysis, visualization, and modeling using tools like OSM, QGIS and spatial statistics, participants can identify growth hotspots, assess building density patterns, and measure the Urban Sprawl Index. The session also covers forecasting techniques using historical data and scenario modeling to project building demand and align infrastructure development with population trends.\r\nFurthermore, GIS tools will be applied to evaluate long-term development trends, monitor the effectiveness of urban policies, and assess the environmental impact of expansion. Attendees will explore practical steps for implementation, including data collection strategies, interdepartmental collaboration, and stakeholder engagement. This session demonstrates how open data ecosystems like OSM and GIS can empower governments to make informed, future-oriented urban planning decisions",
       "speakers": [
@@ -1307,31 +1048,30 @@
       "end": "2025-10-05T10:30:00+08:00",
       "room": 4378,
       "duration": 60,
-      "updated": "2025-10-04T03:02:54.707502+00:00",
+      "updated": "2025-10-05T01:30:57.571292+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "code": "YDENQX",
-      "id": 1350775,
-      "title": "The Role of Crowdsourced Damage Assessment in Disaster Response and Recovery",
-      "abstract": "During disasters, there is a need for accurate, rapid, and reliable mapping, validation, and damage assessment to inform humanitarian response and recovery efforts. However, as disasters are often extensive in scale, it is important that these methodologies are scalable and can be employed for multiple affected areas at any point in time.\r\n\r\nCrowdsourced mapping, validation, and damage assessment, when combined with multiple layers of validation with local knowledge, enables humanitarian actors to quickly reach multiple affected areas at once - ensuring that no one is left behind. Humanitarian OpenStreetMap Team (HOT) will cover the crowdsourced methodology piloted for the 2025 Myanmar Earthquake response, the outcomes, and the lessons learned.\r\n\r\nThere are pros and cons in applying different methodologies - AI-generated, expert-led, or crowdsourced - during a disaster. HOT sees value in employing a mixed-methods approach. This session will also explore the methodologies' benefits and limitations, and HOT's preliminary assessment of a mixed-methods model for future disaster response.",
+      "code": "MDWSKG",
+      "id": 1351027,
+      "title": "Address and street name grids in the Philippines",
+      "abstract": "Rare in Asia, house numbering grids are indeed present in the Philippines, as an analysis of\r\nOpenStreetMap data shows.\r\n\r\nIn places like Bonifacio Global City the names of roads themselves form a quite advanced pattern,\r\nwith non-overlapping street vs. avenue numbering. House numbers are absent. Other places like Pasay\r\nhave odd numbered street names perpendicular to even.\r\n\r\nIf the physical streets form a grid, but the current numbers don't, then we take the liberty to\r\nsuggest one.\r\n\r\nSoftware used: OGR/GDAL and GNU/Linux command line tools and Viking GPS to display the KMZs\r\nproduced.\r\n\r\nFull article: https://www.jidanni.org/geo/house_numbering/grids/ph/ncr/bands/high.html",
       "speakers": [
-        "3SJSQR",
-        "LXXGZS"
+        "ZMLFKT"
       ],
       "track": 5517,
-      "start": "2025-10-05T10:00:00+08:00",
-      "end": "2025-10-05T10:20:00+08:00",
-      "room": 4377,
+      "start": "2025-10-05T09:30:00+08:00",
+      "end": "2025-10-05T09:50:00+08:00",
+      "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707590+00:00",
+      "updated": "2025-10-05T01:30:57.571314+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "GSLL8S",
-      "id": 1350776,
+      "id": 1351029,
       "title": "UN Mappers: Building a Community of Mappers to Support Peace with OpenStreetMap",
       "abstract": "The UN Maps Programme, an initiative from the Department of Operational Support at the United Nations, provides topographic maps, operational geo-information, search and navigation tools, and imagery and street-level base maps to peacekeeping and humanitarian actors in UN mission areas. UN Maps has established a community of OpenStreetMap (OSM) data contributors called UN Mappers. The UN Mappers community is a collective of open mapping enthusiasts dedicated to building accurate and crowd-worked geospatial data to support peacekeeping and humanitarian missions on the ground.\r\n\r\nThe session aims to provide updates about the UN Maps programme and the UN Mappers community. In addition, we aim to share co-created and adopted initiatives that we are currently exploring in community building and sustainability, such as the UN Mappers Ambassadors and Chapters, and to discuss lessons learned and challenges.",
       "speakers": [
@@ -1343,30 +1083,31 @@
       "end": "2025-10-05T10:20:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707607+00:00",
+      "updated": "2025-10-05T01:30:57.571354+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "code": "YDSFTB",
-      "id": 1350777,
-      "title": "Lightning Talks IV",
-      "abstract": "## No Title\r\n_by Ariel Donic_\r\n\r\n## No Title\r\n_by Vic Puno_\r\n\r\n## Using OSM for transport maps\r\n_by Yannick Roth_\r\n\r\n## No Title\r\n_by Minh Nguyen_\r\n\r\n## Docker on PostGIS\r\n_by Takeshi Furnta_\r\n\r\n## My project using OSM\r\n_by Mizuki Yamaimoto_",
+      "code": "YDENQX",
+      "id": 1351030,
+      "title": "The Role of Crowdsourced Damage Assessment in Disaster Response and Recovery",
+      "abstract": "During disasters, there is a need for accurate, rapid, and reliable mapping, validation, and damage assessment to inform humanitarian response and recovery efforts. However, as disasters are often extensive in scale, it is important that these methodologies are scalable and can be employed for multiple affected areas at any point in time.\r\n\r\nCrowdsourced mapping, validation, and damage assessment, when combined with multiple layers of validation with local knowledge, enables humanitarian actors to quickly reach multiple affected areas at once - ensuring that no one is left behind. Humanitarian OpenStreetMap Team (HOT) will cover the crowdsourced methodology piloted for the 2025 Myanmar Earthquake response, the outcomes, and the lessons learned.\r\n\r\nThere are pros and cons in applying different methodologies - AI-generated, expert-led, or crowdsourced - during a disaster. HOT sees value in employing a mixed-methods approach. This session will also explore the methodologies' benefits and limitations, and HOT's preliminary assessment of a mixed-methods model for future disaster response.",
       "speakers": [
-        "YNFKER"
+        "3SJSQR",
+        "LXXGZS"
       ],
-      "track": 5524,
-      "start": "2025-10-05T10:30:00+08:00",
-      "end": "2025-10-05T10:50:00+08:00",
-      "room": 4376,
+      "track": 5517,
+      "start": "2025-10-05T10:00:00+08:00",
+      "end": "2025-10-05T10:20:00+08:00",
+      "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707624+00:00",
+      "updated": "2025-10-05T01:30:57.571374+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "RMVQF9",
-      "id": 1350778,
+      "id": 1351031,
       "title": "OSM mapping of building damage - review and prospects after Chido in Mayotte",
       "abstract": "On December 14, 2024, the territory of Mayotte, a French department of more than 300,000 inhabitants made up of several islands between Africa and Madagascar, was hit by the passage of Chido, the most violent cyclone it had seen in more than fifty years.\r\nPleiades imagery taken in the following days, between December 17 and 24, were posted online and released for the OSM contribution. These images provided an opportunity to compare the situation before and after the disaster and to assess the damage to thousands of buildings. The presentation will explain the chosen methodology, which was inspired by the few examples previously produced in OSM and by a methodology developed by researchers at the Harvard Humanitarian Initiative. It will briefly show the editing workflow, which uses a specific preset and cartographic style in JOSM and relies on detailed descriptions and videos in several languages. It will also analyze the results obtained and the statistics generated throughout the cartographic process. It will compare them with other post-Chido evaluations carried out remotely or in the field, but on smaller samples. Finally, it will look at the prospects for replication in other contexts affected by wind damage.",
       "speakers": [
@@ -1377,12 +1118,29 @@
       "end": "2025-10-05T10:50:00+08:00",
       "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707642+00:00",
+      "updated": "2025-10-05T01:30:57.571394+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350780,
+      "code": "YDSFTB",
+      "id": 1351032,
+      "title": "Lightning Talks IV",
+      "abstract": "## Spatial Innovation Carigara: Applying Opensource Mapping Tools for Community Developmet\r\n_by Ariel Donic_\r\n\r\n## Enhancing Passenger Ride Experience Using GrabMaps\r\n_by Vic Puno_\r\n\r\n## From OSM Data to Transport Models\r\n_by Yannick Roth_\r\n\r\n## What is a stop? Mapping Public Transport Routes\r\n_by Minh Nguyễn_",
+      "speakers": [
+        "YNFKER"
+      ],
+      "track": 5524,
+      "start": "2025-10-05T10:30:00+08:00",
+      "end": "2025-10-05T10:50:00+08:00",
+      "room": 4376,
+      "duration": 20,
+      "updated": "2025-10-05T01:30:57.571414+00:00",
+      "state": null,
+      "do_not_record": null
+    },
+    {
+      "id": 1351035,
       "title": {
         "en": "Coffee Break"
       },
@@ -1391,34 +1149,7 @@
       "room": 4375
     },
     {
-      "id": 1350781,
-      "title": {
-        "en": "Coffee break"
-      },
-      "start": "2025-10-05T03:00:00Z",
-      "end": "2025-10-05T11:30:00+08:00",
-      "room": 4911
-    },
-    {
-      "id": 1350783,
-      "title": {
-        "en": "Coffee break"
-      },
-      "start": "2025-10-05T03:00:00Z",
-      "end": "2025-10-05T11:30:00+08:00",
-      "room": 4910
-    },
-    {
-      "id": 1350782,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-05T03:00:00Z",
-      "end": "2025-10-05T11:30:00+08:00",
-      "room": 4379
-    },
-    {
-      "id": 1350785,
+      "id": 1351034,
       "title": {
         "en": "Coffee Break"
       },
@@ -1427,7 +1158,25 @@
       "room": 4376
     },
     {
-      "id": 1350779,
+      "id": 1351038,
+      "title": {
+        "en": "Coffee break"
+      },
+      "start": "2025-10-05T03:00:00Z",
+      "end": "2025-10-05T11:30:00+08:00",
+      "room": 4911
+    },
+    {
+      "id": 1351036,
+      "title": {
+        "en": "Coffee break"
+      },
+      "start": "2025-10-05T03:00:00Z",
+      "end": "2025-10-05T11:30:00+08:00",
+      "room": 4910
+    },
+    {
+      "id": 1351033,
       "title": {
         "en": "Coffee Break"
       },
@@ -1436,7 +1185,16 @@
       "room": 4377
     },
     {
-      "id": 1350784,
+      "id": 1351039,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-05T03:00:00Z",
+      "end": "2025-10-05T11:30:00+08:00",
+      "room": 4379
+    },
+    {
+      "id": 1351037,
       "title": {
         "en": "Coffee Break"
       },
@@ -1445,23 +1203,25 @@
       "room": 4378
     },
     {
-      "code": "7PYYGQ",
-      "id": 1350787,
-      "title": "Birds of Feather/BoF Banahaw IX",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
+      "code": "KVEUCX",
+      "id": 1351040,
+      "title": "Steph-outside: Outdoor Mapping under the bright Sky with KartaView and Mapillary",
+      "abstract": "This hands-on workshop explores Mapillary and KartaView—two platforms for collecting and using street-level imagery to enhance OpenStreetMap. Participants will learn how to capture and upload imagery using smartphones or action cameras, compare platform features, and understand licensing, privacy, and community engagement considerations. We’ll demonstrate how each tool integrates with OSM editors for mapping features like bike lanes, traffic signages, and pedestrian infrastructure. Through practical exercises and local examples, attendees will gain skills to apply these tools in their own mapping initiatives and make informed decisions on which platform best supports their goals for civic and community mapping.",
+      "speakers": [
+        "U7KHEF"
+      ],
+      "track": 5521,
       "start": "2025-10-05T11:30:00+08:00",
-      "end": "2025-10-05T13:00:00+08:00",
-      "room": 4911,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.707828+00:00",
+      "end": "2025-10-05T12:30:00+08:00",
+      "room": 4378,
+      "duration": 60,
+      "updated": "2025-10-05T01:30:57.571603+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "TFURNU",
-      "id": 1350789,
+      "id": 1351042,
       "title": "From Mappers to Movement Builders: Strengthening Local Leadership through Open Mapping Gurus",
       "abstract": "The Open Mapping Gurus are more than skilled mappers—they are changemakers rooted in their local contexts, driven by purpose, and committed to building resilient communities through open data. As mapping needs shift from short-term project engagement to long-term sustainability and impact, we need to equip these local champions not just with tools—but with vision, leadership, and strategy.\r\n\r\nThis workshop explores how Open Mapping Gurus can play a central role in implementing and co-owning regional and national community-building strategies. Drawing from the Asia-Pacific Open Mapping Hub’s 2025–2030 Community Building Strategy, this session will present pathways for local leadership, inclusive participation, and cross-border collaboration. Participants will unpack the strategy’s key objectives—such as strengthening grassroots mapping, integrating community-centered monitoring and evaluation (MEL), and scaling open mapping through partnerships—and localize these goals through the lens of their own communities.\r\n\r\nUsing interactive frameworks, reflection tools, and real-world examples, the workshop will help Gurus:\r\n\r\n1) Identify their unique leadership role and local impact potential\r\n2) Map opportunities for growing their local communities or projects\r\n3) Align their ongoing work with regional strategy goals\r\n4) Collaborate with other Gurus and partners to solve shared challenges\r\n\r\nBy the end of this session, Gurus will leave with a clearer roadmap of how their grassroots work fits into a broader open mapping movement—where their contributions are seen, supported, and celebrated. This is not just a workshop; it's an invitation to step more confidently into your leadership role within the open mapping ecosystem.",
       "speakers": [
@@ -1473,45 +1233,13 @@
       "end": "2025-10-05T11:50:00+08:00",
       "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707864+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "KVEUCX",
-      "id": 1350786,
-      "title": "Steph-outside: Outdoor Mapping under the bright Sky with KartaView and Mapillary",
-      "abstract": "This hands-on workshop explores Mapillary and KartaView—two platforms for collecting and using street-level imagery to enhance OpenStreetMap. Participants will learn how to capture and upload imagery using smartphones or action cameras, compare platform features, and understand licensing, privacy, and community engagement considerations. We’ll demonstrate how each tool integrates with OSM editors for mapping features like bike lanes, traffic signages, and pedestrian infrastructure. Through practical exercises and local examples, attendees will gain skills to apply these tools in their own mapping initiatives and make informed decisions on which platform best supports their goals for civic and community mapping.",
-      "speakers": [
-        "U7KHEF"
-      ],
-      "track": 5521,
-      "start": "2025-10-05T11:30:00+08:00",
-      "end": "2025-10-05T12:30:00+08:00",
-      "room": 4378,
-      "duration": 60,
-      "updated": "2025-10-04T03:02:54.707810+00:00",
-      "state": null,
-      "do_not_record": null
-    },
-    {
-      "code": "RNGYZB",
-      "id": 1350790,
-      "title": "Birds of Feather/BoF Kanlaon IX",
-      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
-      "speakers": [],
-      "track": 6396,
-      "start": "2025-10-05T11:30:00+08:00",
-      "end": "2025-10-05T13:00:00+08:00",
-      "room": 4910,
-      "duration": 30,
-      "updated": "2025-10-04T03:02:54.707881+00:00",
+      "updated": "2025-10-05T01:30:57.571644+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "CTPAV7",
-      "id": 1350788,
+      "id": 1351041,
       "title": "It’s complicated",
       "abstract": "Unlike most world maps, OpenStreetMap is built by a global community with a keen focus on local knowledge. For many local communities, proper representation of the native language is just as important as getting the locations right. OpenHistoricalMap extends this approach back in time, incidentally tracking the evolution of written language through toponyms. Increasingly, users experience both projects through vector maps, which cannot necessarily benefit from the techniques that enable broad language support in raster maps. In particular, many Asian writing systems present unique implementation challenges for both cartographers and renderer developers.\r\n\r\nThis talk traces the history of writing system support in one popular vector map library, MapLibre, from its origins in Mapbox GL to more recent experiments in improving text layout and rendering. As vector map technology finds its way onto the OSM homepage, these improvements will take on added urgency. You’ll learn about some mapping practices that renderer developers must work around, as well as limitations in underlying technologies like JavaScript and Unicode that block more comprehensive language coverage. You’ll come away with a fuller appreciation for the role of text rendering technology on the Web in the promotion of linguistic heritage.",
       "speakers": [
@@ -1522,13 +1250,13 @@
       "end": "2025-10-05T11:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707845+00:00",
+      "updated": "2025-10-05T01:30:57.571624+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "UUTQZX",
-      "id": 1350791,
+      "id": 1351043,
       "title": "Why and how to visualize OSM data using pmtiles",
       "abstract": "In this talk I will describe the pros and cons of using the pmtiles vector tile format in comparison with other tile formats. I will then talk about some of the tools available to generate pmtiles tiles based on OSM data and other GIS formats, inspect these tiles and visualize them on a website. Finally, I will demonstrate how I built in the real world a data pipeline to filter and transform OSM data, combine it with other data from external sources, generate pmtiles using the tools previously described and implement a website to display the generated tiles on a map.",
       "speakers": [
@@ -1539,15 +1267,15 @@
       "end": "2025-10-05T12:20:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707899+00:00",
+      "updated": "2025-10-05T01:30:57.571664+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "N79KTE",
-      "id": 1350792,
+      "id": 1351044,
       "title": "Lightning Talks V",
-      "abstract": "Lightning talks are short presentations (maximum 5 minutes) about a topic related to OpenStreetMap.",
+      "abstract": "## Geo Drawing\r\n_by Moe Anjo, Mta Kozaki, Pensoi Lnoue, Yuckei Kato_\r\n\r\n## Mapping Pet Friendly Building Resilience \r\n_by Leigh Lunas_\r\n\r\n## Building Resilience Spales through Open Mapping\r\n_by Jannie Fleur Ornio_\r\n\r\n## OSM vs. Field Pratical Training\r\n_by Erick Tamba_\r\n\r\n## World best addressing system\r\n_Dan Jacobson_\r\n\r\n## Invitation to FOSS4Gi Hiroshima 2026\r\n_by S.A. Tanaka_",
       "speakers": [
         "YNFKER"
       ],
@@ -1556,30 +1284,28 @@
       "end": "2025-10-05T12:20:00+08:00",
       "room": 4377,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707916+00:00",
+      "updated": "2025-10-05T01:30:57.571695+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "code": "XXHWYH",
-      "id": 1350793,
-      "title": "Community Participatory Mapping of Water Sanitation and Hygiene Access for Sustainable Urban Planning.",
-      "abstract": "Access to safe water and sanitation is critical for public health and sustainable urban development, yet significant disparities persist in informal settlements across low- and middle-income countries. This study explores inequalities in WASH access within Korogocho and Viwandani which are two densely populated informal settlements in Nairobi, using a participatory geospatial approach. Community members collaborated in mapping key WASH-related assets, including water points, sanitation facilities, and waste collection sites, enabling a detailed spatial understanding often absent in official datasets.\r\nA three-stage methodology was applied: participatory asset mapping, field validation using SurveyCTO , and data digitization and uploading onto OpenStreetMap. The process not only improved data quality but also empowered and built capacity of local residents through engagement in data collection and urban planning discussions.\r\nResults revealed critical service gaps, facility unreliability, and infrastructure needs, particularly during droughts. Despite Nairobi’s reported high access levels to improved water (96.4%), this figure masks deep inequalities within its informal settlements. By identifying priority areas and visualizing spatial inequalities, participatory GIS offers a scalable model for inclusive planning and equitable WASH interventions. This research underscores the role of community-driven mapping in fostering sustainable urban resilience and informing policy for underserved populations.",
-      "speakers": [
-        "8AZY3X"
-      ],
-      "track": 5522,
+      "code": "RNGYZB",
+      "id": 1351045,
+      "title": "Hot staff & voting members meetup",
+      "abstract": "Birds of a Feather sessions are spontaneous, self-organized sessions related to OpenStreetMap. This slot is still unassigned.\r\n\r\nYou can sign up for a self-organized session at the \"BoF\" white board at the conference venue.",
+      "speakers": [],
+      "track": 6396,
       "start": "2025-10-05T12:30:00+08:00",
-      "end": "2025-10-05T12:50:00+08:00",
-      "room": 4377,
-      "duration": 20,
-      "updated": "2025-10-04T03:02:54.707934+00:00",
+      "end": "2025-10-05T13:00:00+08:00",
+      "room": 4910,
+      "duration": 30,
+      "updated": "2025-10-05T01:30:57.571715+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "3WWGYS",
-      "id": 1350794,
+      "id": 1351047,
       "title": "What Could You Do with 100 Days of Mapping?",
       "abstract": "What could you really accomplish with 100 days of consistent mapping? Add 1000 buildings, delete 100 nodes, or achieve completeness for an entire neighbourhood? Within the OpenStreetMap community, mappers contribute at different levels and frequencies using several tools and editors to enhance the map. In this presentation, we will share our experiences mapping every single day - the lessons learnt, the shortcuts we somehow didn't know, and key insights on maintaining data quality while sustaining a daily mapping practice over an extended period. We'll explore frameworks that could be considered for similar mapping challenges, strategies for finding motivation when inspiration runs low, and tracking progress to celebrate mapping milestones along the way.",
       "speakers": [
@@ -1590,39 +1316,29 @@
       "end": "2025-10-05T12:50:00+08:00",
       "room": 4376,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.707951+00:00",
+      "updated": "2025-10-05T01:30:57.571756+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350800,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-05T05:00:00Z",
-      "end": "2025-10-05T14:30:00+08:00",
-      "room": 4378
+      "code": "XXHWYH",
+      "id": 1351046,
+      "title": "Community Participatory Mapping of Water Sanitation and Hygiene Access for Sustainable Urban Planning.",
+      "abstract": "Access to safe water and sanitation is critical for public health and sustainable urban development, yet significant disparities persist in informal settlements across low- and middle-income countries. This study explores inequalities in WASH access within Korogocho and Viwandani which are two densely populated informal settlements in Nairobi, using a participatory geospatial approach. Community members collaborated in mapping key WASH-related assets, including water points, sanitation facilities, and waste collection sites, enabling a detailed spatial understanding often absent in official datasets.\r\nA three-stage methodology was applied: participatory asset mapping, field validation using SurveyCTO , and data digitization and uploading onto OpenStreetMap. The process not only improved data quality but also empowered and built capacity of local residents through engagement in data collection and urban planning discussions.\r\nResults revealed critical service gaps, facility unreliability, and infrastructure needs, particularly during droughts. Despite Nairobi’s reported high access levels to improved water (96.4%), this figure masks deep inequalities within its informal settlements. By identifying priority areas and visualizing spatial inequalities, participatory GIS offers a scalable model for inclusive planning and equitable WASH interventions. This research underscores the role of community-driven mapping in fostering sustainable urban resilience and informing policy for underserved populations.",
+      "speakers": [
+        "8AZY3X"
+      ],
+      "track": 5522,
+      "start": "2025-10-05T12:30:00+08:00",
+      "end": "2025-10-05T12:50:00+08:00",
+      "room": 4377,
+      "duration": 20,
+      "updated": "2025-10-05T01:30:57.571736+00:00",
+      "state": null,
+      "do_not_record": null
     },
     {
-      "id": 1350801,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-05T05:00:00Z",
-      "end": "2025-10-05T14:30:00+08:00",
-      "room": 4910
-    },
-    {
-      "id": 1350798,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2025-10-05T05:00:00Z",
-      "end": "2025-10-05T14:30:00+08:00",
-      "room": 4375
-    },
-    {
-      "id": 1350795,
+      "id": 1351050,
       "title": {
         "en": "Lunch Break"
       },
@@ -1631,7 +1347,7 @@
       "room": 4379
     },
     {
-      "id": 1350799,
+      "id": 1351053,
       "title": {
         "en": "Lunch Break"
       },
@@ -1640,16 +1356,16 @@
       "room": 4911
     },
     {
-      "id": 1350796,
+      "id": 1351049,
       "title": {
         "en": "Lunch Break"
       },
       "start": "2025-10-05T05:00:00Z",
       "end": "2025-10-05T14:30:00+08:00",
-      "room": 4377
+      "room": 4378
     },
     {
-      "id": 1350797,
+      "id": 1351048,
       "title": {
         "en": "Lunch Break"
       },
@@ -1658,8 +1374,35 @@
       "room": 4376
     },
     {
+      "id": 1351052,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-05T05:00:00Z",
+      "end": "2025-10-05T14:30:00+08:00",
+      "room": 4375
+    },
+    {
+      "id": 1351054,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-05T05:00:00Z",
+      "end": "2025-10-05T14:30:00+08:00",
+      "room": 4910
+    },
+    {
+      "id": 1351051,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2025-10-05T05:00:00Z",
+      "end": "2025-10-05T14:30:00+08:00",
+      "room": 4377
+    },
+    {
       "code": "ECRTL9",
-      "id": 1350802,
+      "id": 1351055,
       "title": "OSMF Board AMA",
       "abstract": "During the OpenStreetMap Foundation Board Ask Us Anything (i.e. AMA) session, we will take questions from the audience oand/or more questions that the larger community can submit before the event. We can discuss the board's past actions and our future plans.\r\n\r\nLet’s have a conversation about the Foundation and the Board and how all the parts work together. If you know nothing about what the board is doing, this is a chance to find out. Find out what the Foundation does and doesn’t do, what it can and can’t do. Find out how you can help and get involved. The Board is committed to openness and wants to engage with the community.\r\n\r\nFeel free to ask us questions also outside this specific session.",
       "speakers": [
@@ -1674,12 +1417,12 @@
       "end": "2025-10-05T15:30:00+08:00",
       "room": 4375,
       "duration": 60,
-      "updated": "2025-10-04T03:02:54.708161+00:00",
+      "updated": "2025-10-05T01:30:57.571944+00:00",
       "state": null,
       "do_not_record": null
     },
     {
-      "id": 1350803,
+      "id": 1351056,
       "title": {
         "en": "Coffee Break"
       },
@@ -1688,16 +1431,7 @@
       "room": 4379
     },
     {
-      "id": 1350807,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2025-10-05T07:30:00Z",
-      "end": "2025-10-05T16:00:00+08:00",
-      "room": 4375
-    },
-    {
-      "id": 1350805,
+      "id": 1351058,
       "title": {
         "en": "Coffee Break"
       },
@@ -1706,7 +1440,7 @@
       "room": 4377
     },
     {
-      "id": 1350804,
+      "id": 1351059,
       "title": {
         "en": "Coffee Break"
       },
@@ -1715,7 +1449,16 @@
       "room": 4378
     },
     {
-      "id": 1350806,
+      "id": 1351057,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2025-10-05T07:30:00Z",
+      "end": "2025-10-05T16:00:00+08:00",
+      "room": 4375
+    },
+    {
+      "id": 1351060,
       "title": {
         "en": "Coffee Break"
       },
@@ -1725,7 +1468,7 @@
     },
     {
       "code": "W8PJRF",
-      "id": 1350808,
+      "id": 1351061,
       "title": "OpenStreetMap Awards 2025",
       "abstract": "The [OpenStreetMap community awards](https://blog.openstreetmap.org/2025/06/07/call-for-nominees-openstreetmap-awards-2025-in-manila/) are nominated and chosen by the community. The OpenStreetMap awards is a global recognition event that celebrates contributors from all corners of the OSM project – including mappers, developers, community organizers, writers, and everyone who makes OSM great. This will be the awards ceremony.",
       "speakers": [
@@ -1737,13 +1480,13 @@
       "end": "2025-10-05T16:20:00+08:00",
       "room": 4375,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.708287+00:00",
+      "updated": "2025-10-05T01:30:57.572084+00:00",
       "state": null,
       "do_not_record": null
     },
     {
       "code": "L9M8UP",
-      "id": 1350809,
+      "id": 1351062,
       "title": "Closing",
       "abstract": "We say goodbye to this year's State of the Map conference and to Manila. You will see some impressions from the conference and we say thank you to all volunteers and to the local team of Manila. We hope that we can already announce the venue of State of the Map 2026.",
       "speakers": [
@@ -1754,7 +1497,7 @@
       "end": "2025-10-05T16:50:00+08:00",
       "room": 4375,
       "duration": 20,
-      "updated": "2025-10-04T03:02:54.708304+00:00",
+      "updated": "2025-10-05T01:30:57.572105+00:00",
       "state": null,
       "do_not_record": null
     },
@@ -1956,8 +1699,8 @@
       "do_not_record": null
     }
   ],
-  "version": "0.13.1",
-  "schedule_id": 10802,
+  "version": "0.14.0",
+  "schedule_id": 10805,
   "timezone": "Asia/Manila",
   "event_start": "2025-10-03",
   "event_end": "2025-10-05",
@@ -2413,13 +2156,6 @@
       "avatar": "https://pretalx.com/media/avatars/SXPGUB_v3RmKFy.jpg",
       "avatar_thumbnail_default": "https://pretalx.com/media/avatars/SXPGUB_v3RmKFy_thumbnail_default_TRru23f.jpg",
       "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/SXPGUB_v3RmKFy_thumbnail_tiny.jpg"
-    },
-    {
-      "code": "RUQJMW",
-      "name": "Tommy Charles",
-      "avatar": "https://pretalx.com/media/avatars/RUQJMW_aj8VYD4.jpg",
-      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/RUQJMW_aj8VYD4_thumbnail_default.jpg",
-      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/RUQJMW_aj8VYD4_thumbnail_tiny.jpg"
     },
     {
       "code": "8RD9TG",

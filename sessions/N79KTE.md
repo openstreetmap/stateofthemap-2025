@@ -13,5 +13,41 @@ recording: True
 prerecorded: False
 ---
 
-Lightning talks are short presentations (maximum 5 minutes) about a topic related to OpenStreetMap.
+## Geo Drawing
+_by Moe Anjo, Mta Kozaki, Pensoi Lnoue, Yuckei Kato_
+
+## Mapping Pet Friendly Building Resilience 
+_by Leigh Lunas_
+
+## Building Resilience Spales through Open Mapping
+_by Jannie Fleur Ornio_
+
+## OSM vs. Field Pratical Training
+_by Erick Tamba_
+
+## World best addressing system
+_Dan Jacobson_
+
+## Invitation to FOSS4Gi Hiroshima 2026
+_by S.A. Tanaka_
+
+<hr>
+
+## Geo Drawing
+_by Moe Anjo, Mta Kozaki, Pensoi Lnoue, Yuckei Kato_
+
+## Mapping Pet Friendly Building Resilience 
+_by Leigh Lunas_
+
+## Building Resilience Spales through Open Mapping
+_by Jannie Fleur Ornio_
+
+## OSM vs. Field Pratical Training
+_by Erick Tamba_
+
+## World best addressing system
+_Dan Jacobson_
+
+## Invitation to FOSS4Gi Hiroshima 2026
+_by S.A. Tanaka_
 
