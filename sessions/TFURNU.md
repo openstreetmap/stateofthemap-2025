@@ -8,7 +8,7 @@ room: "Pulag"
 length: "20"
 time: "Sunday, 11:30"
 time_iso: "2025-10-05T03:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2025/submissions/TFURNU/resources/OM_Guru_SOTM_2025_gRnTfm2.pdf" }]
 recording: True
 prerecorded: False
 ---

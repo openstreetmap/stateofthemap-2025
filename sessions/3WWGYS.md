@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Sunday, 12:30"
 time_iso: "2025-10-05T04:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://www.canva.com/design/DAG0xDSazU4/chmUX_PB0LzO-sdAl9A4uA/view?utm_content=DAG0xDSazU4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h15eb06db25" }]
 recording: True
 prerecorded: False
 ---

@@ -17,16 +17,21 @@ prerecorded: False
 _by Mark Ducusin_
 
 ## Post conference trip Mt. Pulag
-_by T. Hercig_
+_by Thomas Hercig_
 
 ## Using OSM to identify the busiest public transport stops in Manila
 _by Edneil Soriano_
 
-## Drone Tasking Manager 
-_by Sam W._
+## I'd like to show my OSM commits as 3D
+_by S.A. Tanaka_
 
 ## Vibe Coding a Web GIS Platform
-_by Amche In
+_by Arun Ganesh_
+
+https://amche.in
+
+## Way 44512235
+_by Amazing Sambale_
 
 <hr>
 
@@ -34,14 +39,19 @@ _by Amche In
 _by Mark Ducusin_
 
 ## Post conference trip Mt. Pulag
-_by T. Hercig_
+_by Thomas Hercig_
 
 ## Using OSM to identify the busiest public transport stops in Manila
 _by Edneil Soriano_
 
-## Drone Tasking Manager 
-_by Sam W._
+## I'd like to show my OSM commits as 3D
+_by S.A. Tanaka_
 
 ## Vibe Coding a Web GIS Platform
-_by Amche In
+_by Arun Ganesh_
+
+https://amche.in
+
+## Way 44512235
+_by Amazing Sambale_
 

@@ -13,5 +13,41 @@ recording: True
 prerecorded: False
 ---
 
-Lightning talks are short presentations (maximum 5 minutes) about a topic related to OpenStreetMap.
+## No Title
+_by Ariel Donic_
+
+## No Title
+_by Vic Puno_
+
+## Using OSM for transport maps
+_by Yannick Roth_
+
+## No Title
+_by Minh Nguyen_
+
+## Docker on PostGIS
+_by Takeshi Furnta_
+
+## My project using OSM
+_by Mizuki Yamaimoto_
+
+<hr>
+
+## No Title
+_by Ariel Donic_
+
+## No Title
+_by Vic Puno_
+
+## Using OSM for transport maps
+_by Yannick Roth_
+
+## No Title
+_by Minh Nguyen_
+
+## Docker on PostGIS
+_by Takeshi Furnta_
+
+## My project using OSM
+_by Mizuki Yamaimoto_
 

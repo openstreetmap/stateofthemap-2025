@@ -1136,7 +1136,7 @@
       "code": "SAWRUB",
       "id": 1350766,
       "title": "Lightning Talks III",
-      "abstract": "## Access Disparities to Evacuation Centers\r\n_by Mark Ducusin_\r\n\r\n## Post conference trip Mt. Pulag\r\n_by T. Hercig_\r\n\r\n## Using OSM to identify the busiest public transport stops in Manila\r\n_by Edneil Soriano_\r\n\r\n## Drone Tasking Manager \r\n_by Sam W._\r\n\r\n## Vibe Coding a Web GIS Platform\r\n_by Amche In",
+      "abstract": "## Access Disparities to Evacuation Centers\r\n_by Mark Ducusin_\r\n\r\n## Post conference trip Mt. Pulag\r\n_by Thomas Hercig_\r\n\r\n## Using OSM to identify the busiest public transport stops in Manila\r\n_by Edneil Soriano_\r\n\r\n## I'd like to show my OSM commits as 3D\r\n_by S.A. Tanaka_\r\n\r\n## Vibe Coding a Web GIS Platform\r\n_by Arun Ganesh_\r\n\r\nhttps://amche.in\r\n\r\n## Way 44512235\r\n_by Amazing Sambale_",
       "speakers": [
         "YNFKER"
       ],
@@ -1351,7 +1351,7 @@
       "code": "YDSFTB",
       "id": 1350777,
       "title": "Lightning Talks IV",
-      "abstract": "Lightning talks are short presentations (maximum 5 minutes) about a topic related to OpenStreetMap.",
+      "abstract": "## No Title\r\n_by Ariel Donic_\r\n\r\n## No Title\r\n_by Vic Puno_\r\n\r\n## Using OSM for transport maps\r\n_by Yannick Roth_\r\n\r\n## No Title\r\n_by Minh Nguyen_\r\n\r\n## Docker on PostGIS\r\n_by Takeshi Furnta_\r\n\r\n## My project using OSM\r\n_by Mizuki Yamaimoto_",
       "speakers": [
         "YNFKER"
       ],
