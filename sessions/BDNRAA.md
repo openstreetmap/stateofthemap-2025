@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2025-10-04T08:30:00Z"
-resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2025/submissions/BDNRAA/resources/Sotm25_Local_Firs_5LgTtCW.pdf" }]
+resources: [{ description: "Final_Slides", url: "https://pretalx.com/media/sotm2025/submissions/BDNRAA/resources/Sotm25_Local_Firs_riuNs6Z.pdf" }]
 recording: True
 prerecorded: False
 ---
