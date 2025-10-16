@@ -8,7 +8,7 @@ room: "Mayon"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2025-10-05T01:30:00Z"
-resources: [{ description: "Slide deck", url: "https://www.jidanni.org/geo/house_numbering/grids/ph/ncr/bands/slides.pdf" }]
+resources: [{ description: "Slide deck", url: "https://www.jidanni.org/geo/house_numbering/grids/ph/ncr/bands/slides.html" }]
 recording: True
 prerecorded: False
 ---
@@ -25,6 +25,7 @@ suggest one.
 
 Software used: OGR/GDAL and GNU/Linux command line tools and Viking GPS to display the KMZs
 produced.
+
 
 Full article: https://www.jidanni.org/geo/house_numbering/grids/ph/ncr/bands/high.html
 
