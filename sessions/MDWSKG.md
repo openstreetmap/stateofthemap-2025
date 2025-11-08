@@ -26,6 +26,5 @@ suggest one.
 Software used: OGR/GDAL and GNU/Linux command line tools and Viking GPS to display the KMZs
 produced.
 
-
 Full article: https://www.jidanni.org/geo/house_numbering/grids/ph/ncr/bands/high.html
 
