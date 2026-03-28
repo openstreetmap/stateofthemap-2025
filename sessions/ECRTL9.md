@@ -2,7 +2,7 @@
 layout: session
 title: "OSMF Board AMA"
 code: "ECRTL9"
-speaker_names: ['Brazil Singh', 'Laura Mugeha', 'Héctor Ochoa Ortiz', 'Roland Olbricht', 'Craig Allan']
+speaker_names: ['Roland Olbricht', 'Laura Mugeha', 'Craig Allan', 'Brazil Singh', 'Héctor Ochoa Ortiz']
 affiliations: None
 room: "Apo"
 length: "60"

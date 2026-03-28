@@ -1,4 +1,6 @@
 ---
+voc: https://media.ccc.de/v/sotm2025-74515-lightning-talks-i
+recordings: [{'size': 224, 'length': 1278, 'mime_type': 'video/webm', 'language': 'eng', 'filename': 'sotm2025-74515-eng-Lightning_Talks_I_webm-hd.webm', 'state': 'new', 'folder': 'webm-hd', 'high_quality': True, 'width': 1920, 'height': 1080, 'updated_at': '2026-03-22T17:01:06.647+01:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2025/webm-hd/sotm2025-74515-eng-Lightning_Talks_I_webm-hd.webm', 'url': 'https://api.media.ccc.de/public/recordings/96522', 'event_url': 'https://api.media.ccc.de/public/events/4389d627-a9a5-52b3-9b12-228871853f32', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2025'}, {'size': 75, 'length': 1278, 'mime_type': 'video/webm', 'language': 'eng', 'filename': 'sotm2025-74515-eng-Lightning_Talks_I_webm-sd.webm', 'state': 'new', 'folder': 'webm-sd', 'high_quality': False, 'width': 720, 'height': 576, 'updated_at': '2026-03-22T16:49:03.776+01:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2025/webm-sd/sotm2025-74515-eng-Lightning_Talks_I_webm-sd.webm', 'url': 'https://api.media.ccc.de/public/recordings/96519', 'event_url': 'https://api.media.ccc.de/public/events/4389d627-a9a5-52b3-9b12-228871853f32', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2025'}, {'size': 69, 'length': 1278, 'mime_type': 'video/mp4', 'language': 'eng', 'filename': 'sotm2025-74515-eng-Lightning_Talks_I_sd.mp4', 'state': 'new', 'folder': 'h264-sd', 'high_quality': False, 'width': 720, 'height': 576, 'updated_at': '2026-03-22T16:33:55.599+01:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2025/h264-sd/sotm2025-74515-eng-Lightning_Talks_I_sd.mp4', 'url': 'https://api.media.ccc.de/public/recordings/96518', 'event_url': 'https://api.media.ccc.de/public/events/4389d627-a9a5-52b3-9b12-228871853f32', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2025'}, {'size': 19, 'length': 1277, 'mime_type': 'audio/mpeg', 'language': 'eng', 'filename': 'sotm2025-74515-eng-Lightning_Talks_I_mp3.mp3', 'state': 'new', 'folder': 'mp3', 'high_quality': False, 'width': 0, 'height': 0, 'updated_at': '2026-03-22T16:33:50.827+01:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2025/mp3/sotm2025-74515-eng-Lightning_Talks_I_mp3.mp3', 'url': 'https://api.media.ccc.de/public/recordings/96517', 'event_url': 'https://api.media.ccc.de/public/events/4389d627-a9a5-52b3-9b12-228871853f32', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2025'}, {'size': 264, 'length': 1278, 'mime_type': 'video/mp4', 'language': 'eng', 'filename': 'sotm2025-74515-eng-Lightning_Talks_I_hd.mp4', 'state': 'new', 'folder': 'h264-hd', 'high_quality': True, 'width': 1920, 'height': 1080, 'updated_at': '2026-03-22T16:31:00.570+01:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2025/h264-hd/sotm2025-74515-eng-Lightning_Talks_I_hd.mp4', 'url': 'https://api.media.ccc.de/public/recordings/96513', 'event_url': 'https://api.media.ccc.de/public/events/4389d627-a9a5-52b3-9b12-228871853f32', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2025'}]
 layout: session
 title: "Lightning Talks I"
 code: "P3FWCW"
@@ -13,17 +15,9 @@ recording: True
 prerecorded: False
 ---
 
-## OSM Sound Demo
-_by Smallman (Taro)
+## OpenStreetMap Sound Demo
+_by Taro Matsuzawa (@smellman)_
 
 ## ArcGIS Living Atlas of the World: Open Data Content
-_by Deniz Karagulle
-
-<hr>
-
-## OSM Sound Demo
-_by Smallman (Taro)
-
-## ArcGIS Living Atlas of the World: Open Data Content
-_by Deniz Karagulle
+_by Deniz Karagulle_
 

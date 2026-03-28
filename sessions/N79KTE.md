@@ -13,41 +13,21 @@ recording: True
 prerecorded: False
 ---
 
-## Geo Drawing
-_by Moe Anjo, Mta Kozaki, Pensoi Lnoue, Yuckei Kato_
+## Building Resilience Spales through Open Mapping
+_by Jannie Fleur V. Oraño_
 
-## Mapping Pet Friendly Building Resilience 
+## Mapping pet-friendly spaces in OSM 
 _by Leigh Lunas_
 
-## Building Resilience Spales through Open Mapping
-_by Jannie Fleur Ornio_
-
-## OSM vs. Field Pratical Training
-_by Erick Tamba_
-
-## World best addressing system
-_Dan Jacobson_
-
-## Invitation to FOSS4Gi Hiroshima 2026
-_by S.A. Tanaka_
-
-<hr>
-
 ## Geo Drawing
-_by Moe Anjo, Mta Kozaki, Pensoi Lnoue, Yuckei Kato_
+_by Moe Anjo, Mia Kozaki, Rensei Inoue, Yudai Kato_
 
-## Mapping Pet Friendly Building Resilience 
-_by Leigh Lunas_
+## OSM vs. Field Practical Training
+_by Erick Tamba Mnyali_
 
-## Building Resilience Spales through Open Mapping
-_by Jannie Fleur Ornio_
-
-## OSM vs. Field Pratical Training
-_by Erick Tamba_
-
-## World best addressing system
+## World's best addressing system
 _Dan Jacobson_
 
-## Invitation to FOSS4Gi Hiroshima 2026
-_by S.A. Tanaka_
+## Invitation to FOSS4G 2026 in Hiroshima
+_by Satoshi Tanaka_
 

@@ -16,24 +16,10 @@ prerecorded: False
 ## Utilizing OSM with QGIS
 _by Ariel Dome_
 
-## Open Mapping potential in Jakarta Metropolitan: Case of Mappilary Capture  in Depok City
+## Open Mapping potential in Jakarta Metropolitan: Case Study of Mapillary Capture  in Depok City
 _by Yabes Butar Butar_
 
-## People data tracing movement  with GPS
-_by CJ Capuli_
-
-## All of five km
-_by Ewen Hill_
-
-<hr>
-
-## Utilizing OSM with QGIS
-_by Ariel Dome_
-
-## Open Mapping potential in Jakarta Metropolitan: Case of Mappilary Capture  in Depok City
-_by Yabes Butar Butar_
-
-## People data tracing movement  with GPS
+## People data tracing movement with GPS
 _by CJ Capuli_
 
 ## All of five km

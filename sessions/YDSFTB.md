@@ -13,7 +13,7 @@ recording: True
 prerecorded: False
 ---
 
-## Spatial Innovation Carigara: Applying Opensource Mapping Tools for Community Developmet
+## Spatial Innovation in Carigara: Applying Opensource Mapping Tools for Community Development
 _by Ariel Donic_
 
 ## Enhancing Passenger Ride Experience Using GrabMaps
@@ -23,19 +23,5 @@ _by Vic Puno_
 _by Yannick Roth_
 
 ## What is a stop? Mapping Public Transport Routes
-_by Minh Nguyễn_
-
-<hr>
-
-## Spatial Innovation Carigara: Applying Opensource Mapping Tools for Community Developmet
-_by Ariel Donic_
-
-## Enhancing Passenger Ride Experience Using GrabMaps
-_by Vic Puno_
-
-## From OSM Data to Transport Models
-_by Yannick Roth_
-
-## What is a stop? Mapping Public Transport Routes
-_by Minh Nguyễn_
+_by Wilhansen Li_
 

@@ -2,7 +2,7 @@
 layout: session
 title: "Beyond the Binary: Gender, Language, and Representation in Open Mapping"
 code: "LV9MRX"
-speaker_names: ['Benedicta Ohene', 'Arnalie Vicario', 'Letwin']
+speaker_names: ['Benedicta Ohene', 'Letwin', 'Arnalie Vicario']
 affiliations: None
 room: "Guiting-guiting"
 length: "60"

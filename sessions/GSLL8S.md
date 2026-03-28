@@ -2,7 +2,7 @@
 layout: session
 title: "UN Mappers: Building a Community of Mappers to Support Peace with OpenStreetMap"
 code: "GSLL8S"
-speaker_names: ['Arnalie Vicario', 'Michael Montani']
+speaker_names: ['Michael Montani', 'Arnalie Vicario']
 affiliations: None
 room: "Mayon"
 length: "20"

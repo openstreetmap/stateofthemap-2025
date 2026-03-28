@@ -19,39 +19,17 @@ _by Mark Ducusin_
 ## Post conference trip Mt. Pulag
 _by Thomas Hercig_
 
-## Using OSM to identify the busiest public transport stops in Manila
-_by Edneil Soriano_
-
-## I'd like to show my OSM commits as 3D
-_by S.A. Tanaka_
+## Using OSM to identify the busiest public transport stops in Metro Manila
+_by Edneil E. Soriano_
 
 ## Vibe Coding a Web GIS Platform
 _by Arun Ganesh_
 
 https://amche.in
 
-## Way 44512235
-_by Amazing Sambale_
-
-<hr>
-
-## Access Disparities to Evacuation Centers
-_by Mark Ducusin_
-
-## Post conference trip Mt. Pulag
-_by Thomas Hercig_
-
-## Using OSM to identify the busiest public transport stops in Manila
-_by Edneil Soriano_
-
 ## I'd like to show my OSM commits as 3D
-_by S.A. Tanaka_
+_by Satoshi Tanaka_
 
-## Vibe Coding a Web GIS Platform
-_by Arun Ganesh_
-
-https://amche.in
-
-## Way 44512235
-_by Amazing Sambale_
+## way/445712235
+_by Maning Sambale_
 
