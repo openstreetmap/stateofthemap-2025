@@ -2,7 +2,7 @@
 layout: session
 title: "The Role of Crowdsourced Damage Assessment in Disaster Response and Recovery"
 code: "YDENQX"
-speaker_names: ['Honey Fombuena', 'Bernard Heng']
+speaker_names: ['Bernard Heng', 'Honey Fombuena']
 affiliations: None
 room: "Pulag"
 length: "20"

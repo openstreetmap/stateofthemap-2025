@@ -2,7 +2,7 @@
 layout: session
 title: "Cebu Mapathon"
 code: "QJRY8D"
-speaker_names: ['Mikko Tamura', 'Maria Simeona']
+speaker_names: ['Maria Simeona', 'Mikko Tamura']
 affiliations: None
 room: "Guiting-guiting"
 length: "60"

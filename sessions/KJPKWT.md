@@ -2,7 +2,7 @@
 layout: session
 title: "ORS-Tools - Beginner-friendly Mobility Analysis with OpenStreetMap and openrouteservice in QGIS"
 code: "KJPKWT"
-speaker_names: ['Benjamin Herfort', 'Jakob Schnell', 'Julian Psotta', 'Till Frankenbach']
+speaker_names: ['Jakob Schnell', 'Till Frankenbach', 'Benjamin Herfort', 'Julian Psotta']
 affiliations: None
 room: "Online Workshops"
 length: "60"
